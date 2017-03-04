@@ -26,7 +26,7 @@
 
 ## 参考资料
 
-* 初始数据基于 [phrases-dict.js@hotoo/pinyin](https://github.com/hotoo/pinyin/blob/05f74496c34ccb32db1a0fd0b358a798a22a51e5/data/phrases-dict.js) 和 [phrases_dict.py@mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin/blob/366de0363ff1fb9a718ce668448bea59de09a4bf/pypinyin/phrases_dict.py)
+* 初始数据基于 [phrases-dict.js](https://github.com/hotoo/pinyin/blob/05f74496c34ccb32db1a0fd0b358a798a22a51e5/data/phrases-dict.js) 和 [phrases_dict.py](https://github.com/mozillazg/python-pinyin/blob/366de0363ff1fb9a718ce668448bea59de09a4bf/pypinyin/phrases_dict.py)
 * [汉典 zdic.net](http://www.zdic.net/)
 * [字海网，叶典网](http://zisea.com/)
 * [国学大师_国学网](http://www.guoxuedashi.com/)
