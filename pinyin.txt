@@ -4938,7 +4938,7 @@
 便士: biàn shì
 便壶: biàn hú
 便嬖: pián bì
-便宜: pián biàn yí
+便宜: pián yí
 便宜从事: biàn yí cóng shì
 便宜施行: biàn yí shī xíng
 便宜行事: biàn yì xíng shì
@@ -18458,7 +18458,7 @@
 所见略同: suǒ jiàn lüè tóng
 所说: suǒ shuō
 所费不赀: suǒ fèi bù zī
-所长: suǒ zhǎng cháng
+所长: suǒ zhǎng
 扁圆: biǎn yuán
 扁平足: biǎn píng zú
 扁形动物: biǎn xíng dòng wù
@@ -18677,7 +18677,7 @@
 打底: dǎ dǐ
 打底子: dǎ dǐ zi
 打开: dǎ kāi
-打开天窗说亮话: dǎ kāi tiān chuāng liàng huà
+打开天窗说亮话: dǎ kāi tiān chuāng shuō liàng huà
 打弯: dǎ wān
 打得火热: dǎ dé huǒ rè
 打总: dǎ zǒng
