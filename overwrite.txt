@@ -2,3 +2,4 @@
 # 升级版本的时候会合并回 pinyin.txt
 # 便宜: biàn yí
 # 所长: suǒ cháng
+斯事体大: sī shì tǐ dà
