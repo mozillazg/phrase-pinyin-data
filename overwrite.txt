@@ -2524,7 +2524,7 @@
 金藏云: jīn cáng yún
 乌斯藏: wū sī cáng
 藏猫猫: cáng māo māo
-藏猫儿: cáng māor
+藏猫儿: cáng māo er
 无尽藏: wú jìn cáng
 善刀而藏: shàn dāo ér cáng
 藏头护尾: cáng tóu hù wěi
@@ -6793,7 +6793,7 @@
 大饽饽: dà bō bō
 大杜鹃: dà dù juān
 大后年: dà hòu nián
-大谱儿: dà pǔr
+大谱儿: dà pǔ er
 一大堆: yī dà duī
 大团结: dà tuán jié
 大耳儿: dà ěr ér
@@ -7439,7 +7439,7 @@
 单峰驼: dān fēng tuó
 单倍体: dān bèi tǐ
 单项式: dān xiàng shì
-单个儿: dān gèr
+单个儿: dān gè er
 单晶硅: dān jīng guī
 单枪匹马: dān qiāng pǐ mǎ
 单人独马: dān rén dú mǎ
@@ -7967,7 +7967,7 @@
 会得: huì de
 得理: dé lǐ
 得佛: de fó
-得样儿: dé yàngr
+得样儿: dé yàng er
 热得快: rè de kuài
 吃得光: chī de guāng
 撑得慌: chēng de huāng
@@ -9277,7 +9277,7 @@
 天崩地塌: tiān bēng dì tā
 立足之地: lì zú zhī dì
 遮地盖天: zhē dì gài tiān
-太阳地儿: tài yáng dìr
+太阳地儿: tài yáng dì er
 掀天揭地: xiān tiān jiē dì
 天授地设: tiān shòu dì shè
 攻城略地: gōng chéng lüè dì
@@ -15409,7 +15409,7 @@
 坏胎: huài tāi
 坏料: huài liào
 败坏: bài huài
-蔫儿坏: niānr huài
+蔫儿坏: niān er huài
 不坏身: bù huài shēn
 坏分子: huài fèn zǐ
 坏坯子: huài pī zǐ
@@ -15492,7 +15492,7 @@
 会委: huì wěi
 季会: jì huì
 指会: zhǐ huì
-会儿: huìr
+会儿: huì er
 来会: lái huì
 会标: huì biāo
 检会: jiǎn huì
@@ -15942,7 +15942,7 @@
 单刀会: dān dāo huì
 现场会: xiàn chǎng huì
 小刀会: xiǎo dāo huì
-片儿会: piànr huì
+片儿会: piàn er huì
 三点会: sān diǎn huì
 维持会: wéi chí huì
 游园会: yóu yuán huì
@@ -17573,7 +17573,7 @@
 嚼蜡: jiáo là
 嚼头: jiáo tóu
 嚼用: jiáo yong
-嚼裹儿: jiáo guor
+嚼裹儿: jiáo guo er
 屠门大嚼: tú mén dà jiáo
 细嚼慢咽: xì  jiáo  màn  yàn
 嚼穿龈血: jiáo chuān yín xuè
@@ -17987,9 +17987,9 @@
 角力: jué lì
 角逐: jué zhú
 坤角儿: kūn jué ér
-豆角儿: dòu jiǎor
+豆角儿: dòu jiǎo er
 傍角儿: bàng juér
-眼犄角儿: yǎn jī jiǎor
+眼犄角儿: yǎn jī jiǎo er
 埒才角妙: liè cái jué miào
 剿说: chāo shuō
 剿袭: chāo xí
@@ -18788,7 +18788,7 @@
 肥劲: féi jìn
 来劲: lái jìn
 斗劲: dòu jìn
-药劲儿: yào jìnr
+药劲儿: yào jìn er
 一股劲: yī gǔ jìn
 一个劲: yī gè jìn
 努劲儿: nǔ jìn er
@@ -20059,7 +20059,7 @@
 嘉乐: jiā lè
 乐职: lè zhí
 周乐: zhōu lè
-乐儿: lèr
+乐儿: lè er
 乐成: lè chéng
 嬉乐: xī lè
 乐战: lè zhàn
@@ -22582,7 +22582,7 @@
 没巴鼻: méi bā bí
 没交涉: méi jiāo shè
 没来由: méi lái yóu
-没边儿: méi biānr
+没边儿: méi biān er
 没体面: méi tǐ miàn
 没了头: méi liǎo tóu
 没天理: méi tiān lǐ
@@ -22593,7 +22593,7 @@
 没正经: méi zhèng jīng
 没了收: méi liǎo shōu
 没多少: méi duō shǎo
-没词儿: méi cír
+没词儿: méi cí er
 没来头: méi lái tou
 没眼色: méi yǎn sè
 没天良: méi tiān liáng
@@ -22605,9 +22605,9 @@
 没情趣: méi qíng qù
 没戏唱: méi xì chàng
 没功夫: méi gōng fū
-没门儿: méi ménr
+没门儿: méi mén er
 没十成: méi shí chéng
-没谱儿: méi pǔr
+没谱儿: méi pǔ er
 没关系: méi guān xi
 没好气: méi hǎo qì
 没了当: méi liǎo dàng
@@ -23185,8 +23185,8 @@
 哪能: nǎ néng
 哪位: nǎ wèi
 哪怕: nǎ pà
-哪儿: nǎr
-哪会儿: nǎ huìr
+哪儿: nǎ er
+哪会儿: nǎ huì er
 哪门子: nǎ mén zi
 哪吒: né zhā
 锁呐: suǒ nà
@@ -24460,7 +24460,7 @@
 胖乎乎: pàng hū hū
 胖鼓鼓: pàng gǔ gǔ
 胖大海: pàng dà hǎi
-胖墩儿: pàng dūnr
+胖墩儿: pàng dūn er
 胖嘟嘟: pàng dū dū
 胖墩墩: pàng dūn dūn
 胖头鱼: pàng tóu yú
@@ -24478,7 +24478,7 @@
 刨头: páo tóu
 刨身: bào shēn
 刨除: páo chú
-刨根儿: páo gēnr
+刨根儿: páo gēn er
 刨祖坟: páo zǔ fén
 刨根问底: páo gēn wèn dǐ
 刨树搜根: páo shù sōu gēn
@@ -26176,7 +26176,7 @@
 卑浅: bēi qiǎn
 眼孔浅: yǎn kǒng qiǎn
 深厉浅揭: shēn lì qiǎn qì
-沙锅浅儿: shā guō qiǎnr
+沙锅浅儿: shā guō qiǎn er
 德浅行薄: dé qiǎn xíng báo
 分浅缘薄: fèn qiǎn yuán bó
 害人不浅: hài rén bù qiǎn
@@ -27641,7 +27641,7 @@
 塞擦音: sè cā yīn
 塞狗洞: sāi gǒu dòng
 塞舌尔: sài shé ěr
-加塞儿: jiā sāir
+加塞儿: jiā sāi er
 钵塞莫: bō sāi mò
 塞得港: sài dé gǎng
 优婆塞: yōu pó sāi
@@ -28239,7 +28239,7 @@
 家什: jiā shi
 通什市: tòng shí shì
 捞什子: lāo shí zǐ
-什件儿: shí jiànr
+什件儿: shí jiàn er
 什刹海: shí chà hǎi
 喀什市: kā shí shì
 塔什干: tǎ shí gàn
@@ -30388,7 +30388,7 @@
 调食: diào shí
 食实封: shí shí fēng
 食无鱼: shí wú yú
-猫儿食: māor shí
+猫儿食: māo er shí
 食蛇鼠: shí shé shǔ
 吃独食: chī dú shí
 食变星: shí biàn xīng
@@ -32955,7 +32955,7 @@
 太和汤: tài hé tāng
 酸辣汤: suān là tāng
 蛋花汤: dàn huā tāng
-片儿汤: piànr tāng
+片儿汤: piàn er tāng
 汤显祖: tāng xiǎn zǔ
 落汤鸡: luò tāng jī
 狼汤渠: láng tāng qú
@@ -38050,7 +38050,7 @@
 棘爪: jí zhǎo
 爪子: zhuǎ zi
 毒爪: dú zhǎo
-爪儿: zhuǎr
+爪儿: zhuǎ er
 奉召: fèng zhào
 召唤: zhào huàn
 宣召: xuān zhào
@@ -38655,7 +38655,7 @@
 炳着: bǐng zhe
 系着: xì zhe
 对着干: duì zhe gàn
-支着儿: zhī zhāor
+支着儿: zhī zhāo er
 着先鞭: zhe xiān biān
 意味着: yì wèi zhe
 老着脸: lǎo zhe liǎn
@@ -40192,7 +40192,7 @@
 转日回天: zhuǎn rì huí tiān
 转愁为喜: zhuǎn chóu wéi xǐ
 目不转视: mù bù zhuǎn shì
-玩儿不转: wánr bu zhuàn
+玩儿不转: wán er bu zhuàn
 转悲为喜: zhuǎn bēi wéi xǐ
 东转西转: dōng zhuǎn xī zhuǎn
 峰回路转: fēng huí lù zhuǎn
