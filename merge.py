@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import sys
 
 
 def parse(lines):
@@ -12,6 +13,17 @@ def parse(lines):
 
         hanzi, others = line.split(':', 1)
         yield hanzi.strip(), others.strip()
+
+
+def diff(overwrite_d, origin_d):
+    o_k = set(origin_d.keys())
+    v_k = set(overwrite_d.keys())
+    for k in (o_k & v_k):
+        o_v = origin_d[k]
+        v_v = overwrite_d[k]
+        if o_v != v_v:
+            print('{k} ? o_v: {o_v!r} => v_v: {v_v!r}'.format(
+                  k=k, o_v=o_v, v_v=v_v), file=sys.stderr)
 
 
 def merge(overwrite_d, origin_d):
@@ -30,7 +42,7 @@ def sort(pinyin_d):
 
 
 def output(pinyin_s):
-    print('# version: 0.3.1')
+    print('# version: 0.4.0')
     print('# source: https://github.com/mozillazg/phrase-pinyin-data')
     for hanzi, pinyin in pinyin_s:
         print('{hanzi}: {pinyin}'.format(hanzi=hanzi, pinyin=pinyin))
@@ -42,6 +54,7 @@ def main():
     with open('pinyin.txt') as fp:
         origin_d = dict(parse(fp))
 
+    diff(overwrite_d, origin_d)
     pinyin_d = merge(overwrite_d, origin_d)
     output(sort(pinyin_d))
 
