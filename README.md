@@ -27,7 +27,7 @@
 文件说明:
 
 * `overwrite.txt`: 手工纠正的拼音数据(拼音有误或者缺少某些词语的时候可以修改这个文件)
-* `pinyin.txt`: `overwrite.txt + pinyin.txt` 后的拼音数据(**程序生成，不要修改这个文件**)
+* `pinyin.txt`: `pinyin.txt + overwrite.txt` 后的拼音数据(**程序生成，不要修改这个文件**)
 
 ## 参考资料
 
