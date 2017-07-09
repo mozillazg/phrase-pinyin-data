@@ -2,3 +2,5 @@
 # 升级版本的时候会合并回 pinyin.txt
 # 示例
 # 便宜: pián yí
+还钱: huán qián
+还贷: huán dài
