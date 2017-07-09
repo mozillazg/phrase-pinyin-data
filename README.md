@@ -29,6 +29,12 @@
 * `overwrite.txt`: 手工纠正的拼音数据(拼音有误或者缺少某些词语的时候可以修改这个文件)
 * `pinyin.txt`: `pinyin.txt + overwrite.txt` 后的拼音数据(**程序生成，不要修改这个文件**)
 
+
+## 更新数据
+
+1. 修改 `overwrite.txt` 文件，加入需要纠正的数据。
+2. 执行 `make merge` 。
+
 ## 参考资料
 
 * 初始数据基于 [phrases-dict.js](https://github.com/hotoo/pinyin/blob/05f74496c34ccb32db1a0fd0b358a798a22a51e5/data/phrases-dict.js) 和 [phrases_dict.py](https://github.com/mozillazg/python-pinyin/blob/366de0363ff1fb9a718ce668448bea59de09a4bf/pypinyin/phrases_dict.py)
