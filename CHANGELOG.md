@@ -1,5 +1,9 @@
 # ChangeLog
 
+## 0.5.1 (2017-10-25)
+
+* 修正一批缺少 ā 和 dī 不对的词语(via [#7][#7])
+
 ## 0.5.0 (2017-07-09)
 
 * 增加 `还贷` 的拼音(Thanks [@zhuangh](https://github.com/zhuangh))
@@ -43,3 +47,4 @@
 [#3]: https://github.com/mozillazg/phrase-pinyin-data/pull/3
 [e6d6d27]: https://github.com/mozillazg/phrase-pinyin-data/commit/e6d6d270900fdca32ccbe9a414ea4642e537e522
 [6e7ea16]: https://github.com/mozillazg/phrase-pinyin-data/commit/6e7ea167dee0c812514f0bf9701ff5c103a566af
+[#7]: https://github.com/mozillazg/phrase-pinyin-data/pull/7
