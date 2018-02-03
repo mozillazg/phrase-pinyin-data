@@ -1,8 +1,14 @@
 # ChangeLog
 
+## 0.6.0 (2018-mm-dd)
+
+* Revert [#3](https://github.com/mozillazg/phrase-pinyin-data/pull/3) 增加的拼音数据（错误有点多）
+
+
 ## 0.5.1 (2017-10-25)
 
 * 修正一批缺少 ā 和 dī 不对的词语(via [#7][#7])
+
 
 ## 0.5.0 (2017-07-09)
 
