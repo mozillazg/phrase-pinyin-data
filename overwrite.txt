@@ -1,7 +1,9 @@
 # 新增或纠正的拼音数据
 # 升级版本的时候会合并回 pinyin.txt
 # 示例
-# 便宜: pián yí
+便宜: pián yí
+所长: suǒ zhǎng
+斯事体大: sī shì tǐ dà
 还钱: huán qián
 还贷: huán dài
 物美价廉: wù měi jià lián
