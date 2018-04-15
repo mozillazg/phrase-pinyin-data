@@ -15,23 +15,14 @@ def parse(lines):
         yield hanzi.strip(), others.strip()
 
 
-def diff(overwrite_d, origin_d):
-    o_k = set(origin_d.keys())
-    v_k = set(overwrite_d.keys())
-    for k in (o_k & v_k):
-        o_v = origin_d[k]
-        v_v = overwrite_d[k]
-        if o_v != v_v:
-            print('{k} ? o_v: {o_v!r} => v_v: {v_v!r}'.format(
-                  k=k, o_v=o_v, v_v=v_v), file=sys.stderr)
-
-
-def merge(overwrite_d, origin_d):
+def merge(pinyin_d_list):
     """
     :rtype: dict
     """
-    origin_d.update(overwrite_d)
-    return origin_d
+    final_d = {}
+    for overwrite_d in pinyin_d_list:
+        final_d.update(overwrite_d)
+    return final_d
 
 
 def sort(pinyin_d):
@@ -48,16 +39,15 @@ def output(pinyin_s):
         print('{hanzi}: {pinyin}'.format(hanzi=hanzi, pinyin=pinyin))
 
 
-def main():
-    with open('overwrite.txt') as fp:
-        overwrite_d = dict(parse(fp))
-    with open('pinyin.txt') as fp:
-        origin_d = dict(parse(fp))
+def main(files):
+    pinyin_d_list = []
+    for p in files:
+        with open(p) as fp:
+            pinyin_d_list.append(dict(parse(fp)))
 
-    diff(overwrite_d, origin_d)
-    pinyin_d = merge(overwrite_d, origin_d)
+    pinyin_d = merge(pinyin_d_list)
     output(sort(pinyin_d))
 
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv[1:])
