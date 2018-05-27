@@ -26,14 +26,12 @@
 
 文件说明:
 
-* `overwrite.txt`: 手工纠正的拼音数据(拼音有误或者缺少某些词语的时候可以修改这个文件)
-* `pinyin.txt`: `pinyin.txt + overwrite.txt` 后的拼音数据(**程序生成，不要修改这个文件**)
+* `overwrite.txt`: 手工纠正的拼音数据
+* `pinyin.txt`: `pinyin.txt + overwrite.txt` 后的拼音数据
+* `zdic_cibs.txt`: [汉典网](http://www.zdic.net/) 汉语词典拼音数据
+* `zdic_cybs.txt`: [汉典网](http://www.zdic.net/) 成语词典拼音数据
+* `large_pinyin.txt`: `zdic_cibs.txt + zdic_cybs.txt + pinyin.txt + overwrite.txt` 后的拼音数据
 
-
-## 更新数据
-
-1. 修改 `overwrite.txt` 文件，加入需要纠正的数据。
-2. 执行 `make merge` 。
 
 ## 参考资料
 

@@ -1,6 +1,71 @@
 # 新增或纠正的拼音数据
 # 升级版本的时候会合并回 pinyin.txt
 # 示例
-# 便宜: pián yí
+便宜: pián yí
+所长: suǒ zhǎng
+斯事体大: sī shì tǐ dà
 还钱: huán qián
 还贷: huán dài
+物美价廉: wù měi jià lián
+这些: zhè xiē
+为什么: wèi shén me
+乜斜: miē xié
+仔肩: zī jiān
+传风搧火: chuán fēng shān huǒ
+侦查: zhēn chá
+便人: biàn rén
+俏成俏败: xiào chéng xiào bài
+假期: jià qī
+储备: chǔ bèi
+储存: chǔ cún
+储蓄: chǔ xù
+儿媳妇儿: ér xí fù ér
+关塞: guān sài
+冒顿: mò dú
+分际: fèn jì
+利用: lì yòng
+功亏一篑: gōng kuī yī kuì
+动弹: dòng tan
+十一月: shí yī yuè
+古道热肠: gǔ dào rè cháng
+鸮鸣鼠暴: xiāo míng shǔ bào
+鸟事: niǎo sh
+鸟乱: niǎo luàn
+骰子: tóu zǐ
+驱虫剂: qū chóng jì
+超市: chāo shì
+马入华山: mǎ rù huà shān
+间不容瞚: jiān bù róng shùn
+降服: xiáng fú
+降龙: xiáng lóng
+陀螺: tuó luó
+长物: cháng wù
+遗书: yí shū
+瘦骨嶙峋: shòu gǔ lín xún
+调温: tiáo wēn
+谎言: huǎng yán
+婚龄: hūn líng
+风姿绰约: fēng zī chuò yuē
+雪耻: xuě chǐ
+露骨: lù gǔ
+雅鲁藏布江: yǎ lǔ zàng bù jiāng
+靓衣: jìng yī
+靓饰: jìng shì
+霹雷: pī léi
+钓钩: diào gōu
+醇厚: chún hòu
+迷迷糊糊: mí mi hū hū
+过屠门而大嚼: guò tú mén ér dà jué
+贞观: zhēn guàn
+贞观之治: zhēn guàn zhī zhì
+发上冲冠: fà shàng chōng guān
+发上指冠: fà shàng zhǐ guān
+发怒冲冠: fà nù chōng guān
+古道热肠: gǔ dào rè cháng
+呆板: dāi bǎn
+大雨滂沱: dà yǔ pāng tuó
+巴结: bā jie
+各有所长: gè yǒu suǒ cháng
+详情度理: xiáng qíng duó lǐ
+谦受益: qiān shòu yì
+禁脔: jìn luán

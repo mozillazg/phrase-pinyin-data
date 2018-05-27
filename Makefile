@@ -1,11 +1,12 @@
 .PHONY: help
 help:
-	@echo "merge          merge overwrite.txt"
+	@echo "merge          update pinyin.txt and large_pinyin.txt"
 	@echo "er             find r"
 
 .PHONY: merge
 merge:
-	python merge.py > new.txt && mv new.txt pinyin.txt
+	python merge.py pinyin.txt overwrite.txt > new.txt && mv new.txt pinyin.txt
+	python merge.py zdic_cibs.txt zdic_cybs.txt pinyin.txt overwrite.txt > new.txt && mv new.txt large_pinyin.txt
 
 .PHONY: er
 er:
