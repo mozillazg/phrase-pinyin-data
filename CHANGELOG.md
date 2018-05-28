@@ -1,6 +1,11 @@
 # ChangeLog
 
 
+## 未发布
+
+* 纠正 `负债累累` `经纶济世` 的拼音
+
+
 ## [0.7.0] (2018-05-27)
 
 * 新增 zdic_cibs.txt 和 zdic_cybs.txt (via [#13])
