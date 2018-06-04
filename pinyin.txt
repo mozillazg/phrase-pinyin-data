@@ -1,4 +1,4 @@
-# version: 0.7.0
+# version: 0.7.1
 # source: https://github.com/mozillazg/phrase-pinyin-data
 一丁不识: yī dīng bù shí
 一丁点儿: yī dīng diǎn er
