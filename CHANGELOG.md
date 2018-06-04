@@ -1,9 +1,9 @@
 # ChangeLog
 
 
-## 未发布
+## [0.7.1] (2018-06-04)
 
-* 纠正 `负债累累` `经纶济世` 的拼音
+* 纠正 `负债累累` `经纶济世` 的拼音 (via [#16])
 
 
 ## [0.7.0] (2018-05-27)
@@ -61,7 +61,8 @@
 
 * Initial Release
 
-[0.8.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.7.0...v0.8.0
+
+[0.7.1]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.7.0...v0.7.1
 [0.7.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.6.0...v0.7.0
 [0.6.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.5.0...v0.6.0
 [0.5.1]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.5.0...v0.5.1
@@ -84,3 +85,4 @@
 [#11]: https://github.com/mozillazg/phrase-pinyin-data/pull/11
 [#13]: https://github.com/mozillazg/phrase-pinyin-data/pull/13
 [#15]: https://github.com/mozillazg/phrase-pinyin-data/pull/15
+[#16]: https://github.com/mozillazg/phrase-pinyin-data/pull/16
