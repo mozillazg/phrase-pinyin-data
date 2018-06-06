@@ -13928,7 +13928,7 @@
 挢抂过正: jiǎo kuāng guò zhèng
 挢揉造作: jiǎo róu zào zuò
 挢枉过正: jiǎo wǎng guò zhèng
-挤手捏脚: jǐ shǒ niē jiǎo
+挤手捏脚: jǐ shǒu niē jiǎo
 挤眉弄眼: jǐ méi nòng yǎn
 挤眉溜眼: jǐ méi liū yǎn
 挥剑成河: huī jiàn chéng hé
@@ -14010,7 +14010,7 @@
 捎关打节: shāo guān dǎ jié
 捏一把汗: niē yī bǎ hàn
 捏怪排科: niē guài pái kē
-捏手捏脚: niē shǒ niē jiǎo
+捏手捏脚: niē shǒu niē jiǎo
 捏脚捏手: niē jiǎo niē shǒu
 捐弃前嫌: juān qì qián xián
 捐忿弃瑕: juān fèn qì xiá
@@ -25595,7 +25595,7 @@
 畏缩不前: wèi suō bù qián
 畏葸不前: wèi xǐ bù qián
 畏难苟安: wèi nán gǒu ān
-畏首畏尾: wèi shǒ wèi wěi
+畏首畏尾: wèi shǒu wèi wěi
 畔道离经: pàn dào lí jīng
 留得青山在不怕没柴烧: liú dé qīng shān zài bù pà méi chái shāo
 留得青山在: liú dé qīng shān zài

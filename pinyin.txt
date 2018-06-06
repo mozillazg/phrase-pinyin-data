@@ -1826,7 +1826,7 @@
 不知颠倒: bù zhī diān dǎo
 不知高下: bù zhī gāo xià
 不知高低: bù zhī gāo dī
-不破不立: bù può bù lì
+不破不立: bú pò bú lì
 不碍: bù ài
 不磷不缁: bù lín bù zī
 不祥: bù xiáng
@@ -5447,7 +5447,7 @@
 偎红倚翠: wēi hóng yǐ cuì
 偏信: piān xìn
 偏信则暗: piān xìn zé àn
-偏听偏信: piān tīng piāng xìn
+偏听偏信: piān tīng piān xìn
 偏好: piān hǎo
 偏差: piān chā
 偏裨: piān pí
@@ -16069,7 +16069,7 @@
 帘子: lián zi
 帝号: dì hào
 帝王: dì wáng
-帝王将相: dì wáng jiòn xiàng
+帝王将相: dì wáng jiàng xiàng
 帝都: dì dū
 帡天极地: jú tiān jí dì
 带刺儿: dài cì ér
@@ -17283,7 +17283,7 @@
 待续: dài xù
 待考: dài kǎo
 待聘: dài pìn
-待贾而沽: dài jiǎ ér gū
+待贾而沽: dài jià ér gū
 待遇: dài yù
 很不错: hěn bú cuò
 很毒: hěn dú
@@ -18336,7 +18336,7 @@
 成员: chéng yuán
 成团打块: chéng tuán dǎ kuài
 成家: chéng jiā
-成家立业: chéng jiā lì yiè
+成家立业: chéng jiā lì yè
 成家立计: chéng jiā lì jì
 成宿: chéng xiǔ
 成帮结队: chéng bāng jié duì
@@ -23513,8 +23513,8 @@
 枝词蔓说: zhī cí màn shuō
 枝辞蔓语: zhī cí màn yǔ
 枝附叶从: zhī fù yè cóng
-枝附叶着: zhī fù yiè zhuó
-枝附叶著: zhī fù yiè zhuó
+枝附叶着: zhī fù yè zhuó
+枝附叶著: zhī fù yè zhuó
 枝附叶连: zhī fù yè lián
 枝附影从: zhī fù yǐng cóng
 枞树: cōng shù
@@ -28234,7 +28234,7 @@
 畏缩不前: wèi suō bù qián
 畏葸不前: wèi xǐ bù qián
 畏难: wèi nán
-畏首畏尾: wèi shǒ wèi wěi
+畏首畏尾: wèi shǒu wèi wěi
 留任: liú rèn
 留传: liú chuán
 留余地: liú yú dì
@@ -34478,7 +34478,7 @@
 行板: xíng bǎn
 行栈: xíng zhàn
 行楷: xíng kǎi
-行款: xíng kuǎn
+行款: háng kuǎn
 行止: xíng zhǐ
 行步如飞: xíng bù rú fēi
 行浊言清: xíng zhuó yán qīng
@@ -34670,11 +34670,11 @@
 表里相符: biǎo lǐ xiāng fú
 表露: biǎo lù
 表面化: biǎo miàn huà
-衰乏: cuī fá
+衰乏: shuāi fá
 衰亡: shuāi wáng
 衰减: shuāi jiǎn
 衰变: shuāi biàn
-衰少: cuī shǎo
+衰少: shuāi shǎo
 衰年: shuāi nián
 衰弱: shuāi ruò
 衰当益壮: shuāi dāng yì zhuàng
@@ -35460,7 +35460,7 @@
 计行虑义: jì xíng lǜ yì
 计行言听: jì xíng yán tīng
 计过自讼: jì guò zì sòng
-计量: jì liáng
+计量: jì liàng
 订单: dìng dān
 订正: dìng zhèng
 订约: dìng yuē
@@ -35561,7 +35561,7 @@
 许配: xǔ pèi
 讹以传讹: é yǐ chuán é
 讹传: é chuán
-讹误: è wù
+讹误: é wù
 论世知人: lùn shì zhī rén
 论争: lùn zhēng
 论交: lùn jiāo
@@ -35741,9 +35741,9 @@
 诗酒风流: shī jiǔ fēng liú
 诗风: shī fēng
 诘屈: jí qū
-诘屈磝碻: jié qū bìng zhòu
+诘屈磝碻: jié qū jí qū áo qiāo
 诘屈聱牙: jié qū áo yá
-诘屈謷牙: jié qū dà yá
+诘屈謷牙: jí qū áo yá
 诘戎治兵: jié róng zhì bīng
 诘曲聱牙: jié qǔ áo yá
 诘朝: jí cháo
@@ -36668,10 +36668,10 @@
 赫兹: hè zī
 赫赫有名: hè hè yǒu míng
 赭石: zhě shí
-赭衣塞路: zhě yī sài lù
+赭衣塞路: zhě yī sè lù
 走为上着: zǒu wèi shàng zhaō
 走为上策: zǒu wéi shàng cè
-走为上计: zǒu wèi shàng jì
+走为上计: zǒu wéi shàng jì
 走亲戚: zǒu qīn qī
 走伏无地: zǒu fú wú dì
 走俏: zǒu qiào
@@ -41264,7 +41264,7 @@
 风云不测: fēng yún bù cè
 风云之志: fēng yún zhī zhì
 风云人物: fēng yún rén wù
-风云变幻: fēng yún bià huàn
+风云变幻: fēng yún biàn huàn
 风云变态: fēng yún biàn tài
 风云月露: fēng yún yuè lù
 风云突变: fēng yún tū biàn
