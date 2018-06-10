@@ -3,7 +3,7 @@
 
 ## [0.7.3] (2018-06-10)
 
-* 纠正 `一语中的`, `一语中人` 的拼音
+* 纠正 `一语中的`, `一语中人` 的拼音 (via [3b62ed3])
 
 
 ## [0.7.2] (2018-06-10)
@@ -72,6 +72,7 @@
 * Initial Release
 
 
+[0.7.3]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.7.2...v0.7.3
 [0.7.2]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.7.1...v0.7.2
 [0.7.1]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.7.0...v0.7.1
 [0.7.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.6.0...v0.7.0
@@ -98,3 +99,4 @@
 [#15]: https://github.com/mozillazg/phrase-pinyin-data/pull/15
 [#16]: https://github.com/mozillazg/phrase-pinyin-data/pull/16
 [af5d783]: https://github.com/mozillazg/phrase-pinyin-data/commit/af5d7831b0e84e4a5306e304b3b2da3268e35f17
+[3b62ed3]: https://github.com/mozillazg/phrase-pinyin-data/commit/3b62ed303f129868c7ccee4f2d5e44dcea7d30d4
