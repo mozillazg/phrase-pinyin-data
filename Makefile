@@ -15,4 +15,4 @@ er:
 
 .PHONY: check
 check:
-	! rg 'ɡ|ɑ' ; echo
+	-rg 'ɡ|ɑ'
