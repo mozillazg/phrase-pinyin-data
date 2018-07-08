@@ -1,10 +1,10 @@
 # ChangeLog
 
-## [0.7.4]
+## [0.8.0] (2018-07-08)
 
-* 纠正 `称雨道晴` 的拼音
-* 纠正部分词语中 `干` 的拼音
-* 增加 `时长` 的拼音
+* 纠正 `称雨道晴` 的拼音 (via [67412ab])
+* 纠正部分词语中 `干` 的拼音 (via [38474cb])
+* 增加 `时长` 的拼音 (via [c40b965])
 
 
 ## [0.7.3] (2018-06-10)
@@ -78,6 +78,7 @@
 * Initial Release
 
 
+[0.8.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.7.3...v0.8.0
 [0.7.3]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.7.2...v0.7.3
 [0.7.2]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.7.1...v0.7.2
 [0.7.1]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.7.0...v0.7.1
@@ -106,3 +107,6 @@
 [#16]: https://github.com/mozillazg/phrase-pinyin-data/pull/16
 [af5d783]: https://github.com/mozillazg/phrase-pinyin-data/commit/af5d7831b0e84e4a5306e304b3b2da3268e35f17
 [3b62ed3]: https://github.com/mozillazg/phrase-pinyin-data/commit/3b62ed303f129868c7ccee4f2d5e44dcea7d30d4
+[67412ab]: https://github.com/mozillazg/phrase-pinyin-data/commit/67412abbf8570ac80a41dc012f228c0864823a62
+[38474cb]: https://github.com/mozillazg/phrase-pinyin-data/commit/38474cb91dedd27b3d51b39811704f3d045837b1
+[c40b965]: https://github.com/mozillazg/phrase-pinyin-data/commit/c40b9653ea2ab066d1c0606e9e07dd4225ff2485
