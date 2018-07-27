@@ -23495,7 +23495,7 @@
 枝对叶比: zhī duì yè bǐ
 枝布叶分: zhī bù yè fēn
 枝干: zhī gàn
-枝干相持: zhī gàn xiāng xhí
+枝干相持: zhī gàn xiāng chí
 枝接: zhī jiē
 枝末生根: zhī mò shēng gēn
 枝杈: zhī chà
@@ -32016,7 +32016,7 @@
 缴销: jiǎo xiāo
 缸瓦: gāng wǎ
 缺一不可: quē yī bù kě
-缺吃少穿: quē chī xhǎo chuān
+缺吃少穿: quē chī shǎo chuān
 缺少: quē shǎo
 缺心少肺: quē xīn shǎo fèi
 缺衣少食: quē yī shǎo shí
