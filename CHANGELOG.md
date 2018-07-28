@@ -2,7 +2,7 @@
 
 ## [0.8.2] (2018-07-28)
 
-* 纠正 `有一只` 的读音
+* 纠正 `有一只` 的读音 (via [330b348])
 
 
 ## [0.8.1] (2018-07-28)
@@ -124,3 +124,4 @@
 [c40b965]: https://github.com/mozillazg/phrase-pinyin-data/commit/c40b9653ea2ab066d1c0606e9e07dd4225ff2485
 [6e3b9eb]: https://github.com/mozillazg/phrase-pinyin-data/commit/6e3b9eb805ed3e3a5955c179e752ec5e1293216f
 [ae12df98]: https://github.com/mozillazg/phrase-pinyin-data/commit/ae12df98438a508249bdf591334b6415bb5ccf8d
+[330b348]: https://github.com/mozillazg/phrase-pinyin-data/commit/330b3481ba350de07b580991a5a8b7a83aaefde9
