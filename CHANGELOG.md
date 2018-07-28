@@ -1,5 +1,11 @@
 # ChangeLog
 
+## [0.8.1] (2018-07-28)
+
+* 纠正几个 `一` 的读音 (via [6e3b9eb])
+* 修复部分拼音包含 `xh` 的问题 (via [ae12df98])
+
+
 ## [0.8.0] (2018-07-08)
 
 * 纠正 `称雨道晴` 的拼音 (via [67412ab])
@@ -78,6 +84,7 @@
 * Initial Release
 
 
+[0.8.1]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.0...v0.8.1
 [0.8.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.7.3...v0.8.0
 [0.7.3]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.7.2...v0.7.3
 [0.7.2]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.7.1...v0.7.2
@@ -110,3 +117,5 @@
 [67412ab]: https://github.com/mozillazg/phrase-pinyin-data/commit/67412abbf8570ac80a41dc012f228c0864823a62
 [38474cb]: https://github.com/mozillazg/phrase-pinyin-data/commit/38474cb91dedd27b3d51b39811704f3d045837b1
 [c40b965]: https://github.com/mozillazg/phrase-pinyin-data/commit/c40b9653ea2ab066d1c0606e9e07dd4225ff2485
+[6e3b9eb]: https://github.com/mozillazg/phrase-pinyin-data/commit/6e3b9eb805ed3e3a5955c179e752ec5e1293216f
+[ae12df98]: https://github.com/mozillazg/phrase-pinyin-data/commit/ae12df98438a508249bdf591334b6415bb5ccf8d

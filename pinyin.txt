@@ -22515,9 +22515,9 @@
 月露风云: yuè lù fēng yún
 月食: yuè shí
 月黑风高: yuè hēi fēng gāo
-有一些: yǒu yì xiē
+有一些: yǒu yī xiē
 有一利必有一弊: yǒu yī lì bì yǒu yī bì
-有一天: yǒu yì tiān
+有一天: yǒu yī tiān
 有一得一: yǒu yī dé yī
 有一手: yǒu yī shǒu
 有一搭没一搭: yǒu yī dā méi yī dā
@@ -23495,7 +23495,7 @@
 枝对叶比: zhī duì yè bǐ
 枝布叶分: zhī bù yè fēn
 枝干: zhī gàn
-枝干相持: zhī gàn xiāng xhí
+枝干相持: zhī gàn xiāng chí
 枝接: zhī jiē
 枝末生根: zhī mò shēng gēn
 枝杈: zhī chà
@@ -32016,7 +32016,7 @@
 缴销: jiǎo xiāo
 缸瓦: gāng wǎ
 缺一不可: quē yī bù kě
-缺吃少穿: quē chī xhǎo chuān
+缺吃少穿: quē chī shǎo chuān
 缺少: quē shǎo
 缺心少肺: quē xīn shǎo fèi
 缺衣少食: quē yī shǎo shí
