@@ -1,5 +1,11 @@
 # ChangeLog
 
+
+## [0.8.3]
+
+* 纠正部分 `查`、`大` 的读音
+
+
 ## [0.8.2] (2018-07-28)
 
 * 纠正 `有一只` 的读音 (via [330b348])
@@ -89,6 +95,7 @@
 * Initial Release
 
 
+[0.8.2]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.1...v0.8.2
 [0.8.1]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.0...v0.8.1
 [0.8.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.7.3...v0.8.0
 [0.7.3]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.7.2...v0.7.3
