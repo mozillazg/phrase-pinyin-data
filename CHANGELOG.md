@@ -1,7 +1,7 @@
 # ChangeLog
 
 
-## [0.8.5]
+## [0.8.5] (2018-12-26)
 
 * 纠正 `油炸`、`洗发` 的拼音
 
@@ -106,6 +106,7 @@
 * Initial Release
 
 
+[0.8.5]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.4...v0.8.5
 [0.8.4]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.3...v0.8.4
 [0.8.3]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.2...v0.8.3
 [0.8.2]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.1...v0.8.2
