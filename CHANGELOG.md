@@ -112,6 +112,7 @@
 * Initial Release
 
 
+[0.9.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.5...v0.9.0
 [0.8.5]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.4...v0.8.5
 [0.8.4]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.3...v0.8.4
 [0.8.3]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.2...v0.8.3
