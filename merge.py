@@ -36,6 +36,7 @@ def output(pinyin_s):
     print('# version: 0.8.5')
     print('# source: https://github.com/mozillazg/phrase-pinyin-data')
     for hanzi, pinyin in pinyin_s:
+        hanzi = hanzi.split('_')[0]
         print('{hanzi}: {pinyin}'.format(hanzi=hanzi, pinyin=pinyin))
 
 
@@ -43,7 +44,10 @@ def main(files):
     pinyin_d_list = []
     for p in files:
         with open(p) as fp:
-            pinyin_d_list.append(dict(parse(fp)))
+            d = {}
+            for h, p in parse(fp):
+                d.setdefault(h, p)
+            pinyin_d_list.append(d)
 
     pinyin_d = merge(pinyin_d_list)
     output(sort(pinyin_d))
