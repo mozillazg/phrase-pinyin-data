@@ -1,5 +1,18 @@
 # ChangeLog
 
+
+## [0.9.1] (2019-xx-yy)
+
+* 纠正一批词语的的拼音：
+  * `鸟事`
+  * `虮虱相吊`
+  * `别鹤离鸾`
+  * `年华垂暮`
+  * `本枝百世`
+  * `操戈同室`
+  * 部分词语中 `丢` 的拼音
+
+
 ## [0.9.0] (2019-02-23)
 
 * 新增 `腌臢: ā zā`
@@ -112,6 +125,7 @@
 * Initial Release
 
 
+[0.9.1]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.9.0...v0.9.1
 [0.9.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.5...v0.9.0
 [0.8.5]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.4...v0.8.5
 [0.8.4]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.3...v0.8.4

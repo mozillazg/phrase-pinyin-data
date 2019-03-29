@@ -29,7 +29,7 @@
 十一月: shí yī yuè
 古道热肠: gǔ dào rè cháng
 鸮鸣鼠暴: xiāo míng shǔ bào
-鸟事: niǎo sh
+鸟事: niǎo shì
 鸟乱: niǎo luàn
 骰子: tóu zǐ
 驱虫剂: qū chóng jì
@@ -135,3 +135,10 @@
 土地: tǔ dì
 领地: lǐng dì
 基地: jī dì
+虮虱相吊: jǐ shī xiāng diào
+别鹤离鸾: bié hè lí luán
+年华垂暮: nián huá chuí mù
+本枝百世: běn zhī bǎi shì
+操戈同室: cāo gē tóng shì
+丢魂丧胆: diū hún sàng dǎn
+丢三拉四: diū sān lā sì
