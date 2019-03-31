@@ -33,7 +33,7 @@ def sort(pinyin_d):
 
 
 def output(pinyin_s):
-    print('# version: 0.9.0')
+    print('# version: 0.9.1')
     print('# source: https://github.com/mozillazg/phrase-pinyin-data')
     for hanzi, pinyin in pinyin_s:
         hanzi = hanzi.split('_')[0]
