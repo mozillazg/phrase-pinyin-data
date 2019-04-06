@@ -13,6 +13,18 @@ merge: check
 er:
 	cat overwrite.txt|grep 儿|grep -v ér|grep -v er
 
+.PHONY: tone_mark
+tone_mark:
+	ls *.txt | xargs -L 1 sed -i 's/ùo/uò/g'
+	ls *.txt | xargs -L 1 sed -i 's/oǔ/ǒu/g'
+	ls *.txt | xargs -L 1 sed -i 's/ùi/uì/g'
+	ls *.txt | xargs -L 1 sed -i 's/íe/ié/g'
+	ls *.txt | xargs -L 1 sed -i 's/ùi/uì/g'
+	ls *.txt | xargs -L 1 sed -i 's/ǐe/iě/g'
+	ls *.txt | xargs -L 1 sed -i 's/aō/āo/g'
+	ls *.txt | xargs -L 1 sed -i 's/ìan/iàn/g'
+	ls *.txt | xargs -L 1 sed -i 's/īan/iān/g'
+
 .PHONY: check
-check:
+check: tone_mark
 	-rg 'ɡ|ɑ'
