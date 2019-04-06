@@ -1,6 +1,11 @@
 # ChangeLog
 
 
+## [0.9.2] (2019-04-06)
+
+* 修复部分词语的拼音声调标错了位置的问题
+
+
 ## [0.9.1] (2019-03-31)
 
 * 纠正一批词语的的拼音：
@@ -125,6 +130,7 @@
 * Initial Release
 
 
+[0.9.2]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.9.1...v0.9.2
 [0.9.1]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.9.0...v0.9.1
 [0.9.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.5...v0.9.0
 [0.8.5]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.4...v0.8.5

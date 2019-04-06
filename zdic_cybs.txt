@@ -6955,7 +6955,7 @@
 又当别论: yòu dāng bié lùn
 又生一秦: yòu shēng yī qín
 又红又专: yòu hóng yòu zhuān
-及宾有鱼: jí bīn yoǔ yú
+及宾有鱼: jí bīn yǒu yú
 及时行乐: jí shí xíng lè
 及溺呼船: jí nì hū chuán
 及瓜而代: jí guā ér dài
@@ -9351,7 +9351,7 @@
 坐上琴心: zuò shàng qín xīn
 坐不垂堂: zuò bù chuí táng
 坐不安席: zuò bù ān xí
-坐不窥堂: zùo bù kuī táng
+坐不窥堂: zuò bù kuī táng
 坐不重席: zuò bù chóng xí
 坐于涂炭: zuò yú tú tàn
 坐井窥天: zuò jǐng kuī tiān
@@ -9382,7 +9382,7 @@
 坐树不言: zuò shù bù yán
 坐树无言: zuò shù wú yán
 坐立不安: zuò lì bù ān
-坐筹帷幄: zùo chóu wéi wò
+坐筹帷幄: zuò chóu wéi wò
 坐而待弊: zuò ér dài bì
 坐而待旦: zuò ér dài dàn
 坐而待毙: zuò ér dài bì
@@ -10216,7 +10216,7 @@
 奇耻大辱: qí chǐ dà rǔ
 奇花异卉: qí huā yì huì
 奇花异草: qí huā yì cǎo
-奇葩异卉: qí pā yì hùi
+奇葩异卉: qí pā yì huì
 奇装异服: qí zhuāng yì fú
 奇谈怪论: qí tán guài lùn
 奇货可居: qí huò kě jū
@@ -10860,7 +10860,7 @@
 安闲自在: ān xián zì zài
 安闲自得: ān xián zì dé
 安魂定魄: ān hún dìng pò
-宋才潘面: sòng cái pān mìan
+宋才潘面: sòng cái pān miàn
 宋斤鲁削: sòng jīn lǔ xuē
 宋玉东墙: sòng yù dōng qiáng
 宋画吴冶: sòng huà wú yě
@@ -11693,7 +11693,7 @@
 岳峙渊渟: yuè zhì yuān tíng
 岳镇渊渟: yuè zhèn yuān tīng
 岸然道貌: àn rán dào mào
-岸谷之变: àn gǔ zhī bìan
+岸谷之变: àn gǔ zhī biàn
 岿然不动: kuī rán bù dòng
 岿然独存: kuī rán dú cún
 峣峣易缺: yáo yáo yì quē
@@ -15585,7 +15585,7 @@
 渺渺茫茫: miǎo miǎo máng máng
 湖光山色: hú guāng shān sè
 湛恩汪濊: zhàn ēn wāng hún
-湛湛青天: zhàn zhàn qīng tīan
+湛湛青天: zhàn zhàn qīng tiān
 湮没无闻: yān mò wú wén
 湿肉伴干柴: shī ròu bàn gān chái
 溃不成军: kuì bù chéng jūn
@@ -20639,7 +20639,7 @@
 晕晕沉沉: yūn yūn chén chén
 晖光日新: huī guāng rì xīn
 晚生后学: wǎn shēng hòu xué
-晚节不保: wǎn jíe bù bǎo
+晚节不保: wǎn jié bù bǎo
 晚节不终: wǎn jié bù zhōng
 晚节黄花: wǎn jié huáng huā
 晚食当肉: wǎn shí dàng ròu
@@ -21633,7 +21633,7 @@
 林籁泉韵: lín lài quán yùn
 枘凿冰炭: ruì záo bīng tàn
 枘凿方圆: ruì záo fāng yuán
-枘圆凿方: rùi yuán záo fāng
+枘圆凿方: ruì yuán záo fāng
 枚速马工: mǎ gōng méi sù
 果不其然: guǒ bù qí rán
 果于自信: guǒ yú zì xìn
@@ -23591,7 +23591,7 @@
 瓮牖桑枢: wèng yǒu sāng shū
 瓮牖绳枢: wèng yǒu shéng shū
 瓮里酰鸡: wèng lǐ xiān jī
-瓶坠簪折: píng zhùi zān zhé
+瓶坠簪折: píng zhuì zān zhé
 瓶沈簪折: píng shěn zān shé
 瓶沉簪折: píng chén zān zhé
 瓶罄罍耻: píng qìng léi chǐ
@@ -27534,7 +27534,7 @@
 童男童女: tóng nán tóng nǚ
 童颜鹤发: tóng yán hè fà
 竦魂骇目: sǒng hún hài mù
-竭力虔心: jíe lì qián xīn
+竭力虔心: jié lì qián xīn
 竭尽全力: jié jìn quán lì
 竭尽心力: jié jìn xīn lì
 竭忠尽智: jié zhōng jìn zhì
@@ -29574,7 +29574,7 @@
 融液贯通: róng yè guàn tōng
 融释贯通: róng shì guàn tōng
 螓首蛾眉: qín shǒu ér méi
-螫手解腕: shì shǒu jǐe wǎn
+螫手解腕: shì shǒu jiě wǎn
 螭盘虎踞: chī pán hǔ jù
 螭鬽魍魉: chī mèi wǎng liǎng
 螭魅罔两: chī mèi wǎng liǎng
@@ -30515,7 +30515,7 @@
 赫赫魏魏: hè hè wèi wèi
 赭衣塞路: zhě yī sàī lù
 走丸逆坂: zǒu wán nì bǎn
-走为上着: zǒu wèi shàng zhaō
+走为上着: zǒu wèi shàng zhāo
 走伏无地: zǒu fú wú dì
 走南闯北: zǒu nán chuǎng běi
 走壁飞檐: zǒu bì fēi yán
@@ -30789,7 +30789,7 @@
 踽踽独行: jǔ jǔ dú xíng
 蹀躞不下: dié xiè bù xià
 蹄闲三寻: tí xián sān xún
-蹄间三寻: tí jìan sān xún
+蹄间三寻: tí jiàn sān xún
 蹇之匪躬: jiǎn zhī fěi gōng
 蹇人上天: jiǎn rén shàng tiān
 蹇人升天: jiǎn rén shēng tiān
@@ -32054,7 +32054,7 @@
 鞭不及腹: biān bù jí fù
 鞭丝帽影: biān sī mào yǐng
 鞭擗向里: biān bì xiàng lǐ
-鞭擗进里: bīan pì jìn lǐ
+鞭擗进里: biān pì jìn lǐ
 鞭约近里: biān yuē jīn lǐ
 鞭辟入里: biān pì rù lǐ
 鞭辟向里: biān bì xiàng lǐ
