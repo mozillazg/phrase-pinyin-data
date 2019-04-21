@@ -30,7 +30,8 @@
 * `pinyin.txt`: `pinyin.txt + overwrite.txt` 后的拼音数据
 * `zdic_cibs.txt`: [汉典网](http://www.zdic.net/) 汉语词典拼音数据
 * `zdic_cybs.txt`: [汉典网](http://www.zdic.net/) 成语词典拼音数据
-* `large_pinyin.txt`: `zdic_cibs.txt + zdic_cybs.txt + pinyin.txt + overwrite.txt` 后的拼音数据
+* `cedict_ts.u8.converted.txt`: [cc-cedict.org](https://cc-cedict.org/) 拼音数据
+* `large_pinyin.txt`: `zdic_cibs.txt + zdic_cybs.txt + cedict_ts.u8.converted.txt + pinyin.txt + overwrite.txt` 后的拼音数据
 
 
 ## 参考资料
