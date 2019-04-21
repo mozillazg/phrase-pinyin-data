@@ -3,11 +3,13 @@ help:
 	@echo "merge          update pinyin.txt and large_pinyin.txt"
 	@echo "er             find r"
 	@echo "check          check unexpected char"
+	@echo "cedict_get     get latest cedict data"
+	@echo "cedict         parse latest cedict data"
 
 .PHONY: merge
 merge: check
 	python merge.py pinyin.txt overwrite.txt > new.txt && mv new.txt pinyin.txt
-	python merge.py zdic_cibs.txt zdic_cybs.txt pinyin.txt overwrite.txt > new.txt && mv new.txt large_pinyin.txt
+	python merge.py zdic_cibs.txt zdic_cybs.txt cedict_ts.u8.converted.txt pinyin.txt overwrite.txt > new.txt && mv new.txt large_pinyin.txt
 
 .PHONY: er
 er:
@@ -28,3 +30,13 @@ tone_mark:
 .PHONY: check
 check: tone_mark
 	-rg 'ɡ|ɑ'
+
+.PHONY: cedict_get
+cedict_get:
+	python -m pip install -U -r requirements_dev.txt
+	python get_latest_cc_cedict.py
+
+.PHONY: cedict
+cedict:
+	python -m pip install -U -r requirements_dev.txt
+	python parse_latest_cc_cedict.py
