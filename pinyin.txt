@@ -3688,7 +3688,7 @@
 人物肖像: rén wù xiào xiàng
 人琴两亡: rén qín liǎng wáng
 人琴俱亡: rén qín jù wáng
-人生何处不相逢: rén shēng hé chù bù xiāng f
+人生何处不相逢: rén shēng hé chù bù xiāng féng
 人生如朝露: rén shēng rú zhāo lù
 人生朝露: rén shēng cháo lù
 人生自古谁无死: rén shēng zì gǔ shéi wú sǐ
@@ -12100,7 +12100,7 @@
 埋设: mái shè
 埋轮破柱: mái lún pò zhù
 埋首: mái shǒu
-城北徐公: chéng běi xǘ gōng
+城北徐公: chéng běi xú gōng
 城区: chéng qū
 城垛: chéng duǒ
 城堡: chéng bǎo
@@ -41707,7 +41707,7 @@
 食马留肝: shí mǎ liú gān
 食鱼遇鲭: shí yú yù qīng
 餐云卧石: cān yún wò shí
-餐松啖柏: cān sōng dàn biǎ
+餐松啖柏: cān sōng dàn bǎi
 餐葩饮露: cān pā yǐn lù
 餐车: cān chē
 餐霞吸露: cān xiá xī lù
