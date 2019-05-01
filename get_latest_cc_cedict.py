@@ -4,6 +4,8 @@ import os
 import io
 import shutil
 import codecs
+import zipfile
+
 import requests
 
 ROOT = os.path.dirname(os.path.realpath(__file__))

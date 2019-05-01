@@ -3198,6 +3198,7 @@
 丹巴: dān bā
 丹巴县: dān bā xiàn
 丹布朗: dān bù lǎng
+丹彩: dān cǎi
 丹徒: dān tú
 丹徒区: dān tú qū
 丹心: dān xīn
@@ -16972,6 +16973,7 @@
 合集: hé jí
 合音: hé yīn
 合页: hé yè
+合体: hé tǐ
 合体字: hé tǐ zì
 合龙: hé lóng
 吉之岛: jí zhī dǎo
@@ -17572,6 +17574,7 @@
 否决票: fǒu jué piào
 否认: fǒu rèn
 吧主: bā zhǔ
+吧务: bā wù
 吧台: bā tái
 吧唧: bā jī
 吧唧: bā ji
@@ -31100,6 +31103,7 @@
 巴氏杀菌: bā shì shā jūn
 巴氏试验: bā shì shì yàn
 巴洛克: bā luò kè
+巴乌: bā wū
 巴尔克嫩德: bā ěr kè nèn dé
 巴尔喀什湖: bā ěr kā shí hú
 巴尔多禄茂: bā ěr duō lù mào
@@ -35387,6 +35391,7 @@
 息县: xī xiàn
 息肉: xī ròu
 息肩: xī jiān
+恰亚诺夫: qià yà nuò fū
 恰似: qià sì
 恰到好处: qià dào hǎo chù
 恰合: qià hé
@@ -36608,6 +36613,7 @@
 懒骨头: lǎn gǔ tou
 懒鬼: lǎn guǐ
 怀仁: huái rén
+怀仁堂: huái rén táng
 怀仁县: huái rén xiàn
 怀来: huái lái
 怀来县: huái lái xiàn
@@ -39036,6 +39042,7 @@
 拖曳伞: tuō yè sǎn
 拖曳机: tuō yè jī
 拖欠: tuō qiàn
+拖欧: tuō ōu
 拖沓: tuō tà
 拖油瓶: tuō yóu píng
 拖泥带水: tuō ní dài shuǐ
@@ -50395,6 +50402,7 @@
 权利声明: quán lì shēng míng
 权利要求: quán lì yāo qiú
 权力: quán lì
+权力的游戏: quán lì de yóu xì
 权力纷争: quán lì fēn zhēng
 权力斗争: quán lì dòu zhēng
 权势: quán shì
@@ -50419,6 +50427,7 @@
 权变理论: quán biàn lǐ lùn
 权贵: quán guì
 权舆: quán yú
+权游: quán yóu
 权重: quán zhòng
 权钥: quán yào
 权限: quán xiàn
@@ -53248,6 +53257,7 @@
 没关系: méi guān xi
 没电: méi diàn
 没头没脸: méi tóu méi liǎn
+没头苍蝇: méi tóu cāng ying
 没齿不忘: mò chǐ bù wàng
 没齿难忘: mò chǐ nán wàng
 冲刷: chōng shuā
@@ -58975,6 +58985,7 @@
 无非: wú fēi
 无须: wú xū
 无颌: wú hé
+无头苍蝇: wú tóu cāng ying
 无题: wú tí
 无颜见江东父老: wú yán jiàn jiāng dōng fù lǎo
 无风三尺浪: wú fēng sān chǐ làng
@@ -70087,6 +70098,7 @@
 精神疗法: jīng shén liáo fǎ
 精神百倍: jīng shén bǎi bèi
 精神科: jīng shén kē
+精神科医生: jīng shén kē yī shēng
 精神药物: jīng shén yào wù
 精神衰弱: jīng shén shuāi ruò
 精神训话: jīng shén xùn huà
@@ -72933,6 +72945,7 @@
 罗彻斯特: luó chè sī tè
 罗必达法则: luó bì dá fǎ zé
 罗志祥: luó zhì xiáng
+罗恩: luó ēn
 罗懋登: luó mào dēng
 罗托鲁瓦: luó tuō lǔ wǎ
 罗拉: luó lā
@@ -73193,6 +73206,7 @@
 美工刀: měi gōng dāo
 美差: měi chāi
 美差事: měi chāi shì
+美巴: měi bā
 美帝: měi dì
 美式: měi shì
 美式橄榄球: měi shì gǎn lǎn qiú
@@ -77726,6 +77740,7 @@
 若然: ruò rán
 若尔盖: ruò ěr gài
 若尔盖县: ruò ěr gài xiàn
+若瑟: ruò sè
 若羌: ruò qiāng
 若羌县: ruò qiāng xiàn
 若翰: ruò hàn
@@ -83272,6 +83287,7 @@
 评书: píng shū
 评比: píng bǐ
 评为: píng wéi
+评奖: píng jiǎng
 评理: píng lǐ
 评章: píng zhāng
 评级: píng jí
@@ -84946,6 +84962,7 @@
 猫哭耗子: māo kū hào zi
 猫屎咖啡: māo shǐ kā fēi
 猫抓病: māo zhuā bìng
+猫步: māo bù
 猫沙: māo shā
 猫熊: māo xióng
 猫王: māo wáng
@@ -90725,6 +90742,7 @@
 邓拓: dèng tuò
 邓析: dèng xī
 邓颖超: dèng yǐng chāo
+邓紫棋: dèng zǐ qí
 邓迪: dèng dí
 邓通: dèng tōng
 邓丽君: dèng lì jūn
@@ -92014,6 +92032,7 @@
 铀浓缩: yóu nóng suō
 钾盐: jiǎ yán
 钜子: jù zǐ
+钜惠: jù huì
 钜款: jù kuǎn
 钜防: jù fáng
 钜额: jù é
@@ -98971,6 +98990,7 @@
 饿莩: è piǎo
 饿莩载道: è piǎo zài dào
 饿莩遍野: è piǎo biàn yě
+饿虎扑食: è hǔ pū shí
 饿鬼: è guǐ
 哺子: bù zi
 馂馅: jùn xiàn

@@ -9,7 +9,7 @@ help:
 .PHONY: merge
 merge: check
 	python merge.py pinyin.txt overwrite.txt > new.txt && mv new.txt pinyin.txt
-	python merge.py zdic_cibs.txt zdic_cybs.txt cedict_ts.u8.converted.txt pinyin.txt overwrite.txt > new.txt && mv new.txt large_pinyin.txt
+	python merge.py zdic_cibs.txt zdic_cybs.txt cc_cedict.txt pinyin.txt overwrite.txt > new.txt && mv new.txt large_pinyin.txt
 
 .PHONY: er
 er:
