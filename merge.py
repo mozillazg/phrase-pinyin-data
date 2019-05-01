@@ -43,8 +43,8 @@ def output(pinyin_s):
 
 def main(files):
     pinyin_d_list = []
-    for p in files:
-        with codecs.open(p, 'r', 'utf-8-sig') as fp:
+    for name in files:
+        with codecs.open(name, 'r', 'utf-8-sig') as fp:
             d = {}
             for h, p in parse(fp):
                 d.setdefault(h, p)
