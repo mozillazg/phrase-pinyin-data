@@ -1,6 +1,12 @@
 # ChangeLog
 
 
+## [0.10.0] (2019-05-10)
+
+* 新增 `cc_cedict.txt`: [cc-cedict.org](https://cc-cedict.org/) 拼音数据。Thanks [@hanabi1224]
+* 纠正一些词语的拼音
+
+
 ## [0.9.2] (2019-04-06)
 
 * 修复部分词语的拼音声调标错了位置的问题
@@ -130,6 +136,7 @@
 * Initial Release
 
 
+[0.10.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.9.2...v0.10.0
 [0.9.2]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.9.1...v0.9.2
 [0.9.1]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.9.0...v0.9.1
 [0.9.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.8.5...v0.9.0
@@ -174,3 +181,4 @@
 [ae12df98]: https://github.com/mozillazg/phrase-pinyin-data/commit/ae12df98438a508249bdf591334b6415bb5ccf8d
 [330b348]: https://github.com/mozillazg/phrase-pinyin-data/commit/330b3481ba350de07b580991a5a8b7a83aaefde9
 [ee1ded4]: https://github.com/mozillazg/phrase-pinyin-data/commit/ee1ded4938624ac4ce3dc7991ab370e09dbd745c
+[@hanabi1224]: https://github.com/hanabi1224

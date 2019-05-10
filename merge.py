@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import sys
+import codecs
 
 
 def parse(lines):
@@ -42,8 +43,8 @@ def output(pinyin_s):
 
 def main(files):
     pinyin_d_list = []
-    for p in files:
-        with open(p) as fp:
+    for name in files:
+        with codecs.open(name, 'r', 'utf-8-sig') as fp:
             d = {}
             for h, p in parse(fp):
                 d.setdefault(h, p)

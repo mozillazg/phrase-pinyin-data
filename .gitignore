@@ -88,3 +88,5 @@ ENV/
 # Rope project settings
 .ropeproject
 new.txt
+cc-cedict.zip
+cedict_ts.u8
