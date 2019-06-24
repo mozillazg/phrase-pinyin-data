@@ -10352,7 +10352,7 @@
 同温层: tóng wēn céng
 同源: tóng yuán
 同源共流: tóng yuán gòng liú
-同源异派: tóng yuán yì pai
+同源异派: tóng yuán yì pài
 同源异流: tóng yuán yì liú
 同然一辞: tóng rán yī cí
 同犯: tóng fàn
@@ -11096,8 +11096,8 @@
 哪里: nǎ lǐ
 哪里都: nǎ li dōu
 哪门子: nǎ mén zǐ
-哭丧: kū sang
-哭丧棒: kū sang bàng
+哭丧: kū sāng
+哭丧棒: kū sāng bàng
 哭丧着脸: kū sāng zhe liǎn
 哭天喊地: kū tiān hǎn dì
 哭天抢地: kū tiān qiāng dì
@@ -14925,7 +14925,7 @@
 宽洪海量: kuān hóng hǎi liàng
 宽猛并济: kuān měng bìng jì
 宽猛相济: kuān měng xiāng jì
-宽绰: kuān chuo
+宽绰: kuān chuò
 宽解: kuān jiě
 宽豁大度: kuān huō dà dù
 宾从: bīn cóng
