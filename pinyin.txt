@@ -2266,6 +2266,7 @@
 东流西上: dōng liú xī shàng
 东流西落: dōng liú xī luò
 东涂西抹: dōng tú xī mǒ
+东渐于海: dōng jiān yú hǎi
 东猜西揣: dōng cāi xī chuāi
 东猜西疑: dōng cāi xī yí
 东窗事发: dōng chuāng shì fā
@@ -7881,7 +7882,7 @@
 动员令: dòng yuán lìng
 动地惊天: dòng dì jīng tiān
 动如参商: dòng rú cān shāng
-动弹: dòng tan
+动弹: dòng tán
 动手术: dòng shǒu shù
 动物纤维: dòng wù xiān wéi
 动画影片: dòng huà yǐng piān
@@ -12491,6 +12492,7 @@
 夜场: yè chǎng
 夜大: yè dà
 夜大学: yè dà xué
+夜如何其: yè rú hé jī
 夜尿症: yè niào zhèng
 夜总会: yè zǒng huì
 夜景: yè jǐng
@@ -16015,7 +16017,7 @@
 巴山越岭: bā shān yuè lǐng
 巴巴结结: bā bā jiē jiē
 巴拉圭: bā lā guī
-巴结: bā jie
+巴结: bā jié
 巴高望上: bā gāo wàng shàng
 巴高枝儿: bā gāo zhī ér
 巴黎和会: bā lí hé huì
@@ -17296,7 +17298,7 @@
 待续: dài xù
 待考: dài kǎo
 待聘: dài pìn
-待贾而沽: dài jià ér gū
+待贾而沽: dài gǔ ér gū
 待遇: dài yù
 很不错: hěn bú cuò
 很毒: hěn dú
@@ -19245,6 +19247,7 @@
 抢购: qiǎng gòu
 抢运: qiǎng yùn
 抢险: qiǎng xiǎn
+抢风: qiāng fēng
 护从: hù cóng
 护士长: hù shì zhǎng
 护校: hù xiào
@@ -20409,6 +20412,7 @@
 搭载: dā zài
 搴旗取将: qiān qí qǔ jiàng
 搴旗斩将: qiān qí zhǎn jiàng
+搶水: qiāng shuǐ
 携云握雨: xié yún wò yǔ
 携家带口: xié jiā dài kǒu
 携男挈女: xié nán qiè nǚ
@@ -26337,7 +26341,12 @@
 渎职: dú zhí
 渎职罪: dú zhí zuì
 渐不可长: jiàn bù kě zhǎng
+渐仁摩义: jiān rén mó yì
+渐仁摩谊: jiān rén mó yì
 渐入佳境: jiàn rù jiā jìng
+渐染: jiān rǎn
+渐洳: jiān rù
+渐渍: jiān zì
 渐至佳境: jiàn zhì jiā jìng
 渑池: miǎn chí
 渑池之功: miǎn chí zhī gōng
@@ -35425,6 +35434,7 @@
 誓死不渝: shì sǐ bù yú
 誓死不贰: shì sǐ bù èr
 誓约: shì yuē
+謦欬: qǐng kài
 謷牙诘屈: áo yá jí qū
 警卫员: jǐng wèi yuán
 警句: jǐng jù
@@ -38098,7 +38108,7 @@
 迷而知反: mí ér zhī fǎn
 迷而知返: mí ér zhī fǎn
 迷蒙: mí méng
-迷迷糊糊: mí mi hū hū
+迷迷糊糊: mí mí hū hū
 迷途知反: mí tú zhī fǎn
 迷途知返: mí tú zhī fǎn
 迷魂汤: mí hún tāng
@@ -41067,6 +41077,7 @@
 鞭长不及马腹: biān cháng bù jí mǎ fù
 鞭长莫及: biān cháng mò jí
 鞭长驾远: biān cháng jià yuǎn
+鞭鞘: biān shāo
 韦裤布被: wéi kù bù bèi
 韧劲: rèn jìn
 韩寿分香: hán shòu fēn xiāng

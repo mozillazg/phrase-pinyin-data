@@ -33,6 +33,11 @@
 * `cc_cedict.txt`: [cc-cedict.org](https://cc-cedict.org/) 拼音数据
 * `large_pinyin.txt`: `zdic_cibs.txt + zdic_cybs.txt + cc_cedict.txt + pinyin.txt + overwrite.txt` 后的拼音数据
 
+## 修改数据
+
+* 修改 `pinyin.txt` 或 `overwrite.txt` 都可以了
+* 执行 `make merge` 命令可以按照合并规则生成最新的 `pinyin.txt`
+
 
 ## 参考资料
 
@@ -41,6 +46,7 @@
 * [字海网，叶典网](http://zisea.com/)
 * [国学大师_国学网](http://www.guoxuedashi.com/)
 * [CC-CEDICT download - MDBG English to Chinese dictionary](http://www.mdbg.net/chindict/chindict.php?page=cc-cedict)
+* [漢語大詞典](http://www.ivantsoi.com/hydcd/search.html)
 
 
 ## 相关项目
