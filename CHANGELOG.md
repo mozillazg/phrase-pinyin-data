@@ -1,8 +1,14 @@
 # ChangeLog
 
+## [0.10.5] (2020-11-22)
+
+* 增加 `还君明珠` 的拼音。
+
+
 ## [0.10.4] (2020-10-08)
 
 * 纠正一些词语的拼音。
+
 
 ## [0.10.3] (2020-07-05)
 
@@ -204,3 +210,4 @@
 [330b348]: https://github.com/mozillazg/phrase-pinyin-data/commit/330b3481ba350de07b580991a5a8b7a83aaefde9
 [ee1ded4]: https://github.com/mozillazg/phrase-pinyin-data/commit/ee1ded4938624ac4ce3dc7991ab370e09dbd745c
 [@hanabi1224]: https://github.com/hanabi1224
+[0.10.5]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.10.4...v0.10.5
