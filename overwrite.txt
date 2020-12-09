@@ -5,3 +5,7 @@
 朝阳: zhāo yáng
 朝阳_2: cháo yáng
 还君明珠: huán jūn míng zhū
+
+少东家: shào dōng jiā
+少儿: shào ér
+少先队: shào xiān duì
