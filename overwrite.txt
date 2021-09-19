@@ -1,7 +1,13 @@
 # 新增或纠正的拼音数据
 # 升级版本的时候会合并回 pinyin.txt
 # 示例
+地藏: dì zàng #包括一切 地藏xxx ，比如地藏寺、地藏王、地藏菩萨等等
 斯事体大: sī shì tǐ dà
 朝阳: zhāo yáng
 朝阳_2: cháo yáng
 还君明珠: huán jūn míng zhū
+少东家: shào dōng jiā
+少儿: shào ér
+少先队: shào xiān duì
+那些: nà xiē
+那些_2: nèi xiē
