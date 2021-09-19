@@ -11891,6 +11891,7 @@
 地老虎: dì lǎo hǔ
 地脉: dì mài
 地脚: dì jiǎo
+地藏: dì zàng #包括一切 地藏xxx ，比如地藏寺、地藏王、地藏菩萨等等
 地衣: dì yī
 地表: dì biǎo
 地表水: dì biǎo shuǐ
@@ -15378,9 +15379,9 @@
 少不得: shào bù dé
 少不更事: shào bù gēng shì
 少不经事: shào bù jīng shì
-少东家: shǎo dōng jiā
-少儿: shǎo ér
-少先队: shǎo xiān duì
+少东家: shào dōng jiā
+少儿: shào ér
+少先队: shào xiān duì
 少刻: shǎo kè
 少吃俭用: shǎo chī jiǎn yòng
 少商: shǎo shāng
@@ -38706,6 +38707,7 @@
 那么多: nà me duō
 那么点儿: nà me diǎn er
 那么着: nà me zhāo
+那些: nà xiē
 那些: nèi xiē
 那会儿: nà huì er
 那儿: nà ér
