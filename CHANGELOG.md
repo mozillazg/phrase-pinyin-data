@@ -1,5 +1,11 @@
 # ChangeLog
 
+## [0.11.0] (2021-09-19)
+
+* 生成最新版 cc_cedict.txt
+* 更新部分词语的拼音
+
+
 ## [0.10.5] (2020-11-22)
 
 * 增加 `还君明珠` 的拼音。
@@ -211,3 +217,4 @@
 [ee1ded4]: https://github.com/mozillazg/phrase-pinyin-data/commit/ee1ded4938624ac4ce3dc7991ab370e09dbd745c
 [@hanabi1224]: https://github.com/hanabi1224
 [0.10.5]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.10.4...v0.10.5
+[0.11.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.10.5...v0.11.0
