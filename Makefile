@@ -33,10 +33,10 @@ check: tone_mark
 
 .PHONY: cedict_get
 cedict_get:
-	python -m pip install -U -r requirements_dev.txt
+	# python -m pip install -U -r requirements_dev.txt
 	python get_latest_cc_cedict.py
 
 .PHONY: cedict
-cedict:
-	python -m pip install -U -r requirements_dev.txt
+cedict: cedict_get
+	# python -m pip install -U -r requirements_dev.txt
 	python parse_latest_cc_cedict.py
