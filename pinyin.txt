@@ -11519,6 +11519,11 @@
 告语: gào yǔ
 呐喊: nà hǎn
 呐喊助威: nà hǎn zhù wēi
+呒不: wǔ bù
+呒啥: wǔ shá
+呒没: wǔ méi
+呒淘成: wǔ táo chéng
+呒虾米输入法: wǔ xiā mǐ shū rù fǎ
 呓语: yì yǔ
 呕吐: ǒu tù
 呕哑: ōu yā
@@ -11950,7 +11955,10 @@
 唐临晋帖: táng lín jìn tiē
 唐古拉山: táng gǔ lā shān
 唐宋八大家: táng sòng bā dà jiā
-唔使: ńg shǐ
+唔使: wú shǐ
+唔哚: wú duǒ
+唔哩: wú lǐ
+唔笃: wú dǔ
 唛头: mà tóu
 唠叨: láo dāo
 唠唠: lào lào
