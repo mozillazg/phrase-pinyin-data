@@ -3133,6 +3133,7 @@
 九变十化: jiǔ biàn shí huà
 九合一匡: jiǔ hé yī kuāng
 九品中正: jiǔ pǐn zhōng zhèng
+九回肠: jiǔ huí cháng
 九垓八埏: jiǔ gāi bā yán
 九大行星: jiǔ dà háng xīng
 九天九地: jiǔ tiān jiǔ dì
@@ -4394,6 +4395,7 @@
 仿单: fǎng dān
 仿宋体: fǎng sòng tǐ
 仿建: fǎng jiàn
+仿徨失措: páng huáng shī cuò
 仿生: fǎng shēng
 仿行: fǎng xíng
 企业化: qǐ yè huà
@@ -6423,6 +6425,7 @@
 关门大吉: guān mén dà jí
 关门打狗: guān mén dǎ gǒu
 关门落闩: guān mén luò shuān
+关门闭户: guān mén bì hù
 兴业: xīng yè
 兴中会: xīng zhōng huì
 兴义: xīng yì
@@ -7978,6 +7981,7 @@
 别无二致: bié wú èr zhì
 别无他物: bié wú tā wù
 别无出路: bié wú chū lù
+别无分店: bié wú fēn diàn
 别无长物: bié wú cháng wù
 别是: bié shì
 别有人间: bié yǒu rén jiān
@@ -8482,6 +8486,7 @@
 助理: zhù lǐ
 助理工程师: zhù lǐ gōng chéng shī
 助理研究员: zhù lǐ yán jiū yuán
+助画方略: zhù huà fāng lüè
 助益: zhù yì
 助研: zhù yán
 助纣为虐: zhù zhòu wéi nüè
@@ -9180,6 +9185,7 @@
 卑之无甚高论: bēi zhī wú shèn gāo lùn
 卑卑不足道: bēi bēi bù zú dào
 卑宫菲食: bēi gōng fěi shí
+卑谄足恭: bēi chǎn zú gōng
 卑身屈体: bēi shēn qū tǐ
 卑身贱体: bēi shēn jiàn tǐ
 卑躬屈节: bēi gōng qū jié
@@ -10309,6 +10315,7 @@
 变危为安: biàn wēi wéi ān
 变压: biàn yā
 变压器: biàn yā qì
+变古乱常: biàn gǔ luàn cháng
 变味儿: biàn wèi er
 变坏: biàn huài
 变型: biàn xíng
@@ -11227,6 +11234,7 @@
 名过其实: míng guò qí shí
 名重一时: míng zhòng yī shí
 名高难副: míng gāo nán fù
+后不巴店: hòu bù bā diàn
 后仰: hòu yǎng
 后任: hòu rèn
 后会无期: hòu huì wú qī
@@ -11511,6 +11519,11 @@
 告语: gào yǔ
 呐喊: nà hǎn
 呐喊助威: nà hǎn zhù wēi
+呒不: wǔ bù
+呒啥: wǔ shá
+呒没: wǔ méi
+呒淘成: wǔ táo chéng
+呒虾米输入法: wǔ xiā mǐ shū rù fǎ
 呓语: yì yǔ
 呕吐: ǒu tù
 呕哑: ōu yā
@@ -11942,6 +11955,10 @@
 唐临晋帖: táng lín jìn tiē
 唐古拉山: táng gǔ lā shān
 唐宋八大家: táng sòng bā dà jiā
+唔使: wú shǐ
+唔哚: wú duǒ
+唔哩: wú lǐ
+唔笃: wú dǔ
 唛头: mà tóu
 唠叨: láo dāo
 唠唠: lào lào
@@ -14463,6 +14480,8 @@
 失地: shī dì
 失学率: shī xué lǜ
 失张冒势: shī zhāng mào shì
+失张失志: shī zhāng shī zhì
+失张失致: shī zhāng shī zhì
 失当: shī dàng
 失惊倒怪: shī jīng dǎo guài
 失惊打怪: shī jīng dǎ guài
@@ -15555,6 +15574,8 @@
 学区: xué qū
 学员: xué yuán
 学好: xué hǎo
+学如不及: xué rú bù jí
+学如登山: xué rú dēng shān
 学子: xué zǐ
 学富五车: xué fù wǔ chē
 学成: xué chéng
@@ -17929,6 +17950,8 @@
 废文任武: fèi wén rèn wǔ
 废油: fèi yóu
 废票: fèi piào
+度人之心: duó rén zhī xīn
+度人之腹: duó rén zhī fù
 度假: dù jià
 度假村: dù jià cūn
 度命: dù mìng
@@ -19360,6 +19383,7 @@
 恶变: è biàn
 恶名: è míng
 恶向胆边生: è xiàng dǎn biān shēng
+恶噷噷: è hěn hěn
 恶声: è shēng
 恶声恶气: è shēng è qì
 恶妇: è fù
@@ -23130,6 +23154,7 @@
 断头台: duàn tóu tái
 断头将军: duàn tóu jiāng jūn
 断子绝孙: duàn zǐ jué sūn
+断手续玉: duàn shóu xù yù
 断木掘地: duàn mù jué dì
 断杼择邻: duàn zhù zé lín
 断根绝种: duàn gēn jué zhǒng
@@ -23654,6 +23679,7 @@
 日射: rì shè
 日射病: rì shè bìng
 日就月将: rì jiù yuè jiāng
+日居月诸: rì jū yuè zhū
 日异月更: rì yì yuè gèng
 日引月长: rì yǐn yuè cháng
 日新月盛: rì xīn yuè shèng
@@ -25020,6 +25046,7 @@
 本当: běn dāng
 本性难移: běn xìng nán yí
 本戏: běn xì
+本支百世: běn zhī bǎi shì
 本族: běn zú
 本末倒置: běn mò dào zhì
 本本分分: běn běn fèn fēn
@@ -25684,6 +25711,7 @@
 柳体: liǔ tǐ
 柳叶: liǔ yè
 柳叶眉: liǔ yè méi
+柳夭桃艳: liǔ yāo táo yàn
 柳子戏: liǔ zǐ xì
 柳巷: liǔ xiàng
 柳巷花街: liǔ xiàng huā jiē
@@ -26450,6 +26478,7 @@
 歇宿: xiē sù
 歇斯底里: xiē sī dǐ lǐ
 歇枝: xiē zhī
+歌于斯: gē yú sī
 歌仔戏: gē zǎi xì
 歌会: gē huì
 歌台舞榭: gē tái wǔ xiè
@@ -26967,6 +26996,7 @@
 毛织品: máo zhī pǐn
 毛羽零落: máo yǔ líng luò
 毛背心: máo bèi xīn
+毛茸茸: máo róng róng
 毛葛: máo gě
 毛蚶: máo hān
 毛遂: máo suí
@@ -27201,6 +27231,7 @@
 水远山长: shuǐ yuǎn shān cháng
 水量: shuǐ liàng
 水长船高: shuǐ zhǎng chuán gāo
+水陆杂陈: shuǐ lù zá chén
 水靴: shuǐ xuē
 水龙头: shuǐ lóng tóu
 永不磨灭: yǒng bù mó miè
@@ -28588,6 +28619,7 @@
 清淤: qīng yū
 清源正本: qīng yuán zhèng běn
 清肺: qīng fèi
+清莹秀澈: qīng yíng xiù chè
 清词丽句: qīng cí lì jù
 清贫如洗: qīng pín rú xǐ
 清辞丽句: qīng cí lì jù
@@ -29136,6 +29168,7 @@
 火炬计划: huǒ jù jì huà
 火炮: huǒ pào
 火烧火燎: huǒ shāo huǒ liǎo
+火燵: huǒ tā
 火电站: huǒ diàn zhàn
 火石: huǒ shí
 火种: huǒ zhǒng
@@ -29918,6 +29951,7 @@
 犍为: qián wéi
 犍牛: jiān niú
 犟劲: jiàng jìn
+犬兔俱毙: quǎn tù jù bì
 犬牙盘石: quǎn yá pán shí
 犬牙相制: quǎn yá xiāng zhì
 犬牙相错: quǎn yá xiāng cuò
@@ -30043,6 +30077,7 @@
 独木难支: dú mù nán zhī
 独步当世: dú bù dāng shì
 独步当时: dú bù dāng shí
+独清独醒: dú qīng dú xǐng
 独生女: dú shēng nǚ
 独立性: dú lì xìng
 独立王国: dú lì wáng guó
@@ -30283,6 +30318,7 @@
 环节: huán jié
 环行: huán xíng
 环食: huán shí
+现世现报: xiàn shì xiàn bào
 现买: xiàn mǎi
 现代化: xiàn dài huà
 现代戏: xiàn dài xì
@@ -31080,6 +31116,7 @@
 登山服: dēng shān fú
 登山越岭: dēng shān yuè lǐng
 登山陟岭: dēng shān zhì lǐng
+登木求鱼: dēng mù qiú yú
 登记册: dēng jì cè
 登载: dēng zǎi
 登陆艇: dēng lù tǐng
@@ -36748,6 +36785,7 @@
 英雄所见略同: yīng xióng suǒ jiàn lüè tóng
 英雄无用武之地: yīng xióng wú yòng wǔ zhī dì
 英雄榜: yīng xióng bǎng
+英雄辈出: yīng xióng bèi chū
 英风亮节: yīng fēng liàng jié
 苹果: píng guǒ
 苹果绿: píng guǒ lǜ
@@ -39887,6 +39925,7 @@
 败兴而归: bài xìng ér guī
 败兵: bài bīng
 败军之将: bài jūn zhī jiàng
+败则为贼: bài zé wéi zéi
 败化伤风: bài huà shāng fēng
 败北: bài běi
 败叶: bài yè
@@ -40033,6 +40072,7 @@
 贵妃: guì fēi
 贵少贱老: guì shǎo jiàn lǎo
 贵干: guì gàn
+贵贱无二: guì jiàn wú èr
 贵远贱近: guì yuǎn jiàn jìn
 贵远鄙近: guì yuǎn bǐ jìn
 贵重: guì zhòng
@@ -40540,6 +40580,7 @@
 践土食毛: jiàn tǔ shí máo
 践约: jiàn yuē
 践行: jiàn xíng
+践规踏矩: jiàn guī tà jǔ
 跷足而待: qiāo zú ér dài
 跼地籥天: jú dì yuè tiān
 跼天促地: jú tiān cù dì
@@ -41512,6 +41553,7 @@
 进射: jìn shè
 进尺: jìn chǐ
 进度: jìn dù
+进德修业: jìn dé xiū yè
 进流: jìn liú
 进港: jìn gǎng
 进种善群: jìn zhǒng shàn qún
@@ -42344,6 +42386,7 @@
 避强击弱: bì qiáng jī ruò
 避强击惰: bì qiáng jī duò
 避强打弱: bì qiáng dǎ ruò
+避毁就誉: bì huǐ jiù yù
 避溺山隅: bì nì shān yú
 避烦斗捷: bì fán dòu jié
 避而不谈: bì ér bù tán
@@ -42351,6 +42394,7 @@
 避邪: bì xié
 避重就轻: bì zhòng jiù qīng
 避重逐轻: bì zhòng zhú qīng
+避阱入坑: bì jǐng rù kēng
 避难: bì nàn
 避难就易: bì nán jiù yì
 避难趋易: bì nán qū yì
@@ -43785,6 +43829,7 @@
 闭合自责: bì hé zì zé
 闭塞: bì sè
 闭塞眼睛捉麻雀: bì sè yǎn jīng zhuō má què
+闭壁清野: bì bì qīng yě
 闭户读书: bì hù dú shū
 闭明塞聪: bì míng sè cōng
 闭校: bì xiào
@@ -44134,6 +44179,7 @@
 陂塘: bēi táng
 陂池: bēi chí
 陂湖禀量: bēi hú bǐng liáng
+陂艿: bēi rèng
 陂陀: pō tuó
 附上: fù shàng
 附上罔下: fù shàng wǎng xià
@@ -44177,6 +44223,7 @@
 陈世美: chén shì měi
 陈古刺今: chén gǔ cì jīn
 陈善闭邪: chén shàn bì xié
+陈师鞠旅: chén shī jū lǚ
 陈词滥调: chén cí làn diào
 陈说: chén shuō
 陈辞滥调: chén cí làn diào
@@ -44684,6 +44731,7 @@
 雷雨: léi yǔ
 雷雨云: léi yǔ yún
 雷霆万钧: léi tíng wàn jūn
+雷霆之怒: léi tíng zhī nù
 雷鸣瓦釜: léi míng wǎ fǔ
 雾兴云涌: wù xīng yún yǒng
 雾化: wù huà
@@ -44941,6 +44989,7 @@
 革心易行: gé xīn yì xíng
 革旧从新: gé jiù cóng xīn
 革邪反正: gé xié fǎn zhèng
+革面敛手: gé miàn liǎn shǒu
 革面洗心: gé miàn xǐ xīn
 革风易俗: gé fēng yì sú
 靴子: xuē zi
