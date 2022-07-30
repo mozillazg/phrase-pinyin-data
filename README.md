@@ -33,7 +33,8 @@
 * `cc_cedict.txt`: [cc-cedict.org](https://cc-cedict.org/) 拼音数据
 <!-- * `espeak_zh_listx.txt`: [espeak](http://espeak.sourceforge.net/data/) 中 `zh_listx.zip` 中包含的部分词语发音 -->
 <!-- * `large_pinyin.txt`: `zdic_cibs.txt + zdic_cybs.txt + cc_cedict.txt + pinyin.txt + espeak_zh_listx.txt + overwrite.txt` 后的拼音数据 -->
-* `large_pinyin.txt`: `zdic_cibs.txt + zdic_cybs.txt + cc_cedict.txt + pinyin.txt + overwrite.txt` 后的拼音数据
+* `di.txt`: 纠正部分短语中 `地` 的拼音 (可以直接修改)
+* `large_pinyin.txt`: `zdic_cibs.txt + zdic_cybs.txt + cc_cedict.txt + pinyin.txt + di.txt + overwrite.txt` 后的拼音数据
 
 ## 修改数据
 
