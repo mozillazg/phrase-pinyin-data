@@ -1,5 +1,13 @@
 # ChangeLog
 
+## [0.13.0] (2022-07-30)
+
+* 生成最新版 cc\_cedict.txt
+* 增加 di.txt: 纠正部分短语中 `地` 的拼音。详见 [#26]
+* 删除 `卡拉ＯＫ` 和 `阿Ｑ`
+* 将 di.txt 合并到 large\_pinyin.txt 中
+* 删除 `不强`
+
 
 ## [0.12.0] (2021-11-13)
 
@@ -213,6 +221,7 @@
 [#13]: https://github.com/mozillazg/phrase-pinyin-data/pull/13
 [#15]: https://github.com/mozillazg/phrase-pinyin-data/pull/15
 [#16]: https://github.com/mozillazg/phrase-pinyin-data/pull/16
+[#26]: https://github.com/mozillazg/phrase-pinyin-data/issues/26
 [af5d783]: https://github.com/mozillazg/phrase-pinyin-data/commit/af5d7831b0e84e4a5306e304b3b2da3268e35f17
 [3b62ed3]: https://github.com/mozillazg/phrase-pinyin-data/commit/3b62ed303f129868c7ccee4f2d5e44dcea7d30d4
 [67412ab]: https://github.com/mozillazg/phrase-pinyin-data/commit/67412abbf8570ac80a41dc012f228c0864823a62
@@ -226,3 +235,4 @@
 [0.10.5]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.10.4...v0.10.5
 [0.11.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.10.5...v0.11.0
 [0.12.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.11.0...v0.12.0
+[0.13.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.12.0...v0.13.0
