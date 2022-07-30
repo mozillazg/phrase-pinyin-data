@@ -3549,7 +3549,7 @@
 五行俱下: wǔ xíng jù xià
 五行八作: wǔ háng bā zuò
 五行并下: wǔ háng bìng xià
-五行生克: wǔ háng shēng kè
+五行生克: wǔ xíng shēng kè
 五角六张: wǔ jiǎo liù zhāng
 五角大楼: wǔ jiǎo dà lóu
 五言绝句: wǔ yán jué jù
