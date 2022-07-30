@@ -4,10 +4,12 @@
 
 * 生成最新版 cc\_cedict.txt
 * 增加 di.txt: 纠正部分短语中 `地` 的拼音。详见 [#26]
+* 新增一些词语的拼音。详见 [#35]
+* 剔除 zdic\_cibs.txt 和 zdic\_cybs.txt 中的无效拼音
 * 删除 `卡拉ＯＫ` 和 `阿Ｑ`
 * 将 di.txt 合并到 large\_pinyin.txt 中
 * 删除 `不强`, `和诗`
-* 纠正 `甚么`, `甚麼`, `种下` 的拼音
+* 纠正 `甚么`, `甚麼`, `种下`, `又细又长`, `五行生克` 的拼音
 
 
 ## [0.12.0] (2021-11-13)
@@ -223,6 +225,7 @@
 [#15]: https://github.com/mozillazg/phrase-pinyin-data/pull/15
 [#16]: https://github.com/mozillazg/phrase-pinyin-data/pull/16
 [#26]: https://github.com/mozillazg/phrase-pinyin-data/issues/26
+[#35]: https://github.com/mozillazg/phrase-pinyin-data/pull/35
 [af5d783]: https://github.com/mozillazg/phrase-pinyin-data/commit/af5d7831b0e84e4a5306e304b3b2da3268e35f17
 [3b62ed3]: https://github.com/mozillazg/phrase-pinyin-data/commit/3b62ed303f129868c7ccee4f2d5e44dcea7d30d4
 [67412ab]: https://github.com/mozillazg/phrase-pinyin-data/commit/67412abbf8570ac80a41dc012f228c0864823a62
