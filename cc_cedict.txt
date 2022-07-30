@@ -3,6 +3,7 @@
 㐖毒: xié dú
 㚻奸: jī jiān
 㞎㞎: bǎ ba
+㵐水: jué shuǐ
 㹴犬: gěng quǎn
 㺢㹢狓: huò jiā pī
 鲃鱼: bā yú
@@ -27,6 +28,7 @@
 一了百了: yī liǎo bǎi liǎo
 一事无成: yī shì wú chéng
 一二: yī èr
+一二九运动: yī èr jiǔ yùn dòng
 一二八事变: yī èr bā shì biàn
 一五一十: yī wǔ yī shí
 一些: yī xiē
@@ -407,6 +409,7 @@
 一笑置之: yī xiào zhì zhī
 一笔不苟: yī bǐ bù gǒu
 一笔勾销: yī bǐ gōu xiāo
+一笔带过: yī bǐ dài guò
 一笔抹杀: yī bǐ mǒ shā
 一笔抹煞: yī bǐ mǒ shā
 一等: yī děng
@@ -523,10 +526,12 @@
 一路上: yī lù shàng
 一路来: yī lù lái
 一路平安: yī lù píng ān
+一路货: yī lù huò
+一路货色: yī lù huò sè
 一路顺风: yī lù shùn fēng
 一路风尘: yī lù fēng chén
 一蹴即至: yī cù jí zhì
-一蹴可几: yī cù kě jǐ
+一蹴可几: yī cù kě jī
 一蹴而就: yī cù ér jiù
 一蹴而得: yī cù ér dé
 一蹶不振: yī jué bù zhèn
@@ -602,7 +607,7 @@
 一体两面: yī tǐ liǎng miàn
 一体化: yī tǐ huà
 一哄而散: yī hòng ér sàn
-一鳞半爪: yī lín bàn zhuǎ
+一鳞半爪: yī lín bàn zhǎo
 一鸣惊人: yī míng jīng rén
 一黑早: yī hēi zǎo
 一点: yī diǎn
@@ -619,6 +624,7 @@
 一鼓作气: yī gǔ zuò qì
 一鼻孔出气: yī bí kǒng chū qì
 一齐: yī qí
+丁丁: dīng dīng
 丁丁: dīng dīng
 丁丁: zhēng zhēng
 丁丁炒面: dīng dīng chǎo miàn
@@ -732,7 +738,6 @@
 七声: qī shēng
 七声音阶: qī shēng yīn jiē
 七股: qī gǔ
-七股乡: qī gǔ xiāng
 七叶树: qī yè shù
 七荤八素: qī hūn bā sù
 七号电池: qī hào diàn chí
@@ -869,7 +874,7 @@
 三对三斗牛: sān duì sān dòu niú
 三小: sān xiǎo
 三尖杉酯碱: sān jiān shān zhǐ jiǎn
-三屉桌: sān tí zhuō
+三屉桌: sān tì zhuō
 三山: sān shān
 三山区: sān shān qū
 三岔口: sān chà kǒu
@@ -933,7 +938,6 @@
 三民: sān mín
 三民主义: sān mín zhǔ yì
 三民区: sān mín qū
-三民乡: sān mín xiāng
 三氟化硼: sān fú huà péng
 三氯化磷: sān lǜ huà lín
 三氯化铁: sān lǜ huà tiě
@@ -1144,6 +1148,7 @@
 上不了台面: shàng bù liǎo tái miàn
 上不得台盘: shàng bù dé tái pán
 上乘: shàng chéng
+上了年纪: shàng le nián jì
 上交: shàng jiāo
 上代: shàng dài
 上任: shàng rèn
@@ -1159,6 +1164,7 @@
 上分: shàng fēn
 上刑: shàng xíng
 上前: shàng qián
+上升: shàng shēng
 上升空间: shàng shēng kōng jiān
 上升趋势: shàng shēng qū shì
 上午: shàng wǔ
@@ -1221,6 +1227,7 @@
 上市公司: shàng shì gōng sī
 上帝: shàng dì
 上年: shàng nián
+上年纪: shàng nián jì
 上床: shàng chuáng
 上座: shàng zuò
 上座部: shàng zuò bù
@@ -1238,7 +1245,6 @@
 上方: shàng fāng
 上方宝剑: shàng fāng bǎo jiàn
 上旬: shàng xún
-上升: shàng shēng
 上星: shàng xīng
 上星剧: shàng xīng jù
 上星期: shàng xīng qī
@@ -1379,7 +1385,7 @@
 上身: shàng shēn
 上车: shàng chē
 上轨道: shàng guǐ dào
-上载: shàng zài
+上载: shàng zǎi
 上辈: shàng bèi
 上辈子: shàng bèi zi
 上农: shàng nóng
@@ -1525,6 +1531,7 @@
 下水道: xià shuǐ dào
 下决心: xià jué xīn
 下沉: xià chén
+下沉市场: xià chén shì chǎng
 下注: xià zhù
 下流: xià liú
 下浣: xià huàn
@@ -1534,7 +1541,6 @@
 下滑: xià huá
 下焦: xià jiāo
 下营: xià yíng
-下营乡: xià yíng xiāng
 下片: xià piàn
 下犬式: xià quǎn shì
 下狱: xià yù
@@ -1643,7 +1649,7 @@
 不下: bù xià
 不下于: bù xià yú
 不中意: bù zhòng yì
-不中用: bù zhòng yòng
+不中用: bù zhōng yòng
 不丹: bù dān
 不主故常: bù zhǔ gù cháng
 不久: bù jiǔ
@@ -1700,6 +1706,7 @@
 不值: bù zhí
 不值一文: bù zhí yī wén
 不值一笑: bù zhí yī xiào
+不值一驳: bù zhí yī bó
 不值得: bù zhí de
 不值钱: bù zhí qián
 不假思索: bù jiǎ sī suǒ
@@ -1708,6 +1715,7 @@
 不偏极: bù piān jí
 不做声: bù zuò shēng
 不停: bù tíng
+不偷不抢: bù tōu bù qiǎng
 不备: bù bèi
 不伤脾胃: bù shāng pí wèi
 不仅: bù jǐn
@@ -1815,6 +1823,7 @@
 不可告人: bù kě gào rén
 不可多得: bù kě duō dé
 不可导: bù kě dǎo
+不可少: bù kě shǎo
 不可思议: bù kě sī yì
 不可或缺: bù kě huò quē
 不可抗力: bù kě kàng lì
@@ -1995,6 +2004,7 @@
 不必: bù bì
 不必要: bù bì yào
 不忍: bù rěn
+不忍心: bù rěn xīn
 不忙: bù máng
 不快: bù kuài
 不忮不求: bù zhì bù qiú
@@ -2003,6 +2013,7 @@
 不怎么: bù zěn me
 不怎么样: bù zěn me yàng
 不怕: bù pà
+不怕贼偷就怕贼惦记: bù pà zéi tōu jiù pà zéi diàn jì
 不怠: bù dài
 不急之务: bù jí zhī wù
 不恤: bù xù
@@ -2236,6 +2247,7 @@
 不知所云: bù zhī suǒ yún
 不知所以: bù zhī suǒ yǐ
 不知所措: bù zhī suǒ cuò
+不知所谓: bù zhī suǒ wèi
 不知死活: bù zhī sǐ huó
 不知疲倦: bù zhī pí juàn
 不知痛痒: bù zhī tòng yǎng
@@ -2271,6 +2283,7 @@
 不算: bù suàn
 不管: bù guǎn
 不管三七二十一: bù guǎn sān qī èr shí yī
+不管不顾: bù guǎn bù gù
 不管怎样: bù guǎn zěn yàng
 不简单: bù jiǎn dān
 不粘锅: bù zhān guō
@@ -2287,6 +2300,7 @@
 不经之谈: bù jīng zhī tán
 不经意: bù jīng yì
 不经意间: bù jīng yì jiān
+不紧不慢: bù jǐn bù màn
 不置可否: bù zhì kě fǒu
 不羁: bù jī
 不义: bù yì
@@ -2384,7 +2398,7 @@
 不识大体: bù shí dà tǐ
 不识好歹: bù shí hǎo dǎi
 不识字: bù shí zì
-不识庐山真面目: bù shì lú shān zhēn miàn mù
+不识庐山真面目: bù shí lú shān zhēn miàn mù
 不识抬举: bù shí tái jǔ
 不识时务: bù shí shí wù
 不识时变: bù shí shí biàn
@@ -2443,6 +2457,7 @@
 不逮捕特权: bù dài bǔ tè quán
 不遂: bù suì
 不过: bù guò
+不过如此: bù guò rú cǐ
 不过意: bù guò yì
 不过尔尔: bù guò ěr ěr
 不遑: bù huáng
@@ -2719,6 +2734,7 @@
 丫髻: yā jì
 丫鬟: yā huan
 中世纪: zhōng shì jì
+中中: zhōng zhōng
 中二病: zhōng èr bìng
 中亚: zhōng yà
 中亚夜鹰: zhōng yà yè yīng
@@ -2731,6 +2747,7 @@
 中介资料: zhōng jiè zī liào
 中企业: zhōng qǐ yè
 中伏: zhōng fú
+中伏: zhòng fú
 中位数: zhōng wèi shù
 中低端: zhōng dī duān
 中俄: zhōng é
@@ -2740,7 +2757,7 @@
 中俄改订条约: zhōng é gǎi dìng tiáo yuē
 中俄边界协议: zhōng é biān jiè xié yì
 中俄关系: zhōng é guān xì
-中保: zhòng bǎo
+中保: zhōng bǎo
 中信银行: zhōng xìn yín háng
 中值定理: zhōng zhí dìng lǐ
 中伤: zhòng shāng
@@ -2832,6 +2849,7 @@
 中国地震台网: zhōng guó dì zhèn tái wǎng
 中国地震局: zhōng guó dì zhèn jú
 中国城: zhōng guó chéng
+中国梦: zhōng guó mèng
 中国大百科全书出版社: zhōng guó dà bǎi kē quán shū chū bǎn shè
 中国大蝾螈: zhōng guó dà róng yuán
 中国天主教爱国会: zhōng guó tiān zhǔ jiào ài guó huì
@@ -3076,6 +3094,7 @@
 中枢: zhōng shū
 中枢神经系统: zhōng shū shén jīng xì tǒng
 中欧: zhōng ōu
+中欧: zhōng ōu
 中止: zhōng zhǐ
 中正: zhōng zhèng
 中正: zhōng zhèng
@@ -3117,7 +3136,7 @@
 中生代: zhōng shēng dài
 中产: zhōng chǎn
 中产阶级: zhōng chǎn jiē jí
-中田英寿: zhōng tián yīng shòu
+中用: zhōng yòng
 中甸: zhōng diàn
 中甸县: zhōng diàn xiàn
 中白鹭: zhōng bái lù
@@ -3126,7 +3145,7 @@
 中盘商: zhōng pán shāng
 中盘股: zhōng pán gǔ
 中看: zhōng kàn
-中看不中用: zhòng kàn bù zhòng yòng
+中看不中用: zhōng kàn bù zhōng yòng
 中短债: zhōng duǎn zhài
 中石化: zhōng shí huà
 中石器时代: zhōng shí qì shí dài
@@ -3226,6 +3245,7 @@
 中视: zhōng shì
 中计: zhòng jì
 中试: zhōng shì
+中调: zhōng diào
 中译语通: zhōng yì yǔ tōng
 中财: zhōng cái
 中资: zhōng zī
@@ -3408,6 +3428,7 @@
 主干网络: zhǔ gàn wǎng luò
 主干网路: zhǔ gàn wǎng lù
 主干线: zhǔ gàn xiàn
+主序带: zhǔ xù dài
 主序星: zhǔ xù xīng
 主厨: zhǔ chú
 主厅: zhǔ tīng
@@ -3466,6 +3487,8 @@
 主脑: zhǔ nǎo
 主航道: zhǔ háng dào
 主菜: zhǔ cài
+主裁: zhǔ cái
+主裁判: zhǔ cái pàn
 主要: zhǔ yào
 主见: zhǔ jiàn
 主观: zhǔ guān
@@ -3781,6 +3804,7 @@
 乳房: rǔ fáng
 乳房摄影: rǔ fáng shè yǐng
 乳晕: rǔ yùn
+乳杆菌: rǔ gǎn jūn
 乳母: rǔ mǔ
 乳汁: rǔ zhī
 乳液: rǔ yè
@@ -3832,7 +3856,7 @@
 干冰: gān bīng
 乾嘉三大家: qián jiā sān dà jiā
 干呕: gān ǒu
-干哕: gān yuě
+干哕: gān yue
 干嚎: gān háo
 乾坤: qián kūn
 干女儿: gān nǚ ér
@@ -3842,6 +3866,7 @@
 乾安县: qián ān xiàn
 干尸: gān shī
 干巴巴: gān bā bā
+干手机: gān shǒu jī
 干打垒: gān dǎ lěi
 乾旦: qián dàn
 干旱: gān hàn
@@ -3861,6 +3886,7 @@
 干煸: gān biān
 干煸四季豆: gān biān sì jì dòu
 干煸土豆丝: gān biān tǔ dòu sī
+干煸豆角: gān biān dòu jiǎo
 干燥: gān zào
 干燥剂: gān zào jì
 干燥机: gān zào jī
@@ -3964,6 +3990,7 @@
 了然: liǎo rán
 了然于胸: liǎo rán yú xiōng
 了当: liǎo dàng
+了知: liǎo zhī
 了结: liǎo jié
 了若指掌: liǎo ruò zhǐ zhǎng
 了解: liǎo jiě
@@ -4268,6 +4295,7 @@
 互动: hù dòng
 互动电视: hù dòng diàn shì
 互惠: hù huì
+互扔: hù rēng
 互换: hù huàn
 互操性: hù cāo xìng
 互文: hù wén
@@ -4505,6 +4533,7 @@
 亘古不变: gèn gǔ bù biàn
 亘古未有: gèn gǔ wèi yǒu
 亘古通今: gèn gǔ tōng jīn
+些微: xiē wēi
 些许: xiē xǔ
 亚丁: yà dīng
 亚丁湾: yà dīng wān
@@ -4756,6 +4785,7 @@
 交浅言深: jiāo qiǎn yán shēn
 交火: jiāo huǒ
 交班: jiāo bān
+交由: jiāo yóu
 交界: jiāo jiè
 交睫: jiāo jié
 交管: jiāo guǎn
@@ -4795,9 +4825,11 @@
 交通拥挤: jiāo tōng yōng jǐ
 交通标志: jiāo tōng biāo zhì
 交通枢纽: jiāo tōng shū niǔ
+交通灯: jiāo tōng dēng
 交通立体化: jiāo tōng lì tǐ huà
 交通管理局: jiāo tōng guǎn lǐ jú
 交通肇事罪: jiāo tōng zhào shì zuì
+交通规则: jiāo tōng guī zé
 交通警察: jiāo tōng jǐng chá
 交通警卫: jiāo tōng jǐng wèi
 交通费: jiāo tōng fèi
@@ -4833,6 +4865,7 @@
 亦作: yì zuò
 亦即: yì jí
 亦或: yì huò
+亦敌亦友: yì dí yì yǒu
 亦步亦趋: yì bù yì qū
 亦称: yì chēng
 亦庄: yì zhuāng
@@ -4896,7 +4929,7 @@
 京都: jīng dū
 京都: jīng dū
 京都府: jīng dū fǔ
-京都念慈菴: jīng dū niàn cí ān
+京都念慈庵: jīng dū niàn cí ān
 亭亭玉立: tíng tíng yù lì
 亭午: tíng wǔ
 亭子: tíng zi
@@ -4965,6 +4998,7 @@
 人像: rén xiàng
 人儿: rén er
 人力: rén lì
+人力接龙: rén lì jiē lóng
 人力资源: rén lì zī yuán
 人力车: rén lì chē
 人力车夫: rén lì chē fū
@@ -4975,6 +5009,7 @@
 人口: rén kǒu
 人口学: rén kǒu xué
 人口密度: rén kǒu mì dù
+人口密集: rén kǒu mì jí
 人口数: rén kǒu shù
 人口普查: rén kǒu pǔ chá
 人口稠密: rén kǒu chóu mì
@@ -5071,7 +5106,7 @@
 人格化: rén gé huà
 人格神: rén gé shén
 人格魅力: rén gé mèi lì
-人模狗样: rén mó gǒu yàng
+人模狗样: rén mú gǒu yàng
 人机工程: rén jī gōng chéng
 人机界面: rén jī jiè miàn
 人权: rén quán
@@ -5129,7 +5164,7 @@
 人物描写: rén wù miáo xiě
 人犯: rén fàn
 人猿: rén yuán
-人琴俱亡: rén qín jù wàng
+人琴俱亡: rén qín jù wáng
 人瑞: rén ruì
 人生: rén shēng
 人生何处不相逢: rén shēng hé chù bù xiāng féng
@@ -5283,7 +5318,6 @@
 仁弟: rén dì
 仁德: rén dé
 仁德: rén dé
-仁德乡: rén dé xiāng
 仁心仁术: rén xīn rén shù
 仁惠: rén huì
 仁爱: rén ài
@@ -5504,6 +5538,7 @@
 代名词: dài míng cí
 代填: dài tián
 代孕: dài yùn
+代孕母亲: dài yùn mǔ qīn
 代字: dài zì
 代字号: dài zì hào
 代宗: dài zōng
@@ -5542,12 +5577,14 @@
 代替者: dài tì zhě
 代步: dài bù
 代步车: dài bù chē
+代母: dài mǔ
 代沟: dài gōu
 代尔夫特: dài ěr fū tè
 代班: dài bān
 代理: dài lǐ
 代理人: dài lǐ rén
 代理商: dài lǐ shāng
+代理孕母: dài lǐ yùn mǔ
 代码: dài mǎ
 代码段: dài mǎ duàn
 代码页: dài mǎ yè
@@ -5622,6 +5659,7 @@
 以上: yǐ shàng
 以下: yǐ xià
 以下犯上: yǐ xià fàn shàng
+以不变应万变: yǐ bù biàn yìng wàn biàn
 以人名命名: yǐ rén míng mìng míng
 以人废言: yǐ rén fèi yán
 以人为本: yǐ rén wéi běn
@@ -5636,7 +5674,7 @@
 以免借口: yǐ miǎn jiè kǒu
 以内: yǐ nèi
 以利亚: yǐ lì yà
-以利亚撒: yǐ lì yà sǎ
+以利亚撒: yǐ lì yà sā
 以利亚敬: yǐ lì yà jìng
 以利于: yǐ lì yú
 以前: yǐ qián
@@ -5669,7 +5707,7 @@
 以后: yǐ hòu
 以德报怨: yǐ dé bào yuàn
 以慎为键: yǐ shèn wéi jiàn
-以撒: yǐ sǎ
+以撒: yǐ sā
 以叙: yǐ xù
 以斯帖: yǐ sī tiě
 以斯帖记: yǐ sī tiě jì
@@ -5782,6 +5820,7 @@
 任其自然: rèn qí zì rán
 任务: rèn wu
 任务栏: rèn wu lán
+任务管理器: rèn wu guǎn lǐ qì
 任劳任怨: rèn láo rèn yuàn
 任命: rèn mìng
 任命状: rèn mìng zhuàng
@@ -5834,6 +5873,7 @@
 仿射子空间: fǎng shè zǐ kōng jiān
 仿射空间: fǎng shè kōng jiān
 仿照: fǎng zhào
+仿生: fǎng shēng
 仿生学: fǎng shēng xué
 仿皮: fǎng pí
 仿真: fǎng zhēn
@@ -6115,6 +6155,7 @@
 伴唱: bàn chàng
 伴奏: bàn zòu
 伴娘: bàn niáng
+伴手: bàn shǒu
 伴手礼: bàn shǒu lǐ
 伴星: bàn xīng
 伴有: bàn yǒu
@@ -6149,6 +6190,7 @@
 伸缩: shēn suō
 伸缩喇叭: shēn suō lǎ ba
 伸缩性: shēn suō xìng
+伸肌: shēn jī
 伸长: shēn cháng
 伸开: shēn kāi
 伸雪: shēn xuě
@@ -6175,10 +6217,10 @@
 伽师: jiā shī
 伽师县: jiā shī xiàn
 伽玛射线: jiā mǎ shè xiàn
-伽罗瓦: jiā luó wà
+伽罗瓦: jiā luó wǎ
 伽罗瓦理论: jiā luó wǎ lǐ lùn
-伽罗华: jiā luó huà
-伽罗华理论: jiā luó huà lǐ lùn
+伽罗华: jiā luó huá
+伽罗华理论: jiā luó huá lǐ lùn
 伽蓝: qié lán
 伽马: gā mǎ
 伽马射线: gā mǎ shè xiàn
@@ -6537,7 +6579,7 @@
 作揖: zuò yī
 作数: zuò shù
 作文: zuò wén
-作料: zuó liao
+作料: zuò liao
 作曲: zuò qǔ
 作曲家: zuò qǔ jiā
 作曲者: zuò qǔ zhě
@@ -6823,6 +6865,7 @@
 侏蓝仙鹟: zhū lán xiān wēng
 侗人: dòng rén
 侗剧: dòng jù
+侗族: dòng zú
 供不应求: gōng bù yìng qiú
 供佛花: gòng fó huā
 供品: gòng pǐn
@@ -6833,7 +6876,7 @@
 供应商: gōng yìng shāng
 供应室: gōng yìng shì
 供应者: gōng yìng zhě
-供应链: gōng yīng liàn
+供应链: gōng yìng liàn
 供房: gōng fáng
 供暖: gōng nuǎn
 供水: gōng shuǐ
@@ -7039,6 +7082,7 @@
 俄底浦斯情结: é dǐ pǔ sī qíng jié
 俄文: é wén
 俄期: é qī
+俄乌: é wū
 俄尔: é ěr
 俄狄浦斯: é dí pǔ sī
 俄狄浦斯期: é dí pǔ sī qī
@@ -7233,6 +7277,7 @@
 保靖: bǎo jìng
 保靖县: bǎo jìng xiàn
 保养: bǎo yǎng
+保养品: bǎo yǎng pǐn
 保驾: bǎo jià
 保驾护航: bǎo jià hù háng
 保鲜: bǎo xiān
@@ -7563,7 +7608,7 @@
 倒吸一口凉气: dào xī yī kǒu liáng qì
 倒嗓: dǎo sǎng
 倒噍: dǎo jiào
-倒嚼: dǎo jiáo
+倒嚼: dǎo jiào
 倒地: dǎo dì
 倒坍: dǎo tān
 倒塌: dǎo tā
@@ -7611,6 +7656,7 @@
 倒灶: dǎo zào
 倒烟: dào yān
 倒爷: dǎo yé
+倒片: dào piàn
 倒班: dǎo bān
 倒相: dào xiàng
 倒睫: dào jié
@@ -7643,6 +7689,7 @@
 倒车: dào chē
 倒车挡: dào chē dǎng
 倒转: dào zhuǎn
+倒转: dào zhuàn
 倒退: dào tuì
 倒运: dǎo yùn
 倒过儿: dào guò er
@@ -7838,6 +7885,7 @@
 假冒伪劣: jiǎ mào wěi liè
 假冒品: jiǎ mào pǐn
 假分数: jiǎ fēn shù
+假别: jià bié
 假动作: jiǎ dòng zuò
 假名: jiǎ míng
 假吏: jiǎ lì
@@ -8145,6 +8193,7 @@
 停顿: tíng dùn
 停飞: tíng fēi
 停食: tíng shí
+停驶: tíng shǐ
 健保: jiàn bǎo
 健儿: jiàn ér
 健全: jiàn quán
@@ -8281,6 +8330,7 @@
 伪代码: wěi dài mǎ
 伪劣: wěi liè
 伪君子: wěi jūn zǐ
+伪命题: wěi mìng tí
 伪善: wěi shàn
 伪善者: wěi shàn zhě
 伪基百科: wěi jī bǎi kē
@@ -8400,6 +8450,7 @@
 催吐剂: cuī tù jì
 催命: cuī mìng
 催奶: cuī nǎi
+催婚: cuī hūn
 催情: cuī qíng
 催更: cuī gēng
 催泪: cuī lèi
@@ -8706,7 +8757,7 @@
 倾盆: qīng pén
 倾盆大雨: qīng pén dà yǔ
 倾尽: qīng jìn
-倾箱倒箧: qīng xiāng dǎo qiè
+倾箱倒箧: qīng xiāng dào qiè
 倾羡: qīng xiàn
 倾翻: qīng fān
 倾耳: qīng ěr
@@ -8732,7 +8783,7 @@
 仅此而已: jǐn cǐ ér yǐ
 像元: xiàng yuán
 像差: xiàng chā
-像模像样: xiàng mó xiàng yàng
+像模像样: xiàng mú xiàng yàng
 像样: xiàng yàng
 像片: xiàng piàn
 像片簿: xiàng piàn bù
@@ -8807,6 +8858,7 @@
 价键: jià jiàn
 价电子: jià diàn zǐ
 僻地: pì dì
+僻处: pì chǔ
 僻远: pì yuǎn
 僻静: pì jìng
 仪仗: yí zhàng
@@ -9091,6 +9143,7 @@
 兆周: zhào zhōu
 兆字节: zhào zì jié
 兆瓦: zhào wǎ
+兆瓦时: zhào wǎ shí
 兆瓦特: zhào wǎ tè
 兆赫: zhào hè
 兆电子伏: zhào diàn zǐ fú
@@ -9139,6 +9192,7 @@
 先天性: xiān tiān xìng
 先天性缺陷: xiān tiān xìng quē xiàn
 先天愚型: xiān tiān yú xíng
+先天与后天: xiān tiān yǔ hòu tiān
 先妣: xiān bǐ
 先容: xiān róng
 先导: xiān dǎo
@@ -9227,6 +9281,7 @@
 光学: guāng xué
 光学仪器: guāng xué yí qì
 光学字符识别: guāng xué zì fú shí bié
+光学雷达: guāng xué léi dá
 光学显微镜: guāng xué xiǎn wēi jìng
 光宗耀祖: guāng zōng yào zǔ
 光害: guāng hài
@@ -9343,6 +9398,7 @@
 光量: guāng liàng
 光阴: guāng yīn
 光阴似箭: guāng yīn sì jiàn
+光阴荏苒: guāng yīn rěn rǎn
 光隔离器: guāng gé lí qì
 光电: guāng diàn
 光电二极管: guāng diàn èr jí guǎn
@@ -9414,6 +9470,7 @@
 克林霉素: kè lín méi sù
 克林顿: kè lín dùn
 克格勃: kè gé bó
+克氏原螯虾: kè shì yuán áo xiā
 克汀病: kè tīng bìng
 克沙奇病毒: kè shā qí bìng dú
 克流感: kè liú gǎn
@@ -9483,7 +9540,7 @@
 免疫力: miǎn yì lì
 免疫反应: miǎn yì fǎn yìng
 免疫学: miǎn yì xué
-免疫应答: miǎn yì yīng dá
+免疫应答: miǎn yì yìng dá
 免疫法: miǎn yì fǎ
 免疫系统: miǎn yì xì tǒng
 免票: miǎn piào
@@ -9491,6 +9548,7 @@
 免税: miǎn shuì
 免签: miǎn qiān
 免职: miǎn zhí
+免谈: miǎn tán
 免责条款: miǎn zé tiáo kuǎn
 免责声明: miǎn zé shēng míng
 免费: miǎn fèi
@@ -9570,6 +9628,7 @@
 入口页: rù kǒu yè
 入味: rù wèi
 入围: rù wéi
+入围者: rù wéi zhě
 入园: rù yuán
 入团: rù tuán
 入土: rù tǔ
@@ -9640,6 +9699,7 @@
 内丹: nèi dān
 内乱: nèi luàn
 内人: nèi rén
+内侧: nèi cè
 内传: nèi zhuàn
 内伤: nèi shāng
 内兄: nèi xiōng
@@ -10091,6 +10151,7 @@
 两难: liǎng nán
 两面: liǎng miàn
 两面三刀: liǎng miàn sān dāo
+两面刃: liǎng miàn rèn
 两面派: liǎng miàn pài
 两头: liǎng tóu
 两头儿: liǎng tóu er
@@ -10128,6 +10189,7 @@
 八块腹肌: bā kuài fù jī
 八大元老: bā dà yuán lǎo
 八大工业国组织: bā dà gōng yè guó zǔ zhī
+八大菜系: bā dà cài xì
 八婆: bā pó
 八字: bā zì
 八字命理: bā zì mìng lǐ
@@ -10141,6 +10203,7 @@
 八字还没一撇儿: bā zì hái méi yī piě er
 八字胡: bā zì hú
 八字胡须: bā zì hú xū
+八家将: bā jiā jiàng
 八宿: bā sù
 八宿县: bā sù xiàn
 八宝丹: bā bǎo dān
@@ -10268,6 +10331,7 @@
 公共事业: gōng gòng shì yè
 公共交换电话网路: gōng gòng jiāo huàn diàn huà wǎng lù
 公共交通: gōng gòng jiāo tōng
+公共休息室: gōng gòng xiū xī shì
 公共假期: gōng gòng jià qī
 公共团体: gōng gòng tuán tǐ
 公共场所: gōng gòng chǎng suǒ
@@ -10325,6 +10389,7 @@
 公孙: gōng sūn
 公孙起: gōng sūn qǐ
 公孙龙: gōng sūn lóng
+公学: gōng xué
 公安: gōng ān
 公安官员: gōng ān guān yuán
 公安局: gōng ān jú
@@ -10423,6 +10488,7 @@
 公众: gōng zhòng
 公众人物: gōng zhòng rén wù
 公众意见: gōng zhòng yì jiàn
+公众号: gōng zhòng hào
 公众集会: gōng zhòng jí huì
 公众电信网路: gōng zhòng diàn xìn wǎng lù
 公知: gōng zhī
@@ -10546,7 +10612,6 @@
 六淫: liù yín
 六环路: liù huán lù
 六甲: liù jiǎ
-六甲乡: liù jiǎ xiāng
 六畜: liù chù
 六盘山: liù pán shān
 六盘水: liù pán shuǐ
@@ -11001,6 +11066,7 @@
 幂级数: mì jí shù
 冬不拉: dōng bù lā
 冬令: dōng lìng
+冬令时: dōng lìng shí
 冬夏: dōng xià
 冬天: dōng tiān
 冬奥会: dōng ào huì
@@ -11010,6 +11076,7 @@
 冬山: dōng shān
 冬山乡: dōng shān xiāng
 冬月: dōng yuè
+冬残奥会: dōng cán ào huì
 冬烘: dōng hōng
 冬瓜: dōng guā
 冬病夏治: dōng bìng xià zhì
@@ -11085,7 +11152,8 @@
 冰凉: bīng liáng
 冰淇淋: bīng qí lín
 冰清玉洁: bīng qīng yù jié
-冰溜: bīng liū
+冰湖: bīng hú
+冰溜: bīng liù
 冰沟: bīng gōu
 冰激凌: bīng jī líng
 冰火: bīng huǒ
@@ -11118,6 +11186,7 @@
 冰醋酸: bīng cù suān
 冰释: bīng shì
 冰释前嫌: bīng shì qián xián
+冰锥: bīng zhuī
 冰镐: bīng gǎo
 冰镇: bīng zhèn
 冰镩: bīng cuān
@@ -11151,6 +11220,7 @@
 冷冽: lěng liè
 冷冻: lěng dòng
 冷冻库: lěng dòng kù
+冷冻柜: lěng dòng guì
 冷切: lěng qiè
 冷却: lěng què
 冷却剂: lěng què jì
@@ -11283,6 +11353,7 @@
 冻土层: dòng tǔ céng
 冻害: dòng hài
 冻容: dòng róng
+冻柜: dòng guì
 冻死: dòng sǐ
 冻涨: dòng zhǎng
 冻疮: dòng chuāng
@@ -11306,6 +11377,7 @@
 凝液: níng yè
 凝滞: níng zhì
 凝炼: níng liàn
+凝睇: níng dì
 凝神: níng shén
 凝结: níng jié
 凝练: níng liàn
@@ -11400,6 +11472,7 @@
 凸多胞形: tū duō bāo xíng
 凸多边形: tū duō biān xíng
 凸多面体: tū duō miàn tǐ
+凸度: tū dù
 凸性: tū xìng
 凸折线: tū zhé xiàn
 凸槌: tū chuí
@@ -11539,9 +11612,11 @@
 出恭: chū gōng
 出息: chū xī
 出息: chū xi
+出战: chū zhàn
 出戏: chū xì
 出手: chū shǒu
 出招: chū zhāo
+出拳: chū quán
 出击: chū jī
 出操: chū cāo
 出新: chū xīn
@@ -11790,6 +11865,7 @@
 分娩: fēn miǎn
 分子: fēn zǐ
 分子: fèn zǐ
+分子: fèn zi
 分子化合物: fēn zǐ huà hé wù
 分子式: fēn zǐ shì
 分子料理: fēn zǐ liào lǐ
@@ -11897,6 +11973,7 @@
 分班: fēn bān
 分瓦: fēn wǎ
 分生组织: fēn shēng zǔ zhī
+分产主义: fēn chǎn zhǔ yì
 分界线: fēn jiè xiàn
 分异: fēn yì
 分当: fèn dāng
@@ -12237,6 +12314,7 @@
 判决: pàn jué
 判然: pàn rán
 判罪: pàn zuì
+判罚: pàn fá
 判若两人: pàn ruò liǎng rén
 判若云泥: pàn ruò yún ní
 判处: pàn chǔ
@@ -12287,7 +12365,6 @@
 别致: bié zhì
 别苗头: bié miáo tou
 别庄: bié zhuāng
-别着急: bié zháo jí
 别处: bié chù
 别号: bié hào
 别说: bié shuō
@@ -12380,6 +12457,7 @@
 利禄薰心: lì lù xūn xīn
 利纳克斯: lì nà kè sī
 利索: lì suo
+利维坦: lì wéi tǎn
 利兹: lì zī
 利落: lì luo
 利诱: lì yòu
@@ -12462,6 +12540,7 @@
 制动: zhì dòng
 制动器: zhì dòng qì
 制动踏板: zhì dòng tà bǎn
+制胜: zhì shèng
 制图: zhì tú
 制定: zhì dìng
 制导: zhì dǎo
@@ -12491,6 +12570,7 @@
 刷屏: shuā píng
 刷扣: shuā kòu
 刷新: shuā xīn
+刷新纪录: shuā xīn jì lù
 刷机: shuā jī
 刷洗: shuā xǐ
 刷爆: shuā bào
@@ -12606,6 +12686,7 @@
 削职: xuē zhí
 削职为民: xuē zhí wéi mín
 削足适履: xuē zú shì lǚ
+削铅笔: xiāo qiān bǐ
 削铅笔机: xiāo qiān bǐ jī
 削除: xuē chú
 削发: xuē fà
@@ -12751,6 +12832,7 @@
 前行: qián xíng
 前卫: qián wèi
 前言: qián yán
+前调: qián diào
 前赴后继: qián fù hòu jì
 前赵: qián zhào
 前身: qián shēn
@@ -13066,6 +13148,7 @@
 划线板: huà xiàn bǎn
 划花: huà huā
 划过: huá guò
+划重点: huà zhòng diǎn
 剧作家: jù zuò jiā
 剧团: jù tuán
 剧场: jù chǎng
@@ -13091,7 +13174,7 @@
 劈手: pī shǒu
 劈挂拳: pī guà quán
 劈柴: pī chái
-劈柴: pǐ chái
+劈柴: pǐ chai
 劈空扳害: pī kōng bān hài
 劈腿: pǐ tuǐ
 劈脸: pī liǎn
@@ -13135,7 +13218,7 @@
 刘涓子鬼遗方: liú juān zǐ guǐ yí fāng
 刘渊: liú yuān
 刘熙: liú xī
-刘禅: liú chán
+刘禅: liú shàn
 刘禹锡: liú yǔ xī
 刘义庆: liú yì qìng
 刘翔: liú xiáng
@@ -13212,6 +13295,7 @@
 力所不及: lì suǒ bù jí
 力所能及: lì suǒ néng jí
 力拓: lì tuò
+力拚: lì pàn
 力挫: lì cuò
 力挺: lì tǐng
 力挽狂澜: lì wǎn kuáng lán
@@ -13286,6 +13370,7 @@
 功过: gōng guò
 功高不赏: gōng gāo bù shǎng
 功高望重: gōng gāo wàng zhòng
+功高盖主: gōng gāo gài zhǔ
 加上: jiā shàng
 加之: jiā zhī
 加人一等: jiā rén yī děng
@@ -13294,6 +13379,7 @@
 加仑: jiā lún
 加俸: jiā fèng
 加俾额尔: jiā bǐ é ěr
+加仓: jiā cāng
 加倍: jiā bèi
 加值: jiā zhí
 加值型网路: jiā zhí xíng wǎng lù
@@ -13358,6 +13444,7 @@
 加工贸易: jiā gōng mào yì
 加强: jiā qiáng
 加强管制: jiā qiáng guǎn zhì
+加强针: jiā qiáng zhēn
 加彭: jiā péng
 加德士: jiā dé shì
 加德满都: jiā dé mǎn dū
@@ -13419,6 +13506,7 @@
 加特林: jiā tè lín
 加特林机枪: jiā tè lín jī qiāng
 加班: jiā bān
+加班费: jiā bān fèi
 加甜: jiā tián
 加百列: jiā bǎi liè
 加的夫: jiā de fū
@@ -13468,12 +13556,14 @@
 加里肋亚海: jiā lǐ lèi yà hǎi
 加重: jiā zhòng
 加重语气: jiā zhòng yǔ qì
+加钱: jiā qián
 加长: jiā cháng
 加餐: jiā cān
 加点: jiā diǎn
 劣势: liè shì
 劣币驱逐良币: liè bì qū zhú liáng bì
 劣汰: liè tài
+劣等: liè děng
 劣绅: liè shēn
 劣质: liè zhì
 劣迹: liè jì
@@ -13488,6 +13578,7 @@
 助威: zhù wēi
 助学贷款: zhù xué dài kuǎn
 助学金: zhù xué jīn
+助战: zhù zhàn
 助手: zhù shǒu
 助手席: zhù shǒu xí
 助推: zhù tuī
@@ -13577,6 +13668,7 @@
 勃朗峰: bó lǎng fēng
 勃海: bó hǎi
 勃然: bó rán
+勃然大怒: bó rán dà nù
 勃然变色: bó rán biàn sè
 勃发: bó fā
 勃兴: bó xīng
@@ -13641,7 +13733,6 @@
 动力反应堆: dòng lì fǎn yìng duī
 动力学: dòng lì xué
 动力系统: dòng lì xì tǒng
-动卧: dòng wò
 动口: dòng kǒu
 动名词: dòng míng cí
 动向: dòng xiàng
@@ -13678,6 +13769,7 @@
 动手: dòng shǒu
 动手动脚: dòng shǒu dòng jiǎo
 动手脚: dòng shǒu jiǎo
+动手术: dòng shǒu shù
 动摇: dòng yáo
 动植物: dòng zhí wù
 动植物分类: dòng zhí wù fēn lèi
@@ -13711,10 +13803,12 @@
 动能: dòng néng
 动能车: dòng néng chē
 动脉: dòng mài
+动脉瘤: dòng mài liú
 动脉硬化: dòng mài yìng huà
 动脉粥样硬化: dòng mài zhōu yàng yìng huà
 动脑: dòng nǎo
 动脑筋: dòng nǎo jīn
+动卧: dòng wò
 动荡: dòng dàng
 动见观瞻: dòng jiàn guān zhān
 动觉: dòng jué
@@ -13912,7 +14006,6 @@
 劝告: quàn gào
 劝和: quàn hé
 劝善惩恶: quàn shàn chéng è
-劝学: quàn xué
 劝导: quàn dǎo
 劝慰: quàn wèi
 劝戒: quàn jiè
@@ -13967,6 +14060,7 @@
 勾走: gōu zǒu
 勾起: gōu qǐ
 勾践: gōu jiàn
+勾通: gōu tōng
 勾连: gōu lián
 勾选: gōu xuǎn
 勾销: gōu xiāo
@@ -14032,6 +14126,7 @@
 包治百病: bāo zhì bǎi bìng
 包活: bāo huó
 包涵: bāo hán
+包浆: bāo jiāng
 包尔: bāo ěr
 包产: bāo chǎn
 包产到户: bāo chǎn dào hù
@@ -14388,7 +14483,6 @@
 北镇满族自治县: běi zhèn mǎn zú zì zhì xiàn
 北长尾山雀: běi cháng wěi shān què
 北门: běi mén
-北门乡: běi mén xiāng
 北关: běi guān
 北关区: běi guān qū
 北非: běi fēi
@@ -14493,6 +14587,7 @@
 区画: qū huà
 区码: qū mǎ
 区处: qū chǔ
+区处: qū chù
 区号: qū hào
 区议会: qū yì huì
 区长: qū zhǎng
@@ -14648,6 +14743,7 @@
 千方百计: qiān fāng bǎi jì
 千焦: qiān jiāo
 千瓦: qiān wǎ
+千瓦时: qiān wǎ shí
 千疮百孔: qiān chuāng bǎi kǒng
 千真万确: qiān zhēn wàn què
 千禧一代: qiān xǐ yī dài
@@ -14694,7 +14790,9 @@
 千头万绪: qiān tóu wàn xù
 千鸟渊国家公墓: qiān niǎo yuān guó jiā gōng mù
 千碱基对: qiān jiǎn jī duì
+升上: shēng shàng
 升任: shēng rèn
+升值: shēng zhí
 升入: shēng rù
 升堂入室: shēng táng rù shì
 升压: shēng yā
@@ -14714,6 +14812,7 @@
 升格: shēng gé
 升汞: shēng gǒng
 升温: shēng wēn
+升空: shēng kōng
 升级: shēng jí
 升结肠: shēng jié cháng
 升职: shēng zhí
@@ -14722,8 +14821,10 @@
 升起: shēng qǐ
 升遐: shēng xiá
 升迁: shēng qiān
+升降: shēng jiàng
 升降机: shēng jiàng jī
 升腾: shēng téng
+升高: shēng gāo
 午休: wǔ xiū
 午前: wǔ qián
 午夜: wǔ yè
@@ -14857,7 +14958,7 @@
 半路杀出的程咬金: bàn lù shā chū de chéng yǎo jīn
 半蹲: bàn dūn
 半蹼鹬: bàn pǔ yù
-半身不遂: bàn shēn bù suì
+半身不遂: bàn shēn bù suí
 半身像: bàn shēn xiàng
 半轴: bàn zhóu
 半载: bàn zǎi
@@ -14978,7 +15079,6 @@
 南冕座: nán miǎn zuò
 南冰洋: nán bīng yáng
 南化: nán huà
-南化乡: nán huà xiāng
 南北: nán běi
 南北朝: nán běi cháo
 南北极: nán běi jí
@@ -15090,6 +15190,7 @@
 南沙: nán shā
 南沙区: nán shā qū
 南沙群岛: nán shā qún dǎo
+南波万: nán bō wàn
 南泥湾: nán ní wān
 南洋: nán yáng
 南洋商报: nán yáng shāng bào
@@ -15124,6 +15225,7 @@
 南特: nán tè
 南瓜: nán guā
 南瓜灯: nán guā dēng
+南疆: nán jiāng
 南疆: nán jiāng
 南皮: nán pí
 南皮县: nán pí xiàn
@@ -15279,7 +15381,7 @@
 博而不精: bó ér bù jīng
 博闻多识: bó wén duō shí
 博闻强记: bó wén qiáng jì
-博闻强识: bó wén qiáng shí
+博闻强识: bó wén qiáng zhì
 博兴: bó xīng
 博兴县: bó xīng xiàn
 博茨瓦纳: bó cí wǎ nà
@@ -15553,6 +15655,7 @@
 印谱: yìn pǔ
 印象: yìn xiàng
 印象主义: yìn xiàng zhǔ yì
+印象分: yìn xiàng fēn
 印象派: yìn xiàng pài
 印迹: yìn jì
 印钞票: yìn chāo piào
@@ -15639,7 +15742,7 @@
 卵形: luǎn xíng
 卵模: luǎn mó
 卵母细胞: luǎn mǔ xì bāo
-卵泡: luǎn pào
+卵泡: luǎn pāo
 卵用鸡: luǎn yòng jī
 卵石: luǎn shí
 卵磷脂: luǎn lín zhī
@@ -15764,6 +15867,7 @@
 原告: yuán gào
 原味: yuán wèi
 原因: yuán yīn
+原图: yuán tú
 原地: yuán dì
 原地踏步: yuán dì tà bù
 原址: yuán zhǐ
@@ -15845,6 +15949,7 @@
 原罪: yuán zuì
 原义: yuán yì
 原声: yuán shēng
+原声带: yuán shēng dài
 原肾管: yuán shèn guǎn
 原色: yuán sè
 原著: yuán zhù
@@ -15909,6 +16014,8 @@
 去死: qù sǐ
 去氧核糖核酸: qù yǎng hé táng hé suān
 去氧麻黄碱: qù yǎng má huáng jiǎn
+去污: qù wū
+去污名化: qù wū míng huà
 去火: qù huǒ
 去留: qù liú
 去皮: qù pí
@@ -16106,7 +16213,7 @@
 反射作用: fǎn shè zuò yòng
 反射光: fǎn shè guāng
 反射动作: fǎn shè dòng zuò
-反射区治疗: fǎn shè ōu zhì liáo
+反射区治疗: fǎn shè qū zhì liáo
 反射弧: fǎn shè hú
 反射星云: fǎn shè xīng yún
 反射疗法: fǎn shè liáo fǎ
@@ -16140,7 +16247,7 @@
 反应堆芯: fǎn yìng duī xīn
 反应式: fǎn yìng shì
 反应时: fǎn yìng shí
-反应时间: fǎn yīng shí jiān
+反应时间: fǎn yìng shí jiān
 反应炉: fǎn yìng lú
 反应锅: fǎn yìng guō
 反战: fǎn zhàn
@@ -16186,6 +16293,7 @@
 反渗透法: fǎn shèn tòu fǎ
 反演: fǎn yǎn
 反潜: fǎn qián
+反乌托邦: fǎn wū tuō bāng
 反照: fǎn zhào
 反照率: fǎn zhào lǜ
 反物质: fǎn wù zhì
@@ -16557,6 +16665,7 @@
 口糊: kǒu hú
 口粮: kǒu liáng
 口红: kǒu hóng
+口红胶: kǒu hóng jiāo
 口络: kǒu luò
 口罩: kǒu zhào
 口腔: kǒu qiāng
@@ -17057,7 +17166,6 @@
 台北县: tái běi xiàn
 台北金马影展: tái běi jīn mǎ yǐng zhǎn
 台南: tái nán
-台南县: tái nán xiàn
 台商: tái shāng
 台妹: tái mèi
 台安: tái ān
@@ -17218,6 +17326,7 @@
 司药: sī yào
 司铎: sī duó
 司长: sī zhǎng
+司陶特: sī táo tè
 司马: sī mǎ
 司马光: sī mǎ guāng
 司马懿: sī mǎ yì
@@ -17249,6 +17358,7 @@
 吃人不吐骨头: chī rén bù tǔ gǔ tóu
 吃人血馒头: chī rén xuè mán tou
 吃住: chī zhù
+吃公粮: chī gōng liáng
 吃刀: chī dāo
 吃别人嚼过的馍不香: chī bié rén jiáo guò de mó bù xiāng
 吃到饱: chī dào bǎo
@@ -17289,8 +17399,10 @@
 吃水不忘掘井人: chī shuǐ bù wàng jué jǐng rén
 吃油: chī yóu
 吃法: chī fǎ
+吃灰: chī huī
 吃熊心豹子胆: chī xióng xīn bào zi dǎn
 吃牢饭: chī láo fàn
+吃瓜: chī guā
 吃瓜群众: chī guā qún zhòng
 吃白食: chī bái shí
 吃白饭: chī bái fàn
@@ -17298,7 +17410,7 @@
 吃皇粮: chī huáng liáng
 吃相: chī xiàng
 吃硬不吃软: chī yìng bù chī ruǎn
-吃空额: chī kòng è
+吃空额: chī kòng é
 吃空饷: chī kòng xiǎng
 吃穿: chī chuān
 吃粮不管事: chī liáng bù guǎn shì
@@ -17313,7 +17425,7 @@
 吃亏上当: chī kuī shàng dàng
 吃螺丝: chī luó sī
 吃里爬外: chī lǐ pá wài
-吃角子老虎: chī jiǎo zi lǎo hu
+吃角子老虎: chī jiǎo zi lǎo hǔ
 吃请: chī qǐng
 吃豆人: chī dòu rén
 吃豆腐: chī dòu fu
@@ -17731,6 +17843,7 @@
 同型配子: tóng xíng pèi zǐ
 同堂: tóng táng
 同好: tóng hào
+同妻: tóng qī
 同婚: tóng hūn
 同字框: tóng zì kuàng
 同学: tóng xué
@@ -18176,16 +18289,17 @@
 含忍耻辱: hán rěn chǐ rǔ
 含情脉脉: hán qíng mò mò
 含意: hán yì
+含括: hán guā
 含有: hán yǒu
 含气: hán qì
 含水: hán shuǐ
+含水层: hán shuǐ céng
 含沙射影: hán shā shè yǐng
 含沙量: hán shā liàng
 含油: hán yóu
 含油岩: hán yóu yán
 含泪: hán lèi
 含混: hán hùn
-含燐: hán lín
 含片: hán piàn
 含碳: hán tàn
 含磷: hán lín
@@ -18439,6 +18553,7 @@
 呆根: dāi gēn
 呆滞: dāi zhì
 呆瓜: dāi guā
+呆站: dāi zhàn
 呆笨: dāi bèn
 呆若木鸡: dāi ruò mù jī
 呆萌: dāi méng
@@ -18496,6 +18611,7 @@
 呢喃: ní nán
 呢喃细语: ní nán xì yǔ
 呢子: ní zi
+呤呤: líng líng
 呦呦: yōu yōu
 周一岳: zhōu yī yuè
 周三径一: zhōu sān jìng yī
@@ -18589,7 +18705,7 @@
 呫哔: tiè bì
 呫吨: zhān dūn
 呫吨酮: zhān dūn tóng
-呫嚅: tiè rú
+呫嚅: chè rú
 呫嗫: tiè niè
 呫毕: tiè bì
 呱呱: guā guā
@@ -18627,7 +18743,6 @@
 呼伦湖: hū lún hú
 呼伦贝尔: hū lún bèi ěr
 呼伦贝尔市: hū lún bèi ěr shì
-呼伦贝尔盟: hū lún bèi ěr méng
 呼伦贝尔草原: hū lún bèi ěr cǎo yuán
 呼出: hū chū
 呼叫: hū jiào
@@ -18662,6 +18777,7 @@
 呼噜噜: hū lū lū
 呼图壁: hū tú bì
 呼图壁县: hū tú bì xiàn
+呼天抢地: hū tiān qiāng dì
 呼弄: hū nòng
 呼应: hū yìng
 呼拉圈: hū lā quān
@@ -18691,7 +18807,6 @@
 命令行: mìng lìng háng
 命危: mìng wēi
 命名: mìng míng
-命名作业: mìng míng zuò yè
 命名日: mìng míng rì
 命名法: mìng míng fǎ
 命名系统: mìng míng xì tǒng
@@ -18867,7 +18982,6 @@
 咧嘴: liě zuǐ
 咧开嘴笑: liě kāi zuǐ xiào
 咨嗟: zī jiē
-咨客: zī kè
 咨文: zī wén
 咨询: zī xún
 咪咪: mī mī
@@ -19074,7 +19188,7 @@
 哈啰出行: hā luō chū xíng
 哈罗德: hā luó dé
 哈士奇: hā shì qí
-哈士蟆: hā shì má
+哈士蟆: hà shi má
 哈奴曼: hā nú màn
 哈姆雷特: hā mǔ léi tè
 哈季奇: hā jì qí
@@ -19172,7 +19286,6 @@
 哥们: gē men
 哥们儿: gē men er
 哥伦布: gē lún bù
-哥伦布纪: gē lún bù jì
 哥伦比亚: gē lún bǐ yà
 哥伦比亚大学: gē lún bǐ yà dà xué
 哥伦比亚广播公司: gē lún bǐ yà guǎng bō gōng sī
@@ -19220,7 +19333,7 @@
 哪儿: nǎ er
 哪儿的话: nǎ er de huà
 哪儿跟哪儿: nǎ er gēn nǎ er
-哪吒: né zha
+哪吒: né zhā
 哪壶不开提哪壶: nǎ hú bù kāi tí nǎ hú
 哪怕: nǎ pà
 哪知: nǎ zhī
@@ -19381,7 +19494,7 @@
 唧咕: jī gu
 唧唧: jī jī
 唧唧喳喳: jī jī zhā zhā
-唧唧嘎嘎: jī jī gá gá
+唧唧嘎嘎: jī ji gā gā
 唧啾: jī jiū
 唧筒: jī tǒng
 唧筒座: jī tǒng zuò
@@ -19406,7 +19519,7 @@
 唯一性: wéi yī xìng
 唯利是图: wéi lì shì tú
 唯命是从: wéi mìng shì cóng
-唯唯诺诺: wěi wěi nuò nuò
+唯唯诺诺: wéi wéi nuò nuò
 唯心主义: wéi xīn zhǔ yì
 唯心论: wéi xīn lùn
 唯恐: wéi kǒng
@@ -19451,6 +19564,7 @@
 唱腔: chàng qiāng
 唱臂: chàng bì
 唱衰: chàng shuāi
+唱词: chàng cí
 唱诗班: chàng shī bān
 唱针: chàng zhēn
 唱双簧: chàng shuāng huáng
@@ -19458,7 +19572,7 @@
 唱高调: chàng gāo diào
 唱高调儿: chàng gāo diào er
 唱黑脸: chàng hēi liǎn
-唵嘛呢叭咪吽: ǎn ma ní bā mī hōng
+唵嘛呢叭咪吽: ǎn má ní bā mī hōng
 念念有词: niàn niàn yǒu cí
 唾手可得: tuò shǒu kě dé
 唾弃: tuò qì
@@ -19472,6 +19586,7 @@
 唿哨: hū shào
 唿喇: hū lǎ
 唿喇喇: hū là là
+啁哳: zhāo zhā
 啁啾: zhōu jiū
 啃书: kěn shū
 啃老: kěn lǎo
@@ -19677,7 +19792,8 @@
 啦啦队长: lā lā duì zhǎng
 啪啪啪: pā pā pā
 啪哒: pā dā
-啫哩: zhě lī
+啪嚓: pā chā
+啫哩: zhě lí
 啫喱: zhě lí
 啵啵: bō bō
 啷当: lāng dāng
@@ -19717,7 +19833,6 @@
 喀纳斯湖: kā nà sī hú
 喀麦隆: kā mài lóng
 喁喁: yóng yóng
-喂奶: wèi nǎi
 喃喃: nán nán
 喃喃自语: nán nán zì yǔ
 喃字: nán zì
@@ -19776,6 +19891,7 @@
 喇沙: lǎ shā
 喇沙: lǎ shā
 喇舌: lǎ jī
+喇赛: lā sài
 喉咽: hóu yān
 喉咙: hóu lóng
 喉塞音: hóu sè yīn
@@ -19819,6 +19935,7 @@
 喜不自胜: xǐ bù zì shèng
 喜不自禁: xǐ bù zì jīn
 喜事: xǐ shì
+喜人: xǐ rén
 喜来登: xǐ lái dēng
 喜出望外: xǐ chū wàng wài
 喜则气缓: xǐ zé qì huǎn
@@ -19864,6 +19981,7 @@
 喜气洋洋: xǐ qì yáng yáng
 喜洋洋: xǐ yáng yáng
 喜滋滋: xǐ zī zī
+喜当爹: xǐ dāng diē
 喜盈盈: xǐ yíng yíng
 喜笑: xǐ xiào
 喜笑颜开: xǐ xiào yán kāi
@@ -19892,7 +20010,7 @@
 喝令: hè lìng
 喝倒彩: hè dào cǎi
 喝光: hē guāng
-喝叱: hē chì
+喝叱: hè chì
 喝彩: hè cǎi
 喝掉: hē diào
 喝挂: hē guà
@@ -19952,7 +20070,7 @@
 丧亲: sàng qīn
 丧身: sàng shēn
 丧钟: sāng zhōng
-丧门星: sāng mén xīng
+丧门星: sàng mén xīng
 丧门神: sāng mén shén
 丧魂失魄: sàng hún shī pò
 丧魂落魄: sàng hún luò pò
@@ -20042,7 +20160,7 @@
 单手: dān shǒu
 单打: dān dǎ
 单打独斗: dān dǎ dú dòu
-单挑: dān tiāo
+单挑: dān tiǎo
 单击: dān jī
 单据: dān jù
 单摆: dān bǎi
@@ -20174,6 +20292,7 @@
 嗓子: sǎng zi
 嗓子眼: sǎng zi yǎn
 嗓子眼儿: sǎng zi yǎn er
+嗓眼: sǎng yǎn
 嗓门: sǎng mén
 嗓门眼: sǎng mén yǎn
 嗓音: sǎng yīn
@@ -20203,7 +20322,7 @@
 嗜血: shì xuè
 嗜血杆菌: shì xuè gǎn jūn
 嗜酒如命: shì jiǔ rú mìng
-嗜酸乳干菌: shì suān rǔ gān jūn
+嗜酸乳杆菌: shì suān rǔ gǎn jūn
 嗜酸性球: shì suān xìng qiú
 嗜酸性粒细胞: shì suān xìng lì xì bāo
 嗜碱性球: shì jiǎn xìng qiú
@@ -20236,6 +20355,7 @@
 嘀咕: dí gu
 嘀嗒: dī dā
 嘁嘁喳喳: qī qi chā chā
+叹口气: tàn kǒu qì
 叹息: tàn xī
 叹惜: tàn xī
 叹服: tàn fú
@@ -20334,13 +20454,14 @@
 叽哩咕噜: jī li gū lū
 叽叽咕咕: jī ji gū gū
 叽叽喳喳: jī jī zhā zhā
-叽叽嘎嘎: jī jī gá gá
+叽叽嘎嘎: jī ji gā gā
 叽里咕噜: jī li gū lū
 嘲哳: zhāo zhā
 嘲弄: cháo nòng
 嘲笑: cháo xiào
 嘲讽: cháo fěng
 嘲谑: cháo xuè
+嘴不严: zuǐ bù yán
 嘴乖: zuǐ guāi
 嘴唇: zuǐ chún
 嘴啃泥: zuǐ kěn ní
@@ -20379,8 +20500,7 @@
 嘶鸣: sī míng
 呒啥: ḿ shá
 呒没: ḿ méi
-呒虾米: wǔ xiā mǐ
-呒虾米输入法: fǔ xiā mǐ shū rù fǎ
+呒虾米: wú xiā mǐ
 嘹亮: liáo liàng
 嘹喨: liáo liàng
 嘻哈: xī hā
@@ -20392,7 +20512,7 @@
 啴缓: chǎn huǎn
 嘿咻: hēi xiū
 嘿嘿: hēi hēi
-恶嗪: ě qín
+𫫇嗪: è qín
 恶心: ě xīn
 噍类: jiào lèi
 噎住: yē zhù
@@ -20437,14 +20557,14 @@
 噬咬: shì yǎo
 噬脐莫及: shì qí mò jí
 噬菌体: shì jūn tǐ
-嗳气: ài qì
-嗳气吞酸: ài qì tūn suān
-嗳气呕逆: ài qì ǒu nì
-嗳气腐臭: ài qì fǔ chòu
-嗳气酸腐: ài qì suān fǔ
-嗳腐: ài fǔ
-嗳腐吞酸: ài fǔ tūn suān
-嗳酸: ài suān
+嗳气: ǎi qì
+嗳气吞酸: ǎi qì tūn suān
+嗳气呕逆: ǎi qì ǒu nì
+嗳气腐臭: ǎi qì fǔ chòu
+嗳气酸腐: ǎi qì suān fǔ
+嗳腐: ǎi fǔ
+嗳腐吞酸: ǎi fǔ tūn suān
+嗳酸: ǎi suān
 噱头: xué tóu
 喷出: pēn chū
 喷出岩: pēn chū yán
@@ -20472,6 +20592,7 @@
 喷涌: pēn yǒng
 喷漆: pēn qī
 喷漆推进: pēn qī tuī jìn
+喷溅: pēn jiàn
 喷洒: pēn sǎ
 喷洒器: pēn sǎ qì
 喷火: pēn huǒ
@@ -20548,7 +20669,7 @@
 向导: xiàng dǎo
 向往: xiàng wǎng
 严了眼儿: yán le yǎn er
-严以律己: yǎn yǐ lǜ jǐ
+严以律己: yán yǐ lǜ jǐ
 严以责己宽以待人: yán yǐ zé jǐ kuān yǐ dài rén
 严冬: yán dōng
 严刑: yán xíng
@@ -20670,6 +20791,7 @@
 四分历: sì fēn lì
 四分卫: sì fēn wèi
 四分音符: sì fēn yīn fú
+四则运算: sì zé yùn suàn
 四化: sì huà
 四十: sì shí
 四十二章经: sì shí èr zhāng jīng
@@ -20841,6 +20963,7 @@
 回单: huí dān
 回单儿: huí dān er
 回嗔作喜: huí chēn zuò xǐ
+回嘴: huí zuǐ
 回回: huí hui
 回回: huí huí
 回回青: huí huí qīng
@@ -20871,6 +20994,7 @@
 回扣: huí kòu
 回折: huí zhé
 回折格子: huí zhé gé zi
+回抽: huí chōu
 回拜: huí bài
 回扫: huí sǎo
 回采: huí cǎi
@@ -20890,6 +21014,7 @@
 回族人: huí zú rén
 回春: huí chūn
 回暖: huí nuǎn
+回望: huí wàng
 回条: huí tiáo
 回款: huí kuǎn
 回归: huí guī
@@ -20949,6 +21074,7 @@
 回转: huí zhuǎn
 回返: huí fǎn
 回退: huí tuì
+回过头来: huí guò tóu lái
 回避: huí bì
 回还: huí huán
 回邮信封: huí yóu xìn fēng
@@ -21080,6 +21206,7 @@
 固体热容激光器: gù tǐ rè róng jī guāng qì
 固体物理: gù tǐ wù lǐ
 固体物质: gù tǐ wù zhì
+固体食物: gù tǐ shí wù
 圃鹀: pǔ wú
 圈内: quān nèi
 圈圈: quān quan
@@ -21091,6 +21218,8 @@
 圈子: quān zi
 圈数: quān shù
 圈状物: quān zhuàng wù
+圈粉: quān fěn
+圈钱: quān qián
 圈养: juàn yǎng
 圈点: quān diǎn
 圉人: yǔ rén
@@ -21114,6 +21243,7 @@
 国共内战: guó gòng nèi zhàn
 国共两党: guó gòng liǎng dǎng
 国共合作: guó gòng hé zuò
+国别: guó bié
 国力: guó lì
 国务: guó wù
 国务卿: guó wù qīng
@@ -21287,6 +21417,7 @@
 国界线: guó jiè xiàn
 国画: guó huà
 国破家亡: guó pò jiā wáng
+国祚: guó zuò
 国立: guó lì
 国立台北科技大学: guó lì tái běi kē jì dà xué
 国立台湾技术大学: guó lì tái wān jì shù dà xué
@@ -21604,6 +21735,7 @@
 团年: tuán nián
 团建: tuán jiàn
 团扇: tuán shàn
+团灭: tuán miè
 团结: tuán jié
 团结就是力量: tuán jié jiù shì lì liang
 团结工会: tuán jié gōng huì
@@ -21644,6 +21776,7 @@
 土城: tǔ chéng
 土城市: tǔ chéng shì
 土堆: tǔ duī
+土墼: tǔ jī
 土壤: tǔ rǎng
 土壤学: tǔ rǎng xué
 土坝: tǔ bà
@@ -21705,6 +21838,7 @@
 土耳其石: tǔ ěr qí shí
 土耳其语: tǔ ěr qí yǔ
 土耳其软糖: tǔ ěr qí ruǎn táng
+土腥: tǔ xīng
 土茴香: tǔ huí xiāng
 土著: tǔ zhù
 土著人: tǔ zhù rén
@@ -21732,6 +21866,7 @@
 土阶茅屋: tǔ jiē máo wū
 土阶茅茨: tǔ jiē máo cí
 土鸡: tǔ jī
+土音: tǔ yīn
 土头土脑: tǔ tóu tǔ nǎo
 土香: tǔ xiāng
 土魠鱼: tǔ tuō yú
@@ -22103,7 +22238,9 @@
 坐失机宜: zuò shī jī yí
 坐失良机: zuò shī liáng jī
 坐好: zuò hǎo
+坐姿: zuò zī
 坐定: zuò dìng
+坐实: zuò shí
 坐山观虎斗: zuò shān guān hǔ dòu
 坐席: zuò xí
 坐厕: zuò cè
@@ -22124,7 +22261,7 @@
 坐立不安: zuò lì bù ān
 坐立难安: zuò lì nán ān
 坐而论道: zuò ér lùn dào
-坐卧不宁: zuò wò bù nìng
+坐卧不宁: zuò wò bù níng
 坐台: zuò tái
 坐落: zuò luò
 坐药: zuò yào
@@ -22167,6 +22304,7 @@
 坡头: pō tóu
 坡头区: pō tóu qū
 坡鹿: pō lù
+坤包: kūn bāo
 坤甸: kūn diàn
 坦佩雷: tǎn pèi léi
 坦克: tǎn kè
@@ -22243,6 +22381,7 @@
 垃圾邮件: lā jī yóu jiàn
 垃圾电邮: lā jī diàn yóu
 垃圾食品: lā jī shí pǐn
+型别: xíng bié
 型式: xíng shì
 型态: xíng tài
 型材: xíng cái
@@ -22514,6 +22653,7 @@
 基本定理: jī běn dìng lǐ
 基本概念: jī běn gài niàn
 基本法: jī běn fǎ
+基本盘: jī běn pán
 基本粒子: jī běn lì zǐ
 基本词汇: jī běn cí huì
 基本需要: jī běn xū yào
@@ -22547,6 +22687,7 @@
 基础: jī chǔ
 基础问题: jī chǔ wèn tí
 基础教育: jī chǔ jiào yù
+基础病: jī chǔ bìng
 基础结构: jī chǔ jié gòu
 基础设施: jī chǔ shè shī
 基础设施即服务: jī chǔ shè shī jí fú wù
@@ -22590,9 +22731,10 @@
 堂堂正正: táng táng zhèng zhèng
 堂妹: táng mèi
 堂妹夫: táng mèi fu
+堂姊: táng zǐ
 堂姊妹: táng zǐ mèi
 堂姐: táng jiě
-堂姐夫: tǎng jiě fu
+堂姐夫: táng jiě fu
 堂侄: táng zhí
 堂嫂: táng sǎo
 堂屋: táng wū
@@ -22604,6 +22746,7 @@
 堂皇: táng huáng
 堂而皇之: táng ér huáng zhī
 堂花: táng huā
+堂食: táng shí
 坚不可摧: jiān bù kě cuī
 坚信: jiān xìn
 坚信礼: jiān xìn lǐ
@@ -22939,6 +23082,7 @@
 冢中枯骨: zhǒng zhōng kū gǔ
 塞内加尔: sài nèi jiā ěr
 塞勒姆: sāi lè mǔ
+塞北: sài běi
 塞哥维亚: sè gē wéi yà
 塞外: sài wài
 塞子: sāi zi
@@ -23300,6 +23444,7 @@
 坏水: huài shuǐ
 坏疽: huài jū
 坏种: huài zhǒng
+坏笑: huài xiào
 坏脾气: huài pí qì
 坏肠子: huài cháng zi
 坏处: huài chu
@@ -23926,7 +24071,7 @@
 多项式方程: duō xiàng shì fāng chéng
 多项式方程组: duō xiàng shì fāng chéng zǔ
 多头: duō tóu
-多头市场: duō tóu shì cháng
+多头市场: duō tóu shì chǎng
 多余: duō yú
 多香果: duō xiāng guǒ
 多么: duō me
@@ -24082,7 +24227,6 @@
 大便: dà biàn
 大便干燥: dà biàn gān zào
 大便秘结: dà biàn mì jié
-大系: dà xì
 大侠: dà xiá
 大修: dà xiū
 大修道院: dà xiū dào yuàn
@@ -24095,7 +24239,6 @@
 大元帅: dà yuán shuài
 大先知书: dà xiān zhī shū
 大内: dà nèi
-大内乡: dà nèi xiāng
 大全: dà quán
 大公: dà gōng
 大公司: dà gōng sī
@@ -24154,7 +24297,7 @@
 大口: dà kǒu
 大口径: dà kǒu jìng
 大可不必: dà kě bù bì
-大司农: dā sī nóng
+大司农: dà sī nóng
 大吃: dà chī
 大吃一惊: dà chī yī jīng
 大吃二喝: dà chī èr hē
@@ -24648,6 +24791,7 @@
 大尽: dà jìn
 大盘子: dà pán zi
 大盘尾: dà pán wěi
+大盘鸡: dà pán jī
 大相径庭: dà xiāng jìng tíng
 大眼角: dà yǎn jiǎo
 大众: dà zhòng
@@ -24690,6 +24834,7 @@
 大篷车: dà péng chē
 大米: dà mǐ
 大粪: dà fèn
+大系: dà xì
 大纪元: dà jì yuán
 大纪元时报: dà jì yuán shí bào
 大约: dà yuē
@@ -24708,6 +24853,7 @@
 大总统: dà zǒng tǒng
 大骂: dà mà
 大羊驼: dà yáng tuó
+大美人: dà měi rén
 大义: dà yì
 大义凛然: dà yì lǐn rán
 大义灭亲: dà yì miè qīn
@@ -24982,6 +25128,8 @@
 大惊小怪: dà jīng xiǎo guài
 大体: dà tǐ
 大体上: dà tǐ shàng
+大体老师: dà tǐ lǎo shī
+大体解剖学: dà tǐ jiě pōu xué
 大闹: dà nào
 大闹天宫: dà nào tiān gōng
 大鱼大肉: dà yú dà ròu
@@ -25094,6 +25242,7 @@
 天地会: tiān dì huì
 天地玄黄: tiān dì xuán huáng
 天地良心: tiān dì liáng xīn
+天坑: tiān kēng
 天城文: tiān chéng wén
 天堂: tiān táng
 天坛: tiān tán
@@ -25123,7 +25272,7 @@
 天峻: tiān jùn
 天峻县: tiān jùn xiàn
 天崩地裂: tiān bēng dì liè
-天差地別: tiān chā dì bié
+天差地别: tiān chā dì bié
 天差地远: tiān chā dì yuǎn
 天帝: tiān dì
 天干: tiān gān
@@ -25321,6 +25470,7 @@
 天道酬勤: tiān dào chóu qín
 天边: tiān biān
 天那水: tiān nà shuǐ
+天量: tiān liàng
 天镇: tiān zhèn
 天镇县: tiān zhèn xiàn
 天长: tiān cháng
@@ -25458,7 +25608,6 @@
 太白粉: tài bái fěn
 太白县: tài bái xiàn
 太监: tài jiàn
-太石村: tài shí cūn
 太祖: tài zǔ
 太空: tài kōng
 太空人: tài kōng rén
@@ -25473,6 +25622,7 @@
 太空舱: tài kōng cāng
 太空行走: tài kōng xíng zǒu
 太空游: tài kōng yóu
+太空飞船: tài kōng fēi chuán
 太空飞船: tài kōng fēi chuán
 太虚: tài xū
 太虚: tài xū
@@ -25602,6 +25752,8 @@
 失败者: shī bài zhě
 失散: shī sàn
 失明: shī míng
+失明症: shī míng zhèng
+失智: shī zhì
 失智症: shī zhì zhèng
 失望: shī wàng
 失期: shī qī
@@ -25795,6 +25947,7 @@
 奇丑无比: qí chǒu wú bǐ
 奇门遁甲: qí mén dùn jiǎ
 奇丽: qí lì
+奇点: qí diǎn
 奈何: nài hé
 奈及利亚: nài jí lì yà
 奈培: nài péi
@@ -25875,10 +26028,10 @@
 契约精神: qì yuē jīng shén
 契诃夫: qì hē fū
 奔三: bēn sān
-奔三: bēn sān
+奔三: bèn sān
 奔命: bēn mìng
 奔丧: bēn sāng
-奔四: bēn sì
+奔四: bèn sì
 奔奔族: bēn bēn zú
 奔忙: bēn máng
 奔放: bēn fàng
@@ -25887,6 +26040,7 @@
 奔流: bēn liú
 奔泻: bēn xiè
 奔现: bēn xiàn
+奔窜: bēn cuàn
 奔袭: bēn xí
 奔走: bēn zǒu
 奔走相告: bēn zǒu xiāng gào
@@ -25901,7 +26055,7 @@
 奔腾: bēn téng
 奔腾: bēn téng
 奕䜣: yì xīn
-奕詝: yì zhǔ
+奕𬣞: yì zhǔ
 套中人: tào zhōng rén
 套交情: tào jiāo qing
 套件: tào jiàn
@@ -25994,6 +26148,7 @@
 奥切诺斯: ào qiē nuò sī
 奥利奥: ào lì ào
 奥利安: ào lì ān
+奥利给: ào lì gěi
 奥利维亚: ào lì wéi yà
 奥匈帝国: ào xiōng dì guó
 奥卡姆剃刀: ào kǎ mǔ tì dāo
@@ -26195,7 +26350,6 @@
 女色: nǚ sè
 女卫: nǚ wèi
 女装: nǚ zhuāng
-女装裁缝师: nǚ zhuāng cái feng shī
 女衬衫: nǚ chèn shān
 女警: nǚ jǐng
 女警员: nǚ jǐng yuán
@@ -26330,6 +26484,7 @@
 好好: hǎo hǎo
 好好先生: hǎo hǎo xiān sheng
 好好儿: hǎo hāo er
+好学: hǎo xué
 好学: hào xué
 好客: hào kè
 好家伙: hǎo jiā huo
@@ -26472,6 +26627,7 @@
 如约而至: rú yuē ér zhì
 如胶似漆: rú jiāo sì qī
 如臂使指: rú bì shǐ zhǐ
+如临大敌: rú lín dà dí
 如花: rú huā
 如花似玉: rú huā sì yù
 如若: rú ruò
@@ -26486,6 +26642,7 @@
 如醉如痴: rú zuì rú chī
 如释重负: rú shì zhòng fù
 如金似玉: rú jīn sì yù
+如云: rú yún
 如雷贯耳: rú léi guàn ěr
 如题: rú tí
 如愿: rú yuàn
@@ -26549,6 +26706,7 @@
 妖邪: yāo xié
 妖风: yāo fēng
 妖魔: yāo mó
+妖魔化: yāo mó huà
 妖魔鬼怪: yāo mó guǐ guài
 妗子: jìn zi
 妙不可言: miào bù kě yán
@@ -26672,6 +26830,9 @@
 姒文命: sì wén mìng
 姓名: xìng míng
 姓氏: xìng shì
+姓蒋还是姓汪: xìng jiǎng hái shi xìng wāng
+委以: wěi yǐ
+委以重任: wěi yǐ zhòng rèn
 委任: wěi rèn
 委任书: wěi rèn shū
 委任统治: wěi rèn tǒng zhì
@@ -26738,6 +26899,7 @@
 姨妈: yí mā
 姨妈巾: yí mā jīn
 姨母: yí mǔ
+姨母笑: yí mǔ xiào
 姨父: yí fu
 姨甥男女: yí sheng nán nǚ
 侄儿: zhí ér
@@ -26928,6 +27090,7 @@
 婊子: biǎo zi
 婚事: hūn shì
 婚介: hūn jiè
+婚假: hūn jià
 婚典: hūn diǎn
 婚前: hūn qián
 婚前性行为: hūn qián xìng xíng wéi
@@ -26967,6 +27130,7 @@
 妇姑勃溪: fù gū bó xī
 妇孺皆知: fù rú jiē zhī
 妇幼: fù yòu
+妇检: fù jiǎn
 妇洗器: fù xǐ qì
 妇产科: fù chǎn kē
 妇科: fù kē
@@ -27012,7 +27176,6 @@
 妈拉个巴子: mā lā ge bā zi
 妈的: mā de
 妈的法克: mā de fǎ kè
-妈眯: mā mi
 妈祖: mā zǔ
 妈卖批: mā mài pī
 媾合: gòu hé
@@ -27122,6 +27285,7 @@
 婴儿车: yīng ér chē
 婴孩: yīng hái
 婴幼儿: yīng yòu ér
+婴猴: yīng hóu
 嬴政: yíng zhèng
 婶婶: shěn shen
 婶子: shěn zi
@@ -27380,7 +27544,6 @@
 孝悌: xiào tì
 孝悌忠信: xiào tì zhōng xìn
 孝感: xiào gǎn
-孝感地区: xiào gǎn dì qū
 孝感市: xiào gǎn shì
 孝成王: xiào chéng wáng
 孝敬: xiào jìng
@@ -27569,6 +27732,7 @@
 学分: xué fēn
 学分制: xué fēn zhì
 学分小时: xué fēn xiǎo shí
+学到: xué dào
 学制: xué zhì
 学前教育: xué qián jiào yù
 学前班: xué qián bān
@@ -27663,6 +27827,8 @@
 孽缘: niè yuán
 孽障: niè zhàng
 孪生: luán shēng
+孪生兄弟: luán shēng xiōng dì
+孪生姐妹: luán shēng jiě mèi
 它们: tā men
 它本身: tā běn shēn
 宅女: zhái nǚ
@@ -27837,7 +28003,6 @@
 安定区: ān dìng qū
 安定器: ān dìng qì
 安定时间: ān dìng shí jiān
-安定乡: ān dìng xiāng
 安定门: ān dìng mén
 安家: ān jiā
 安家立业: ān jiā lì yè
@@ -28060,6 +28225,7 @@
 完全懂得: wán quán dǒng de
 完全归纳推理: wán quán guī nà tuī lǐ
 完全愈复: wán quán yù fù
+完胜: wán shèng
 完善: wán shàn
 完型填空: wán xíng tián kòng
 完好: wán hǎo
@@ -28076,9 +28242,11 @@
 完形测验: wán xíng cè yàn
 完成: wán chéng
 完成时: wán chéng shí
+完败: wán bài
 完整: wán zhěng
 完整性: wán zhěng xìng
 完满: wán mǎn
+完爆: wán bào
 完璧: wán bì
 完璧之身: wán bì zhī shēn
 完璧归赵: wán bì guī zhào
@@ -28180,7 +28348,6 @@
 官渡区: guān dù qū
 官爵: guān jué
 官田: guān tián
-官田乡: guān tián xiāng
 官私合营: guān sī hé yíng
 官称: guān chēng
 官箴: guān zhēn
@@ -28476,6 +28643,7 @@
 宣战: xuān zhàn
 宣扬: xuān yáng
 宣教: xuān jiào
+宣明: xuān míng
 宣武区: xuān wǔ qū
 宣武门: xuān wǔ mén
 宣泄: xuān xiè
@@ -28507,6 +28675,7 @@
 室町: shì tǐng
 室町幕府: shì tǐng mù fǔ
 室迩人遐: shì ěr rén xiá
+室颤: shì chàn
 宦官: huàn guān
 宦海: huàn hǎi
 宦海风波: huàn hǎi fēng bō
@@ -28538,7 +28707,8 @@
 宫调: gōng diào
 宫阙: gōng què
 宫颈: gōng jǐng
-宰予: zǎi yǔ
+宰了: zǎi le
+宰予: zǎi yú
 宰予昼寝: zǎi yǔ zhòu qǐn
 宰人: zǎi rén
 宰制: zǎi zhì
@@ -28686,6 +28856,7 @@
 家蚕: jiā cán
 家里: jiā lǐ
 家里蹲: jiā lǐ dūn
+家规: jiā guī
 家亲: jiā qīn
 家计: jiā jì
 家训: jiā xùn
@@ -28752,6 +28923,7 @@
 宿务语: sù wù yǔ
 宿命: sù mìng
 宿命论: sù mìng lùn
+宿命通: sù mìng tōng
 宿城: sù chéng
 宿城区: sù chéng qū
 宿夜: sù yè
@@ -28848,6 +29020,7 @@
 密克罗尼西亚: mì kè luó ní xī yà
 密函: mì hán
 密切: mì qiè
+密切接触者: mì qiè jiē chù zhě
 密切注意: mì qiè zhù yì
 密切注视: mì qiè zhù shì
 密切相连: mì qiè xiāng lián
@@ -29142,6 +29315,7 @@
 实意: shí yì
 实战: shí zhàn
 实拍: shí pāi
+实操: shí cāo
 实据: shí jù
 实收: shí shōu
 实收资本: shí shōu zī běn
@@ -29302,6 +29476,7 @@
 审校: shěn jiào
 审核: shěn hé
 审理: shěn lǐ
+审稿: shěn gǎo
 审稿人: shěn gǎo rén
 审级: shěn jí
 审级制度: shěn jí zhì dù
@@ -29448,8 +29623,8 @@
 宝岛: bǎo dǎo
 宝座: bǎo zuò
 宝库: bǎo kù
-宝应: bǎo yīng
-宝应县: bǎo yīng xiàn
+宝应: bǎo yìng
+宝应县: bǎo yìng xiàn
 宝成铁路: bǎo chéng tiě lù
 宝书: bǎo shū
 宝林: bǎo lín
@@ -29542,6 +29717,7 @@
 封建思想: fēng jiàn sī xiǎng
 封建时代: fēng jiàn shí dài
 封建社会: fēng jiàn shè huì
+封控: fēng kòng
 封条: fēng tiáo
 封檐板: fēng yán bǎn
 封杀: fēng shā
@@ -29643,7 +29819,6 @@
 将军: jiāng jūn
 将军肚: jiāng jūn dù
 将军肚子: jiāng jūn dù zi
-将军乡: jiāng jūn xiāng
 将近: jiāng jìn
 将错就错: jiāng cuò jiù cuò
 将领: jiàng lǐng
@@ -29840,12 +30015,13 @@
 对口径: duì kǒu jìng
 对口相声: duì kǒu xiàng shēng
 对口词: duì kǒu cí
-对句: duì jú
+对句: duì jù
 对合: duì hé
 对味儿: duì wèi er
 对唱: duì chàng
 对嘴: duì zuǐ
 对地: duì dì
+对坐: duì zuò
 对垒: duì lěi
 对外: duì wài
 对外政策: duì wài zhèng cè
@@ -30456,6 +30632,7 @@
 小雨: xiǎo yǔ
 小雪: xiǎo xuě
 小云雀: xiǎo yún què
+小电驴: xiǎo diàn lǘ
 小灵通: xiǎo líng tōng
 小青年: xiǎo qīng nián
 小青脚鹬: xiǎo qīng jiǎo yù
@@ -30529,7 +30706,6 @@
 少年犯: shào nián fàn
 少年老成: shào nián lǎo chéng
 少府: shào fǔ
-少成多: shǎo chéng duō
 少放: shǎo fàng
 少数: shǎo shù
 少数民族: shǎo shù mín zú
@@ -30899,6 +31075,7 @@
 居礼夫人: jū lǐ fū ren
 居第: jū dì
 居经: jū jīng
+居处: jū chǔ
 居处: jū chù
 居酒屋: jū jiǔ wū
 居里: jū lǐ
@@ -30930,6 +31107,7 @@
 屈挠: qū náo
 屈曲: qū qū
 屈服: qū fú
+屈肌: qū jī
 屈膝礼: qū xī lǐ
 屈辱: qū rǔ
 屈头蛋: qū tóu dàn
@@ -31062,6 +31240,7 @@
 层岩: céng yán
 层楼: céng lóu
 层次: céng cì
+层次分明: céng cì fēn míng
 层流: céng liú
 层状: céng zhuàng
 层理: céng lǐ
@@ -31112,7 +31291,6 @@
 屯门: tún mén
 屯驻: tún zhù
 山上: shān shàng
-山上乡: shān shàng xiāng
 山下: shān xià
 山不转水转: shān bù zhuàn shuǐ zhuàn
 山不转路转: shān bù zhuàn lù zhuàn
@@ -31282,6 +31460,7 @@
 山高水险: shān gāo shuǐ xiǎn
 山高海深: shān gāo hǎi shēn
 山斗: shān dòu
+山魈: shān xiāo
 山鹛: shān méi
 山鹡鸰: shān jí líng
 山鹨: shān liù
@@ -31386,6 +31565,7 @@
 岸边: àn biān
 峇厘: bā lí
 峇峇娘惹: bā bā niáng rě
+峇拉煎: bā lā jiān
 峇里: bā lǐ
 峒人: dòng rén
 峒剧: dòng jù
@@ -31508,7 +31688,7 @@
 岗哨: gǎng shào
 岗巴: gǎng bā
 岗巴县: gǎng bā xiàn
-岗楼: gǎng lòu
+岗楼: gǎng lóu
 仑背: lún bèi
 仑背乡: lún bèi xiāng
 崛地而起: jué dì ér qǐ
@@ -31611,6 +31791,7 @@
 川贝: chuān bèi
 川资: chuān zī
 川震: chuān zhèn
+川鲁粤苏浙闽湘徽: chuān lǔ yuè sū zhè mǐn xiāng huī
 川党: chuān dǎng
 川党参: chuān dǎng shēn
 州伯: zhōu bó
@@ -31668,6 +31849,7 @@
 工作流程: gōng zuò liú chéng
 工作狂: gōng zuò kuáng
 工作站: gōng zuò zhàn
+工作管理员: gōng zuò guǎn lǐ yuán
 工作组: gōng zuò zǔ
 工作者: gōng zuò zhě
 工作表: gōng zuò biǎo
@@ -31784,6 +31966,7 @@
 左右共利: zuǒ yòu gòng lì
 左右勾拳: zuǒ yòu gōu quán
 左右手: zuǒ yòu shǒu
+左右为难: zuǒ yòu wéi nán
 左右袒: zuǒ yòu tǎn
 左右逢源: zuǒ yòu féng yuán
 左右开弓: zuǒ yòu kāi gōng
@@ -31809,6 +31992,7 @@
 左箭头键: zuǒ jiàn tóu jiàn
 左翼: zuǒ yì
 左联: zuǒ lián
+左膀右臂: zuǒ bǎng yòu bì
 左至右: zuǒ zhì yòu
 左舵: zuǒ duò
 左舷: zuǒ xián
@@ -31824,7 +32008,6 @@
 左邻右舍: zuǒ lín yòu shè
 左邻右里: zuǒ lín yòu lǐ
 左镇: zuǒ zhèn
-左镇乡: zuǒ zhèn xiāng
 左云: zuǒ yún
 左云县: zuǒ yún xiàn
 左面: zuǒ miàn
@@ -31982,6 +32165,7 @@
 已作出保: yǐ zuò chū bǎo
 已作故人: yǐ zuò gù rén
 已婚: yǐ hūn
+已婚已育: yǐ hūn yǐ yù
 已往: yǐ wǎng
 已成形: yǐ chéng xíng
 已故: yǐ gù
@@ -32267,6 +32451,7 @@
 布伦尼: bù lún ní
 布伦轻机枪: bù lún qīng jī qiāng
 布偶: bù ǒu
+布偶装: bù ǒu zhuāng
 布偶猫: bù ǒu māo
 布列斯特: bù liè sī tè
 布加勒斯特: bù jiā lè sī tè
@@ -32404,7 +32589,6 @@
 帆板: fān bǎn
 帆背潜鸭: fān bèi qián yā
 帆船: fān chuán
-师座: shī zuò
 希仁: xī rén
 希伯来: xī bó lái
 希伯来人: xī bó lái rén
@@ -32418,7 +32602,7 @@
 希奇: xī qí
 希奇古怪: xī qí gǔ guài
 希律王: xī lǜ wáng
-希思罗: xī sī luō
+希思罗: xī sī luó
 希拉克: xī lā kè
 希拉蕊: xī lā ruǐ
 希拉里: xī lā lǐ
@@ -32477,7 +32661,6 @@
 帕特里夏: pà tè lǐ xià
 帕特丽夏: pà tè lì xià
 帕瓦罗蒂: pà wǎ luó dì
-帕瓦蒂: pà wǎ dì
 帕皮提: pà pí tí
 帕福斯: pà fú sī
 帕米尔: pà mǐ ěr
@@ -32543,9 +32726,11 @@
 师奶: shī nǎi
 师妹: shī mèi
 师姐: shī jiě
+师娘: shī niáng
 师宗: shī zōng
 师宗县: shī zōng xiàn
 师尊: shī zūn
+师座: shī zuò
 师弟: shī dì
 师徒: shī tú
 师从: shī cóng
@@ -32614,6 +32799,7 @@
 带走: dài zǒu
 带路: dài lù
 带路人: dài lù rén
+带过: dài guò
 带扣: dài kòu
 带队: dài duì
 带电: dài diàn
@@ -32759,7 +32945,6 @@
 干系: gān xì
 干宝: gān bǎo
 干戈: gān gē
-干扁豆角: gān biǎn dòu jiǎo
 干挠: gān náo
 干扰: gān rǎo
 干扰素: gān rǎo sù
@@ -32857,6 +33042,7 @@
 平度: píng dù
 平度市: píng dù shì
 平庸: píng yōng
+平庸之恶: píng yōng zhī è
 平庸之辈: píng yōng zhī bèi
 平复: píng fù
 平心而论: píng xīn ér lùn
@@ -33228,6 +33414,7 @@
 几何: jǐ hé
 几何光学: jǐ hé guāng xué
 几何原本: jǐ hé yuán běn
+几何图形: jǐ hé tú xíng
 几何学: jǐ hé xué
 几何平均数: jǐ hé píng jūn shù
 几何拓扑: jǐ hé tuò pū
@@ -33736,6 +33923,7 @@
 广角: guǎng jiǎo
 广角镜: guǎng jiǎo jìng
 广角镜头: guǎng jiǎo jìng tóu
+广记不如淡墨: guǎng jì bù rú dàn mò
 广谱: guǎng pǔ
 广丰: guǎng fēng
 广丰县: guǎng fēng xiàn
@@ -33948,12 +34136,15 @@
 弓弩: gōng nǔ
 弓弩手: gōng nǔ shǒu
 弓形: gōng xíng
+弓形虫: gōng xíng chóng
+弓浆虫: gōng jiāng chóng
 弓状: gōng zhuàng
 弓箭: gōng jiàn
 弓箭手: gōng jiàn shǒu
 弓箭步: gōng jiàn bù
 弓背: gōng bèi
 弓腰: gōng yāo
+弓虫: gōng chóng
 弓足: gōng zú
 弓身: gōng shēn
 弓长岭: gōng cháng lǐng
@@ -34003,6 +34194,7 @@
 引叙: yǐn xù
 引文: yǐn wén
 引柴: yǐn chái
+引桥: yǐn qiáo
 引水: yǐn shuǐ
 引水入墙: yǐn shuǐ rù qiáng
 引水工程: yǐn shuǐ gōng chéng
@@ -34213,7 +34405,7 @@
 张扬: zhāng yáng
 张扬: zhāng yáng
 张择端: zhāng zé duān
-张敞: zhāng cháng
+张敞: zhāng chǎng
 张斌: zhāng bīn
 张旭: zhāng xù
 张易之: zhāng yì zhī
@@ -34242,7 +34434,7 @@
 张自忠: zhāng zì zhōng
 张自烈: zhāng zì liè
 张若虚: zhāng ruò xū
-张华: zhāng huà
+张华: zhāng huá
 张荫桓: zhāng yìn huán
 张艺谋: zhāng yì móu
 张衡: zhāng héng
@@ -34294,7 +34486,7 @@
 强征: qiǎng zhēng
 强心剂: qiáng xīn jì
 强心针: qiáng xīn zhēn
-强忍: qiáng rěn
+强忍: qiǎng rěn
 强忍悲痛: qiáng rěn bēi tòng
 强悍: qiáng hàn
 强打: qiáng dǎ
@@ -34547,6 +34739,7 @@
 彩扩: cǎi kuò
 彩旗: cǎi qí
 彩民: cǎi mín
+彩泥: cǎi ní
 彩画: cǎi huà
 彩票: cǎi piào
 彩礼: cǎi lǐ
@@ -34817,7 +35010,6 @@
 后坐力: hòu zuò lì
 后尘: hòu chén
 后壁: hòu bì
-后壁乡: hòu bì xiāng
 后天: hòu tiān
 后天性: hòu tiān xìng
 后娘: hòu niáng
@@ -34909,9 +35101,12 @@
 后诊: hòu zhěn
 后词汇加工: hòu cí huì jiā gōng
 后话: hòu huà
+后调: hòu diào
 后账: hòu zhàng
 后起之秀: hòu qǐ zhī xiù
 后赵: hòu zhào
+后跟: hòu gēn
+后跟提带: hòu gēn tí dài
 后路: hòu lù
 后车之鉴: hòu chē zhī jiàn
 后车架: hòu chē jià
@@ -35170,6 +35365,7 @@
 复元: fù yuán
 复出: fù chū
 复分解反应: fù fēn jiě fǎn yìng
+复刻: fù kè
 复原: fù yuán
 复原乳: fù yuán rǔ
 复古: fù gǔ
@@ -35182,9 +35378,13 @@
 复婚: fù hūn
 复学: fù xué
 复审: fù shěn
+复岗: fù gǎng
 复工: fù gōng
+复市: fù shì
 复旦: fù dàn
 复旦大学: fù dàn dà xué
+复明: fù míng
+复明: fù míng
 复映片: fù yìng piàn
 复会: fù huì
 复查: fù chá
@@ -35196,6 +35396,7 @@
 复活节岛: fù huó jié dǎo
 复活赛: fù huó sài
 复现: fù xiàn
+复理石: fù lǐ shí
 复生: fù shēng
 复苏: fù sū
 复发: fù fā
@@ -35221,6 +35422,7 @@
 复转: fù zhuǎn
 复辟: fù bì
 复返: fù fǎn
+复驶: fù shǐ
 循分: xún fèn
 循化: xún huà
 循化撒拉族自治县: xún huà sǎ lā zú zì zhì xiàn
@@ -35373,6 +35575,7 @@
 征象: zhēng xiàng
 征选: zhēng xuǎn
 征集: zhēng jí
+德三: dé sān
 德不配位: dé bù pèi wèi
 德仁: dé rén
 德令哈: dé lìng hā
@@ -35543,6 +35746,7 @@
 心安理得: xīn ān lǐ dé
 心安神闲: xīn ān shén xián
 心室: xīn shì
+心室颤动: xīn shì chàn dòng
 心宿二: xīn xiù èr
 心寒: xīn hán
 心宽体胖: xīn kuān tǐ pán
@@ -35692,6 +35896,7 @@
 心脏移殖: xīn zàng yí zhí
 心脏舒张压: xīn zàng shū zhāng yā
 心脏杂音: xīn zàng zá yīn
+心脏骤停: xīn zàng zhòu tíng
 心花怒放: xīn huā nù fàng
 心叶椴: xīn yè duàn
 心荡神驰: xīn dàng shén chí
@@ -35728,6 +35933,7 @@
 心灵上: xīn líng shàng
 心灵感应: xīn líng gǎn yìng
 心灵手巧: xīn líng shǒu qiǎo
+心灵鸡汤: xīn líng jī tāng
 心静: xīn jìng
 心静自然凉: xīn jìng zì rán liáng
 心音: xīn yīn
@@ -36271,6 +36477,7 @@
 怨不得: yuàn bu de
 怨偶: yuàn ǒu
 怨命: yuàn mìng
+怨叹: yuàn tàn
 怨天尤人: yuàn tiān yóu rén
 怨天载道: yuàn tiān zài dào
 怨女: yuàn nǚ
@@ -36299,7 +36506,7 @@
 怪念头: guài niàn tou
 怪戾: guài lì
 怪手: guài shǒu
-怪模怪样: guài mó guài yàng
+怪模怪样: guài mú guài yàng
 怪样: guài yàng
 怪气: guài qì
 怪物: guài wu
@@ -36565,6 +36772,7 @@
 悉悉索索: xī xī suǒ suǒ
 悉数: xī shǔ
 悉数: xī shù
+悉听尊便: xī tīng zūn biàn
 悉达多: xī dá duō
 悌友: tì yǒu
 悌睦: tì mù
@@ -36779,6 +36987,7 @@
 情逾骨肉: qíng yú gǔ ròu
 情郎: qíng láng
 情随事迁: qíng suí shì qiān
+情非得已: qíng fēi dé yǐ
 情面: qíng miàn
 情愿: qíng yuàn
 惆怅: chóu chàng
@@ -36874,6 +37083,7 @@
 恶性循环: è xìng xún huán
 恶性疟原虫: è xìng nüè yuán chóng
 恶性肿瘤: è xìng zhǒng liú
+恶性转移: è xìng zhuǎn yí
 恶性通货膨胀: è xìng tōng huò péng zhàng
 恶恨: è hèn
 恶恶实实: è è shí shí
@@ -37057,8 +37267,10 @@
 意料: yì liào
 意料之中: yì liào zhī zhōng
 意料之外: yì liào zhī wài
+意旨: yì zhǐ
 意会: yì huì
 意乐: yì lè
+意欲: yì yù
 意气用事: yì qì yòng shì
 意气相投: yì qì xiāng tóu
 意气风发: yì qì fēng fā
@@ -37273,6 +37485,7 @@
 感官: gǎn guān
 感念: gǎn niàn
 感性: gǎn xìng
+感性工学: gǎn xìng gōng xué
 感性认识: gǎn xìng rèn shi
 感恩: gǎn ēn
 感恩图报: gǎn ēn tú bào
@@ -37331,7 +37544,7 @@
 恺弟: kǎi tì
 恺彻: kǎi chè
 恺悌: kǎi tì
-恺撒: kǎi sǎ
+恺撒: kǎi sā
 栗然: lì rán
 慈利: cí lì
 慈利县: cí lì xiàn
@@ -37431,7 +37644,7 @@
 慢待: màn dài
 慢性: màn xìng
 慢性子: màn xìng zi
-慢性疲勞症候群: màn xìng pí láo zhèng hòu qún
+慢性疲劳症候群: màn xìng pí láo zhèng hòu qún
 慢性疼痛: màn xìng téng tòng
 慢性疾病: màn xìng jí bìng
 慢性病: màn xìng bìng
@@ -37445,6 +37658,7 @@
 慢条斯理: màn tiáo sī lǐ
 慢步: màn bù
 慢火: màn huǒ
+慢热: màn rè
 慢热型: màn rè xíng
 慢班: màn bān
 慢用: màn yòng
@@ -37465,6 +37679,7 @@
 惯常: guàn cháng
 惯性: guàn xìng
 惯性系: guàn xìng xì
+惯有: guàn yǒu
 惯犯: guàn fàn
 惯用: guàn yòng
 惯用手: guàn yòng shǒu
@@ -37658,9 +37873,8 @@
 应名: yīng míng
 应名儿: yīng míng er
 应和: yìng hè
-应城: yīng chéng
-应城区: yīng chéng qū
-应城市: yīng chéng shì
+应城: yìng chéng
+应城市: yìng chéng shì
 应报: yìng bào
 应天承运: yìng tiān chéng yùn
 应天顺时: yìng tiān shùn shí
@@ -37703,19 +37917,22 @@
 应用文: yìng yòng wén
 应用物理: yìng yòng wù lǐ
 应用科学: yìng yòng kē xué
+应用程序: yìng yòng chéng xù
+应用程序接口: yìng yòng chéng xù jiē kǒu
+应用程序编程接口: yìng yòng chéng xù biān chéng jiē kǒu
 应用程式: yìng yòng chéng shì
 应用程式介面: yìng yòng chéng shì jiè miàn
 应用软件: yìng yòng ruǎn jiàn
 应用软体: yìng yòng ruǎn tǐ
 应当: yīng dāng
 应答: yìng dá
-应县: yīng xiàn
+应县: yìng xiàn
 应县木塔: yìng xiàn mù tǎ
 应考: yìng kǎo
 应聘: yìng pìn
 应聘者: yìng pìn zhě
 应声: yìng shēng
-应声虫: yīng shēng chóng
+应声虫: yìng shēng chóng
 应举: yìng jǔ
 应计: yīng jì
 应计基础: yīng jì jī chǔ
@@ -38099,10 +38316,13 @@
 我操: wǒ cào
 我方: wǒ fāng
 我曹: wǒ cáo
+我的世界: wǒ de shì jiè
 我等: wǒ děng
 我肏: wǒ cào
 我行我素: wǒ xíng wǒ sù
 我辈: wǒ bèi
+我这个人: wǒ zhè ge rén
+我这儿: wǒ zhe er
 我醉欲眠: wǒ zuì yù mián
 我靠: wǒ kào
 戒备: jiè bèi
@@ -38168,6 +38388,7 @@
 截击: jié jī
 截断: jié duàn
 截止: jié zhǐ
+截止日: jié zhǐ rì
 截止期限: jié zhǐ qī xiàn
 截然: jié rán
 截然不同: jié rán bù tóng
@@ -38349,7 +38570,7 @@
 户部: hù bù
 户部尚书: hù bù shàng shū
 户限: hù xiàn
-户限为穿: hù xiàn wèi chuān
+户限为穿: hù xiàn wéi chuān
 户头: hù tóu
 戽斗: hù dǒu
 戽水: hù shuǐ
@@ -38467,7 +38688,7 @@
 扁豆: biǎn dòu
 扁锹形虫: biǎn qiāo xíng chóng
 扁额: biǎn é
-扁食: biǎn shí
+扁食: biǎn shi
 扁骨: biǎn gǔ
 扁鹊: biǎn què
 扂楔: diàn xiē
@@ -38574,6 +38795,7 @@
 手眼协调: shǒu yǎn xié tiáo
 手稿: shǒu gǎo
 手笔: shǒu bǐ
+手筋: shǒu jīn
 手纸: shǒu zhǐ
 手绢: shǒu juàn
 手紧: shǒu jǐn
@@ -38671,7 +38893,6 @@
 扎心: zhā xīn
 扎扎: zhā zhā
 扎扎实实: zhā zha shí shí
-扎染: zā rǎn
 扎根: zhā gēn
 扎格罗斯: zā gé luó sī
 扎格罗斯山脉: zā gé luó sī shān mài
@@ -38687,17 +38908,17 @@
 扎针: zhā zhēn
 扎鲁特: zā lǔ tè
 扎鲁特旗: zā lǔ tè qí
-扑责: pū zé
 扒屋牵牛: bā wū qiān niú
 扒手: pá shǒu
-扒拉: bā lā
+扒拉: bā la
+扒拉: pá la
 扒搂: bā lōu
 扒灰: pá huī
 扒犁: pá lí
 扒皮: bā pí
 扒窃: pá qiè
 扒糕: pá gāo
-扒粪: bā fèn
+扒粪: pá fèn
 扒车: bā chē
 扒钉: bā dīng
 扒开: bā kāi
@@ -38782,6 +39003,7 @@
 打官司: dǎ guān si
 打官腔: dǎ guān qiāng
 打官话: dǎ guān huà
+打定主意: dǎ dìng zhǔ yi
 打家劫舍: dǎ jiā jié shè
 打富济贫: dǎ fù jì pín
 打对仗: dǎ duì zhàng
@@ -38940,6 +39162,7 @@
 打赏: dǎ shǎng
 打赌: dǎ dǔ
 打赖: dǎ lài
+打赢: dǎ yíng
 打赤脚: dǎ chì jiǎo
 打赤膊: dǎ chì bó
 打趔趄: dǎ liè qie
@@ -39101,6 +39324,7 @@
 扭结: niǔ jié
 扭腰: niǔ yāo
 扭亏: niǔ kuī
+扭亏为盈: niǔ kuī wéi yíng
 扭蛋: niǔ dàn
 扭角羚: niǔ jiǎo líng
 扭转: niǔ zhuǎn
@@ -39454,6 +39678,7 @@
 抓哏: zhuā gén
 抓地: zhuā dì
 抓地力: zhuā dì lì
+抓大放小: zhuā dà fàng xiǎo
 抓奸: zhuā jiān
 抓嫖: zhuā piáo
 抓子儿: zhuā zǐ er
@@ -39569,11 +39794,14 @@
 投军: tóu jūn
 投递: tóu dì
 投递员: tóu dì yuán
+投错胎: tóu cuò tāi
 投开票所: tóu kāi piào suǒ
 投降: tóu xiáng
 投靠: tóu kào
 投鞭断流: tóu biān duàn liú
+投喂: tóu wèi
 投鼠忌器: tóu shǔ jì qì
+抖内: dǒu nèi
 抖动: dǒu dòng
 抖搂: dǒu lou
 抖擞: dǒu sǒu
@@ -39584,6 +39812,7 @@
 抖音: dǒu yīn
 抗倾覆: kàng qīng fù
 抗凝血剂: kàng níng xuè jì
+抗利尿激素: kàng lì niào jī sù
 抗原: kàng yuán
 抗原决定簇: kàng yuán jué dìng cù
 抗命: kàng mìng
@@ -39737,6 +39966,7 @@
 抬高: tái gāo
 抱不平: bào bù píng
 抱佛脚: bào fó jiǎo
+抱团: bào tuán
 抱大腿: bào dà tuǐ
 抱定: bào dìng
 抱屈: bào qū
@@ -39959,7 +40189,7 @@
 拉勾儿: lā gòu er
 拉包尔: lā bāo ěr
 拉匝禄: lā zā lù
-拉卜楞寺: lā bǔ lèng sì
+拉卜楞寺: lā bǔ léng sì
 拉取: lā qǔ
 拉各斯: lā gè sī
 拉合尔: lā hé ěr
@@ -39967,7 +40197,7 @@
 拉圾: lā jī
 拉坯: lā pī
 拉场子: lā chǎng zi
-拉大便: là dà biàn
+拉大便: lā dà biàn
 拉大旗作虎皮: lā dà qí zuò hǔ pí
 拉大条: lā dà tiáo
 拉夫: lā fū
@@ -40005,7 +40235,7 @@
 拉拉: lā lā
 拉拉扯扯: lā lā chě chě
 拉拉队: lā lā duì
-拉撒路: lā sǎ lù
+拉撒路: lā sā lù
 拉拢: lā lǒng
 拉文克劳: lā wén kè láo
 拉文纳: lā wén nà
@@ -40067,6 +40297,7 @@
 拉贾斯坦邦: lā jiǎ sī tǎn bāng
 拉赫曼尼诺夫: lā hè màn ní nuò fū
 拉辛: lā xīn
+拉近: lā jìn
 拉近距离: lā jìn jù lí
 拉达克: lā dá kè
 拉那烈: lā nà liè
@@ -40205,6 +40436,7 @@
 拓宽: tuò kuān
 拓展: tuò zhǎn
 拓展坞: tuò zhǎn wù
+拓展视野: tuò zhǎn shì yě
 拓展训练: tuò zhǎn xùn liàn
 拓拔: tuò bá
 拓扑: tuò pū
@@ -40691,6 +40923,7 @@
 指代: zhǐ dài
 指令: zhǐ lìng
 指令名字: zhǐ lìng míng zì
+指令集: zhǐ lìng jí
 指使: zhǐ shǐ
 指出: zhǐ chū
 指到: zhǐ dào
@@ -40754,7 +40987,6 @@
 指甲钳: zhǐ jia qián
 指界: zhǐ jiè
 指疔: zhǐ dīng
-指着和尚骂秃子: zhǐ zhe hé shang mà tū zi
 指示: zhǐ shì
 指示代词: zhǐ shì dài cí
 指示剂: zhǐ shì jì
@@ -40764,6 +40996,7 @@
 指纹: zhǐ wén
 指考: zhǐ kǎo
 指腹为婚: zhǐ fù wéi hūn
+指着和尚骂秃子: zhǐ zhe hé shang mà tū zi
 指认: zhǐ rèn
 指谪: zhǐ zhé
 指证: zhǐ zhèng
@@ -40795,6 +41028,7 @@
 按捺不住: àn nà bu zhù
 按揭: àn jiē
 按摩: àn mó
+按摩师: àn mó shī
 按摩棒: àn mó bàng
 按日: àn rì
 按时: àn shí
@@ -40838,6 +41072,7 @@
 挑动: tiǎo dòng
 挑口板: tiāo kǒu bǎn
 挑唆: tiǎo suō
+挑嘴: tiāo zuǐ
 挑嘴: tiǎo zuǐ
 挑大梁: tiǎo dà liáng
 挑夫: tiāo fū
@@ -40872,7 +41107,9 @@
 挑头: tiǎo tóu
 挑头儿: tiǎo tóu er
 挑食: tiāo shí
+挑高: tiǎo gāo
 挖土机: wā tǔ jī
+挖坑: wā kēng
 挖掉: wā diào
 挖掘: wā jué
 挖掘机: wā jué jī
@@ -40914,6 +41151,7 @@
 挨骂: ái mà
 挨肩儿: āi jiān er
 挨着: āi zhe
+挨说: ái shuō
 挨踢: āi tī
 挨近: āi jìn
 挨边: āi biān
@@ -40960,6 +41198,7 @@
 挺尸: tǐng shī
 挺拔: tǐng bá
 挺杆: tǐng gǎn
+挺直: tǐng zhí
 挺立: tǐng lì
 挺而走险: tǐng ér zǒu xiǎn
 挺腰: tǐng yāo
@@ -40992,6 +41231,7 @@
 捅楼子: tǒng lóu zi
 捅破: tǒng pò
 捅马蜂窝: tǒng mǎ fēng wō
+捆扎: kǔn zā
 捆绑: kǔn bǎng
 捆缚: kǔn fù
 捉住: zhuō zhù
@@ -41397,7 +41637,7 @@
 挣钱: zhèng qián
 挂一漏万: guà yī lòu wàn
 挂住: guà zhù
-挂單: guà dān
+挂单: guà dān
 挂图: guà tú
 挂在嘴上: guà zai zuǐ shang
 挂在嘴边: guà zài zuǐ biān
@@ -41657,6 +41897,7 @@
 接骨木: jiē gǔ mù
 接发: jiē fà
 接点: jiē diǎn
+接龙: jiē lóng
 控件: kòng jiàn
 控制: kòng zhì
 控制室: kòng zhì shì
@@ -41666,6 +41907,7 @@
 控制台: kòng zhì tái
 控制论: kòng zhì lùn
 控告: kòng gào
+控管: kòng guǎn
 控罪: kòng zuì
 控股: kòng gǔ
 控股公司: kòng gǔ gōng sī
@@ -41892,7 +42134,7 @@
 提拔: tí bá
 提挈: tí qiè
 提振: tí zhèn
-提掖: tí yē
+提掖: tí yè
 提提: tí tí
 提摩太: tí mó tài
 提摩太前书: tí mó tài qián shū
@@ -42222,6 +42464,7 @@
 摇奖: yáo jiǎng
 摇篮: yáo lán
 摇篮曲: yáo lán qǔ
+摇臂: yáo bì
 摇船: yáo chuán
 摇号: yáo hào
 摇身: yáo shēn
@@ -42438,6 +42681,7 @@
 摘译: zhāi yì
 摘录: zhāi lù
 摘除: zhāi chú
+掼奶油: guàn nǎi yóu
 摞管: luò guǎn
 搂住: lǒu zhù
 搂抱: lǒu bào
@@ -42484,6 +42728,7 @@
 摩尔人: mó ěr rén
 摩尔多瓦: mó ěr duō wǎ
 摩尔多瓦人: mó ěr duō wǎ rén
+摩尔定律: mó ěr dìng lǜ
 摩尔斯电码: mó ěr sī diàn mǎ
 摩尔根: mó ěr gēn
 摩尔门: mó ěr mén
@@ -42531,6 +42776,7 @@
 摸吧: mō bā
 摸底: mō dǐ
 摸彩: mō cǎi
+摸得着: mō de zháo
 摸排: mō pái
 摸清: mō qīng
 摸爬滚打: mō pá gǔn dǎ
@@ -42568,8 +42814,8 @@
 撇大条: piě dà tiáo
 撇掉: piē diào
 撇条: piě tiáo
-撇步: piē bù
-撇清: piě qīng
+撇步: piě bù
+撇清: piē qīng
 撇号: piě hào
 撇开: piē kāi
 撇开不谈: piē kāi bù tán
@@ -42594,6 +42840,7 @@
 撑腰: chēng yāo
 撑船: chēng chuán
 撑门面: chēng mén miàn
+撑开: chēng kāi
 撒丁岛: sā dīng dǎo
 撒丫子: sā yā zi
 撒但: sā dàn
@@ -42606,8 +42853,8 @@
 撒哈拉以南: sā hā lā yǐ nán
 撒哈拉以南非洲: sā hā lā yǐ nán fēi zhōu
 撒哈拉威: sā hā lā wēi
-撒哈拉沙漠: sǎ hā lā shā mò
-撒呓挣: sā yì zhēng
+撒哈拉沙漠: sā hā lā shā mò
+撒呓挣: sā yì zheng
 撒娇: sā jiāo
 撒尿: sā niào
 撒手: sā shǒu
@@ -42618,7 +42865,7 @@
 撒拉: sā lā
 撒拉族: sā lā zú
 撒拉语: sā lā yǔ
-撒拉铁: sǎ lā tiě
+撒拉铁: sā lā tiě
 撒播: sǎ bō
 撒旦: sā dàn
 撒母耳记上: sā mǔ ěr jì shàng
@@ -42628,7 +42875,7 @@
 撒然: sā rán
 撒尔孟: sā ěr mèng
 撒狗粮: sǎ gǒu liáng
-撒督: sǎ dū
+撒督: sā dū
 撒科打诨: sā kē dǎ hùn
 撒种: sǎ zhǒng
 撒网: sā wǎng
@@ -42644,10 +42891,10 @@
 撒都该人: sā dū gāi rén
 撒酒疯: sā jiǔ fēng
 撒野: sā yě
-撒门: sǎ mén
+撒门: sā mén
 撒马利亚: sā mǎ lì yà
-撒马尔干: sǎ mǎ ěr gàn
-撒马尔罕: sǎ mǎ ěr hǎn
+撒马尔干: sā mǎ ěr gàn
+撒马尔罕: sā mǎ ěr hǎn
 挠败: náo bài
 挠曲: náo qū
 挠率: náo lǜ
@@ -42725,7 +42972,7 @@
 拨接: bō jiē
 拨款: bō kuǎn
 拨正: bō zhèng
-拨浪鼓: bō làng gǔ
+拨浪鼓: bō lang gǔ
 拨火棍: bō huǒ gùn
 拨片: bō piàn
 拨用: bō yòng
@@ -42754,6 +43001,7 @@
 抚州: fǔ zhōu
 抚州市: fǔ zhōu shì
 抚平: fǔ píng
+抚弄: fǔ nòng
 抚恤金: fǔ xù jīn
 抚爱: fǔ ài
 抚慰: fǔ wèi
@@ -42796,6 +43044,7 @@
 播映: bō yìng
 播发: bō fā
 播种: bō zhǒng
+播种: bō zhòng
 播讲: bō jiǎng
 播送: bō sòng
 播音: bō yīn
@@ -42825,6 +43074,8 @@
 扑空: pū kōng
 扑脸儿: pū liǎn er
 扑落: pū luò
+扑袭: pū xí
+扑责: pū zé
 扑跌: pū diē
 扑通: pū tōng
 扑闪: pū shǎn
@@ -43055,6 +43306,7 @@
 擦拭: cā shì
 擦掉: cā diào
 擦掠: cā lüè
+擦撞: cā zhuàng
 擦擦笔: cā cā bǐ
 擦棒球: cā bàng qiú
 擦枪走火: cā qiāng zǒu huǒ
@@ -43062,10 +43314,12 @@
 擦洗: cā xǐ
 擦澡: cā zǎo
 擦碗布: cā wǎn bù
+擦丝: cā sī
 擦网球: cā wǎng qiú
 擦肩而过: cā jiān ér guò
 擦腚纸: cā dìng zhǐ
 擦身而过: cā shēn ér guò
+擦边: cā biān
 擦边球: cā biān qiú
 擦鞋垫: cā xié diàn
 擦音: cā yīn
@@ -43155,6 +43409,7 @@
 摆渡车: bǎi dù chē
 摆满: bǎi mǎn
 摆乌龙: bǎi wū lóng
+摆烂: bǎi làn
 摆盘: bǎi pán
 摆线: bǎi xiàn
 摆脱: bǎi tuō
@@ -43162,6 +43417,7 @@
 摆花架子: bǎi huā jià zi
 摆荡: bǎi dàng
 摆设: bǎi shè
+摆设: bǎi she
 摆设儿: bǎi she er
 摆谱: bǎi pǔ
 摆谱儿: bǎi pǔ er
@@ -43921,6 +44177,7 @@
 救场: jiù chǎng
 救场如救火: jiù chǎng rú jiù huǒ
 救市: jiù shì
+救急: jiù jí
 救急不救穷: jiù jí bù jiù qióng
 救恩: jiù ēn
 救恩计划: jiù ēn jì huà
@@ -43952,7 +44209,7 @@
 救护车: jiù hù chē
 救赎: jiù shú
 救赎主: jiù shú zhǔ
-救难: jiù nán
+救难: jiù nàn
 敕令: chì lìng
 敕封: chì fēng
 敖广: áo guǎng
@@ -44120,7 +44377,7 @@
 敢为: gǎn wéi
 敢为人先: gǎn wéi rén xiān
 敢达: gǎn dá
-散乱: sàn luàn
+散乱: sǎn luàn
 散亡: sàn wáng
 散件: sǎn jiàn
 散伙: sàn huǒ
@@ -44181,6 +44438,7 @@
 散粉: sǎn fěn
 散职: sǎn zhí
 散腿裤: sǎn tuǐ kù
+散落: sǎn luò
 散落: sàn luò
 散装: sǎn zhuāng
 散见: sǎn jiàn
@@ -44284,11 +44542,13 @@
 整合: zhěng hé
 整地: zhěng dì
 整型: zhěng xíng
+整域: zhěng yù
 整夜: zhěng yè
 整天: zhěng tiān
 整套: zhěng tào
 整妆: zhěng zhuāng
 整容: zhěng róng
+整密: zhěng mì
 整年累月: zhěng nián lěi yuè
 整建: zhěng jiàn
 整形: zhěng xíng
@@ -44335,6 +44595,7 @@
 敌将: dí jiàng
 敌对: dí duì
 敌对性: dí duì xìng
+敌后: dí hòu
 敌情: dí qíng
 敌意: dí yì
 敌忾: dí kài
@@ -44409,6 +44670,7 @@
 数字网: shù zì wǎng
 数字货币: shù zì huò bì
 数字通信: shù zì tōng xìn
+数字游民: shù zì yóu mín
 数字钟: shù zì zhōng
 数字电视: shù zì diàn shì
 数字电路: shù zì diàn lù
@@ -44457,6 +44719,7 @@
 数理: shù lǐ
 数理分析: shù lǐ fēn xī
 数理化: shù lǐ huà
+数理统计: shù lǐ tǒng jì
 数理逻辑: shù lǐ luó jí
 数百: shù bǎi
 数百万: shù bǎi wàn
@@ -44568,6 +44831,7 @@
 文库: wén kù
 文康: wén kāng
 文康活动: wén kāng huó dòng
+文弱书生: wén ruò shū shēng
 文汇报: wén huì bào
 文征明: wén zhēng míng
 文思: wén sī
@@ -44589,6 +44853,7 @@
 文明化: wén míng huà
 文明小史: wén míng xiǎo shǐ
 文明病: wén míng bìng
+文曲星: wén qǔ xīng
 文书: wén shū
 文书处理: wén shū chǔ lǐ
 文本: wén běn
@@ -44747,6 +45012,7 @@
 斑鹭: bān lù
 斑点: bān diǎn
 斑点狗: bān diǎn gǒu
+斗内: dǒu nèi
 斗六: dǒu liù
 斗六市: dǒu liù shì
 斗南: dǒu nán
@@ -44922,6 +45188,7 @@
 斯特拉特福: sī tè lā tè fú
 斯瓦希里: sī wǎ xī lǐ
 斯瓦希里语: sī wǎ xī lǐ yǔ
+斯瓦尔巴和扬马延: sī wǎ ěr bā hé yáng mǎ yán
 斯瓦特: sī wǎ tè
 斯瓦特谷地: sī wǎ tè gǔ dì
 斯当东: sī dāng dōng
@@ -45040,17 +45307,16 @@
 新巴尔虎左旗: xīn bā ěr hǔ zuǒ qí
 新市: xīn shì
 新市区: xīn shì qū
-新市乡: xīn shì xiāng
 新市镇: xīn shì zhèn
-新干: xīn gān
-新干县: xīn gān xiàn
 新平彝族傣族自治县: xīn píng yí zú dǎi zú zì zhì xiàn
 新平县: xīn píng xiàn
 新年: xīn nián
 新年前夕: xīn nián qián xī
 新年快乐: xīn nián kuài lè
 新年进步: xīn nián jìn bù
+新干: xīn gàn
 新干线: xīn gàn xiàn
+新干县: xīn gàn xiàn
 新几内亚: xīn jǐ nèi yà
 新几内亚: xīn jǐ nèi yà
 新店: xīn diàn
@@ -45157,7 +45423,6 @@
 新异: xīn yì
 新畿内亚: xīn jī nèi yà
 新疆: xīn jiāng
-新疆小盘鸡: xīn jiāng xiǎo pán jī
 新疆手抓饭: xīn jiāng shǒu zhuā fàn
 新疆歌鸲: xīn jiāng gē qú
 新疆温宿县: xīn jiāng wēn sù xiàn
@@ -45168,6 +45433,7 @@
 新社: xīn shè
 新社乡: xīn shè xiāng
 新禧: xīn xǐ
+新秀: xīn xiù
 新颖: xīn yǐng
 新竹: xīn zhú
 新竹市: xīn zhú shì
@@ -45291,6 +45557,7 @@
 断崖: duàn yá
 断弦: duàn xián
 断想: duàn xiǎng
+断舍离: duàn shě lí
 断断续续: duàn duàn xù xù
 断案: duàn àn
 断桥: duàn qiáo
@@ -45406,6 +45673,7 @@
 方兴未已: fāng xīng wèi yǐ
 方兴未艾: fāng xīng wèi ài
 方舟: fāng zhōu
+方舱: fāng cāng
 方庄: fāng zhuāng
 方术: fāng shù
 方解石: fāng jiě shí
@@ -45456,6 +45724,7 @@
 施乐: shī lè
 施治: shī zhì
 施法: shī fǎ
+施泰尔马克: shī tài ěr mǎ kè
 施洗: shī xǐ
 施洗约翰: shī xǐ yuē hàn
 施洗者约翰: shī xǐ zhě yuē hàn
@@ -45475,8 +45744,6 @@
 施肥: shī féi
 施与: shī yǔ
 施华洛世奇水晶: shī huá luò shì qí shuǐ jīng
-施蒂利尔: shī dì lì ěr
-施蒂利尔州: shī dì lì ěr zhōu
 施虐: shī nüè
 施虐受虐: shī nüè shòu nüè
 施虐狂: shī nüè kuáng
@@ -45810,6 +46077,7 @@
 日间: rì jiān
 日电: rì diàn
 日电电子: rì diàn diàn zǐ
+日韩: rì hán
 日头: rì tóu
 日食: rì shí
 旦角: dàn jué
@@ -45951,11 +46219,7 @@
 昆都仑: kūn dū lún
 昆都仑区: kūn dū lún qū
 昆阳: kūn yáng
-升值: shēng zhí
-升空: shēng kōng
 升调: shēng diào
-升降: shēng jiàng
-升高: shēng gāo
 昊天: hào tiān
 昌原: chāng yuán
 昌原市: chāng yuán shì
@@ -46563,6 +46827,7 @@
 晚会: wǎn huì
 晚期: wǎn qī
 晚期癌症: wǎn qī ái zhèng
+晚归: wǎn guī
 晚清: wǎn qīng
 晚生: wǎn shēng
 晚礼服: wǎn lǐ fú
@@ -46830,6 +47095,7 @@
 智齿: zhì chǐ
 晾干: liàng gān
 晾衣夹: liàng yī jiā
+晾衣架: liàng yī jià
 晾衣绳: liàng yī shéng
 暄腾: xuān teng
 晕乎: yūn hu
@@ -46976,6 +47242,7 @@
 暗香: àn xiāng
 暗香疏影: àn xiāng shū yǐng
 暗鹭: àn lù
+暗黑: àn hēi
 暗黑破坏神: àn hēi pò huài shén
 暡曚: wěng méng
 畅快: chàng kuài
@@ -47137,12 +47404,13 @@
 曲别针: qū bié zhēn
 曲周: qǔ zhōu
 曲周县: qǔ zhōu xiàn
-曲奇: qǔ qí
+曲奇: qū qí
 曲子: qǔ zi
 曲射: qū shè
 曲射炮: qū shè pào
 曲尺: qū chǐ
 曲尺楼梯: qū chǐ lóu tī
+曲度: qū dù
 曲意: qū yì
 曲意逢迎: qū yì féng yíng
 曲折: qū zhé
@@ -47642,6 +47910,7 @@
 有一搭无一搭: yǒu yī dā wú yī dā
 有一次: yǒu yī cì
 有一腿: yǒu yī tuǐ
+有一说一: yǒu yī shuō yī
 有一点: yǒu yī diǎn
 有一点儿: yǒu yī diǎn er
 有不少名堂: yǒu bù shǎo míng tang
@@ -47679,6 +47948,7 @@
 有勇无谋: yǒu yǒng wú móu
 有劳: yǒu láo
 有劳得奖: yǒu láo dé jiǎng
+有印象: yǒu yìn xiàng
 有去无回: yǒu qù wú huí
 有口无心: yǒu kǒu wú xīn
 有口皆碑: yǒu kǒu jiē bēi
@@ -47755,6 +48025,7 @@
 有意无意: yǒu yì wú yì
 有意义: yǒu yì yì
 有意识: yǒu yì shí
+有感而发: yǒu gǎn ér fā
 有成: yǒu chéng
 有戏: yǒu xì
 有所: yǒu suǒ
@@ -48108,6 +48379,7 @@
 朝日: zhāo rì
 朝日放送: zhāo rì fàng sòng
 朝日新闻: zhāo rì xīn wén
+朝曦: zhāo xī
 朝服: cháo fú
 朝朝: zhāo zhāo
 朝朝暮暮: zhāo zhāo mù mù
@@ -48125,7 +48397,7 @@
 朝圣者: cháo shèng zhě
 朝闻夕改: zhāo wén xī gǎi
 朝臣: cháo chén
-朝花夕拾: zhāo huā xī shī
+朝花夕拾: zhāo huā xī shí
 朝着: cháo zhe
 朝见: cháo jiàn
 朝觐: cháo jìn
@@ -48462,6 +48734,7 @@
 本家: běn jiā
 本尊: běn zūn
 本小利微: běn xiǎo lì wēi
+本就: běn jiù
 本尼迪: běn ní dí
 本届: běn jiè
 本岛: běn dǎo
@@ -48510,6 +48783,7 @@
 本票: běn piào
 本科: běn kē
 本科生: běn kē shēng
+本笃十六世: běn dǔ shí liù shì
 本笃会: běn dǔ huì
 本纪: běn jì
 本经: běn jīng
@@ -48557,7 +48831,7 @@
 朱利安: zhū lì ān
 朱厚照: zhū hòu zhào
 朱古力: zhū gǔ lì
-朱子: zhū zi
+朱子: zhū zǐ
 朱孝天: zhū xiào tiān
 朱容基: zhū róng jī
 朱庇特: zhū bì tè
@@ -48752,6 +49026,7 @@
 李显龙: lǐ xiǎn lóng
 李鬼: lǐ guǐ
 李鸿章: lǐ hóng zhāng
+李鸿章杂碎: lǐ hóng zhāng zá sui
 李鹏: lǐ péng
 李丽珊: lǐ lì shān
 杏仁: xìng rén
@@ -48885,6 +49160,7 @@
 束发: shù fà
 杠杆收购: gàng gǎn shōu gòu
 杠精: gàng jīng
+杧果: máng guǒ
 杭州: háng zhōu
 杭州市: háng zhōu shì
 杭州湾: háng zhōu wān
@@ -48988,7 +49264,6 @@
 东山再起: dōng shān zài qǐ
 东山区: dōng shān qū
 东山县: dōng shān xiàn
-东山乡: dōng shān xiāng
 东岳: dōng yuè
 东川: dōng chuān
 东川区: dōng chuān qū
@@ -49013,7 +49288,7 @@
 东方大苇莺: dōng fāng dà wěi yīng
 东方市: dōng fāng shì
 东方文明: dōng fāng wén míng
-东方斑鵖: dōng fāng bān bī
+东方斑䳭: dōng fāng bān jí
 东方日报: dōng fāng rì bào
 东方明珠塔: dōng fāng míng zhū tǎ
 东方明珠电视塔: dōng fāng míng zhū diàn shì tǎ
@@ -49142,6 +49417,7 @@
 东非大裂谷: dōng fēi dà liè gǔ
 东面: dōng miàn
 东头村: dōng tóu cūn
+东风: dōng fēng
 东风区: dōng fēng qū
 东风压倒西风: dōng fēng yā dǎo xī fēng
 东魏: dōng wèi
@@ -49235,6 +49511,7 @@
 板块理论: bǎn kuài lǐ lùn
 板壁: bǎn bì
 板子: bǎn zi
+板寸: bǎn cùn
 板岩: bǎn yán
 板式塔: bǎn shì tǎ
 板房: bǎn fáng
@@ -49465,6 +49742,7 @@
 枝城: zhī chéng
 枝城镇: zhī chéng zhèn
 枝子: zhī zi
+枝干: zhī gàn
 枝晶: zhī jīng
 枝枒: zhī yā
 枝条: zhī tiáo
@@ -49752,7 +50030,6 @@
 柳河县: liǔ hé xiàn
 柳烟花雾: liǔ yān huā wù
 柳营: liǔ yíng
-柳营乡: liǔ yíng xiāng
 柳琴: liǔ qín
 柳眉: liǔ méi
 柳绿花红: liǔ lǜ huā hóng
@@ -50006,7 +50283,7 @@
 核电站: hé diàn zhàn
 核电荷数: hé diàn hè shù
 核驳: hé bó
-核碱基: hē jiǎn jī
+核碱基: hé jiǎn jī
 核黄素: hé huáng sù
 根基: gēn jī
 根底: gēn dǐ
@@ -50265,7 +50542,6 @@
 桑植县: sāng zhí xiàn
 桑树: sāng shù
 桑海: sāng hǎi
-桑眼: sǎng yǎn
 桑科: sāng kē
 桑给巴尔: sāng jǐ bā ěr
 桑耶: sāng yē
@@ -50364,7 +50640,7 @@
 梅里雪山: méi lǐ xuě shān
 梅雨: méi yǔ
 梆子: bāng zi
-梆子腔: bāng zǐ qiāng
+梆子腔: bāng zi qiāng
 梓官: zǐ guān
 梓官乡: zǐ guān xiāng
 梓潼: zǐ tóng
@@ -50381,7 +50657,7 @@
 梗王: gěng wáng
 梗直: gěng zhí
 梗阻: gěng zǔ
-梜提: jiā tí
+𬂩提: jiā tí
 条件: tiáo jiàn
 条件反射: tiáo jiàn fǎn shè
 条件反应: tiáo jiàn fǎn yìng
@@ -50501,6 +50777,7 @@
 弃守: qì shǒu
 弃市: qì shì
 弃恶从善: qì è cóng shàn
+弃舍: qì shě
 弃暗投明: qì àn tóu míng
 弃核: qì hé
 弃樱: qì yīng
@@ -50868,7 +51145,6 @@
 楠梓区: nán zǐ qū
 楠竹: nán zhú
 楠西: nán xī
-楠西乡: nán xī xiāng
 楦子: xuàn zi
 楦头: xuàn tou
 业主: yè zhǔ
@@ -50944,6 +51220,7 @@
 极短篇小说: jí duǎn piān xiǎo shuō
 极端: jí duān
 极端主义: jí duān zhǔ yì
+极端之恶: jí duān zhī è
 极端分子: jí duān fèn zǐ
 极简主义: jí jiǎn zhǔ yì
 极细小: jí xì xiǎo
@@ -50978,7 +51255,6 @@
 概况: gài kuàng
 概测法: gài cè fǎ
 概率: gài lǜ
-概率和数理统计: gài lǜ hé shù lǐ tǒng jì
 概率论: gài lǜ lùn
 概而不论: gài ér bù lùn
 概而言之: gài ér yán zhī
@@ -51031,6 +51307,7 @@
 榜笞: bàng chī
 榜葛剌: bǎng gé là
 榜首: bǎng shǒu
+榠楂: míng zhā
 榨取: zhà qǔ
 榨汁机: zhà zhī jī
 榨油: zhà yóu
@@ -51460,6 +51737,7 @@
 樵夫: qiáo fū
 樵子: qiáo zǐ
 朴实: pǔ shí
+朴实无华: pǔ shí wú huá
 朴次茅斯: pǔ cì máo sī
 朴素: pǔ sù
 朴门: pǔ mén
@@ -51557,6 +51835,7 @@
 橐笔: tuó bǐ
 橐驼: tuó tuó
 橐龠: tuó yuè
+橘味: jú wèi
 橘子: jú zi
 橘子水: jú zi shuǐ
 橘子汁: jú zi zhī
@@ -51659,7 +51938,6 @@
 机变: jī biàn
 机踏车: jī tà chē
 机身: jī shēn
-机身宽大: jī shēn kuān dà
 机车: jī chē
 机轴: jī zhóu
 机遇: jī yù
@@ -51686,6 +51964,7 @@
 橡树: xiàng shù
 橡皮: xiàng pí
 橡皮擦: xiàng pí cā
+橡皮泥: xiàng pí ní
 橡皮球: xiàng pí qiú
 橡皮筋: xiàng pí jīn
 橡皮线: xiàng pí xiàn
@@ -51831,7 +52110,7 @@
 档案传输协定: dàng àn chuán shū xié dìng
 档案分配区: dàng àn fēn pèi qū
 档案执行: dàng àn zhí xíng
-档案夾: dàng àn jiā
+档案夹: dàng àn jiā
 档案属性: dàng àn shǔ xìng
 档案建立: dàng àn jiàn lì
 档案服务: dàng àn fú wù
@@ -51997,6 +52276,7 @@
 欠妥: qiàn tuǒ
 欠安: qiàn ān
 欠扁: qiàn biǎn
+欠抽: qiàn chōu
 欠揍: qiàn zòu
 欠条: qiàn tiáo
 欠款: qiàn kuǎn
@@ -52155,6 +52435,7 @@
 歌唱: gē chàng
 歌唱家: gē chàng jiā
 歌唱赛: gē chàng sài
+歌单: gē dān
 歌坛: gē tán
 歌女: gē nǚ
 歌姬: gē jī
@@ -52455,6 +52736,7 @@
 正当防卫: zhèng dàng fáng wèi
 正畸: zhèng jī
 正直: zhèng zhí
+正相关: zhèng xiāng guān
 正眼: zhèng yǎn
 正确: zhèng què
 正确处理: zhèng què chǔ lǐ
@@ -52540,6 +52822,7 @@
 此时此刻: cǐ shí cǐ kè
 此时此地: cǐ shí cǐ dì
 此次: cǐ cì
+此消彼长: cǐ xiāo bǐ zhǎng
 此致: cǐ zhì
 此致敬礼: cǐ zhì jìng lǐ
 此处: cǐ chù
@@ -52753,6 +53036,7 @@
 岁计: suì jì
 岁计余绌: suì jì yú chù
 岁阑: suì lán
+岁静: suì jìng
 岁首: suì shǒu
 历下: lì xià
 历下区: lì xià qū
@@ -52787,6 +53071,7 @@
 历史观点: lì shǐ guān diǎn
 历史遗产: lì shǐ yí chǎn
 历史遗迹: lì shǐ yí jì
+历史重演: lì shǐ chóng yǎn
 历城: lì chéng
 历城区: lì chéng qū
 历届: lì jiè
@@ -52805,7 +53090,6 @@
 历练: lì liàn
 历险: lì xiǎn
 归仁: guī rén
-归仁乡: guī rén xiāng
 归位: guī wèi
 归并: guī bìng
 归来: guī lái
@@ -52835,6 +53119,7 @@
 归于: guī yú
 归根: guī gēn
 归根到底: guī gēn dào dǐ
+归根究底: guī gēn jiū dǐ
 归根结底: guī gēn jié dǐ
 归根结柢: guī gēn jié dǐ
 归根结蒂: guī gēn jié dì
@@ -52867,6 +53152,7 @@
 归类: guī lèi
 歹人: dǎi rén
 歹势: dǎi shì
+歹命: dǎi mìng
 歹徒: dǎi tú
 歹意: dǎi yì
 歹毒: dǎi dú
@@ -53161,6 +53447,8 @@
 杀虫药: shā chóng yào
 杀蠹药: shā dù yào
 杀猪宰羊: shā zhū zǎi yáng
+杀身之祸: shā shēn zhī huò
+杀身成仁: shā shēn chéng rén
 杀软: shā ruǎn
 杀进: shā jìn
 杀进杀出: shā jìn shā chū
@@ -53212,7 +53500,7 @@
 毋庸: wú yōng
 毋忘: wú wàng
 母乳: mǔ rǔ
-母乳代: mǔ rǔ dài
+母乳代用品: mǔ rǔ dài yòng pǐn
 母乳化奶粉: mǔ rǔ huà nǎi fěn
 母乳喂养: mǔ rǔ wèi yǎng
 母公司: mǔ gōng sī
@@ -53380,6 +53668,7 @@
 比手划脚: bǐ shǒu huà jiǎo
 比手画脚: bǐ shǒu huà jiǎo
 比才: bì cái
+比拚: bǐ pàn
 比拼: bǐ pīn
 比捕: bǐ bǔ
 比拟: bǐ nǐ
@@ -53529,6 +53818,7 @@
 毛发: máo fà
 毛鸭蛋: máo yā dàn
 毛霉菌病: máo méi jūn bìng
+毪子: mú zi
 毫不: háo bù
 毫不介意: háo bu jiè yì
 毫不客气: háo bù kè qi
@@ -53908,6 +54198,7 @@
 氢氯酸: qīng lǜ suān
 氢净合成油: qīng jìng hé chéng yóu
 氢溴酸: qīng xiù suān
+氢能源: qīng néng yuán
 氢酶: qīng méi
 氢键: qīng jiàn
 氢卤酸: qīng lǔ suān
@@ -54037,6 +54328,7 @@
 水库: shuǐ kù
 水彩: shuǐ cǎi
 水彩画: shuǐ cǎi huà
+水彩笔: shuǐ cǎi bǐ
 水性: shuǐ xìng
 水性杨花: shuǐ xìng yáng huā
 水患: shuǐ huàn
@@ -54251,6 +54543,7 @@
 永久和平: yǒng jiǔ hé píng
 永久居民: yǒng jiǔ jū mín
 永久居留权: yǒng jiǔ jū liú quán
+永久居留证: yǒng jiǔ jū liú zhèng
 永久性: yǒng jiǔ xìng
 永久磁铁: yǒng jiǔ cí tiě
 永久虚电路: yǒng jiǔ xū diàn lù
@@ -54457,8 +54750,6 @@
 汝阳县: rǔ yáng xiàn
 汞溴红: gǒng xiù hóng
 汞灯: gǒng dēng
-江干: jiāng gān
-江干区: jiāng gān qū
 江八点: jiāng bā diǎn
 江北: jiāng běi
 江北区: jiāng běi qū
@@ -54494,6 +54785,8 @@
 江川县: jiāng chuān xiàn
 江州: jiāng zhōu
 江州区: jiāng zhōu qū
+江干: jiāng gān
+江干区: jiāng gān qū
 江平: jiāng píng
 江户: jiāng hù
 江东: jiāng dōng
@@ -54571,6 +54864,7 @@
 池盐: chí yán
 污七八糟: wū qī bā zāo
 污名: wū míng
+污名化: wū míng huà
 污吏: wū lì
 污垢: wū gòu
 污损: wū sǔn
@@ -54830,6 +55124,7 @@
 没命: méi mìng
 没品: méi pǐn
 没问题: méi wèn tí
+没多久: méi duō jiǔ
 没大没小: méi dà méi xiǎo
 没天理: méi tiān lǐ
 没奈何: mò nài hé
@@ -54869,6 +55164,7 @@
 没法: méi fǎ
 没准: méi zhǔn
 没准儿: méi zhǔn er
+没准头: méi zhǔn tou
 没溜儿: méi liù er
 没用: méi yòng
 没的说: méi de shuō
@@ -54935,6 +55231,7 @@
 冲走: chōng zǒu
 冲销: chōng xiāo
 冲龄: chōng líng
+沙䳭: shā jí
 沙丁胺醇: shā dīng àn chún
 沙丁鱼: shā dīng yú
 沙丘: shā qiū
@@ -55058,7 +55355,6 @@
 沙雅县: shā yǎ xiàn
 沙头角: shā tóu jiǎo
 沙鱼: shā yú
-沙鵖: shā bī
 沙鹿: shā lù
 沙鹿镇: shā lù zhèn
 沙丽: shā lì
@@ -55330,6 +55626,7 @@
 泅水: qiú shuǐ
 泅渡: qiú dù
 泅游: qiú yóu
+泇河: jiā hé
 泉山: quán shān
 泉山区: quán shān qū
 泉州: quán zhōu
@@ -55511,6 +55808,7 @@
 泛函分析: fàn hán fēn xī
 泛大洋: fàn dà yáng
 泛大陆: fàn dà lù
+泛定方程: fàn dìng fāng chéng
 泛得林: fàn dé lín
 泛性恋: fàn xìng liàn
 泛指: fàn zhǐ
@@ -55642,6 +55940,7 @@
 波洛涅斯: bō luò niè sī
 波浪: bō làng
 波浪号: bō làng hào
+波浪鼓: bō lang gǔ
 波涛: bō tāo
 波涛汹涌: bō tāo xiōng yǒng
 波涛磷磷: bō tāo lín lín
@@ -56185,6 +56484,7 @@
 洪雅: hóng yǎ
 洪雅族: hóng yǎ zú
 洪雅县: hóng yǎ xiàn
+洭河: kuāng hé
 洮北: táo běi
 洮北区: táo běi qū
 洮南: táo nán
@@ -56245,6 +56545,7 @@
 活性剂: huó xìng jì
 活性氧类: huó xìng yǎng lèi
 活性炭: huó xìng tàn
+活捉: huó zhuō
 活摘: huó zhāi
 活期: huó qī
 活期存款: huó qī cún kuǎn
@@ -56436,6 +56737,7 @@
 流览: liú lǎn
 流言: liú yán
 流言蜚语: liú yán fēi yǔ
+流调: liú diào
 流变: liú biàn
 流变学: liú biàn xué
 流变能力: liú biàn néng lì
@@ -56845,6 +57147,7 @@
 海绵宝宝: hǎi mián bǎo bǎo
 海绵状: hǎi mián zhuàng
 海绵体: hǎi mián tǐ
+海肠子: hǎi cháng zi
 海胆: hǎi dǎn
 海兴: hǎi xīng
 海兴县: hǎi xīng xiàn
@@ -56945,6 +57248,7 @@
 浸入: jìn rù
 浸剂: jìn jì
 浸染: jìn rǎn
+浸水: jìn shuǐ
 浸沉: jìn chén
 浸没: jìn mò
 浸泡: jìn pào
@@ -56959,7 +57263,7 @@
 浸透: jìn tòu
 浽溦: suī wēi
 涂山: tú shān
-涂尔干: tú ěr gān
+涂尔干: tú ěr gàn
 涅槃: niè pán
 涅盘经: niè pán jīng
 涅瓦: niè wǎ
@@ -57092,6 +57396,7 @@
 涉县: shè xiàn
 涉览: shè lǎn
 涉讼: shè sòng
+涉诈: shè zhà
 涉贿: shè huī
 涉足: shè zú
 涉过: shè guò
@@ -57253,6 +57558,7 @@
 淘金潮: táo jīn cháo
 淘金热: táo jīn rè
 淘金者: táo jīn zhě
+泪人: lèi rén
 泪光: lèi guāng
 泪奔: lèi bēn
 泪如雨下: lèi rú yǔ xià
@@ -57265,8 +57571,11 @@
 泪痕: lèi hén
 泪眼: lèi yǎn
 泪眼婆娑: lèi yǎn pó suō
+泪管: lèi guǎn
 泪腺: lèi xiàn
 泪花: lèi huā
+泪点: lèi diǎn
+泪点低: lèi diǎn dī
 淡光: dàn guāng
 淡入: dàn rù
 淡出: dàn chū
@@ -57753,6 +58062,7 @@
 清澄: qīng chéng
 清澈: qīng chè
 清澈见底: qīng chè jiàn dǐ
+清澈透底: qīng chè tòu dǐ
 清涧: qīng jiàn
 清涧县: qīng jiàn xiàn
 清火: qīng huǒ
@@ -57771,6 +58081,7 @@
 清盘: qīng pán
 清真: qīng zhēn
 清真寺: qīng zhēn sì
+清福: qīng fú
 清秀: qīng xiù
 清空: qīng kōng
 清算: qīng suàn
@@ -58263,6 +58574,8 @@
 准线: zhǔn xiàn
 准绳: zhǔn shéng
 准谱儿: zhǔn pǔ er
+准头: zhǔn tóu
+准头: zhǔn tou
 溘先朝露: kè xiān zhāo lù
 溘然: kè rán
 溜之大吉: liū zhī dà jí
@@ -58296,6 +58609,7 @@
 溟溟: míng míng
 溟漭: míng mǎng
 溟蒙: míng méng
+溢价: yì jià
 溢出: yì chū
 溢出效应: yì chū xiào yìng
 溢于言表: yì yú yán biǎo
@@ -58325,6 +58639,7 @@
 温乎: wēn hu
 温切斯特: wēn qiē sī tè
 温厚: wēn hòu
+温吞: wēn tūn
 温和: wēn hé
 温和: wēn huo
 温和性: wēn hé xìng
@@ -58381,6 +58696,7 @@
 温煦: wēn xù
 温热: wēn rè
 温特图尔: wēn tè tú ěr
+温理: wēn lǐ
 温网: wēn wǎng
 温县: wēn xiàn
 温习: wēn xí
@@ -58454,6 +58770,7 @@
 沧龙科: cāng lóng kē
 灭亡: miè wáng
 灭口: miè kǒu
+灭团: miè tuán
 灭失: miè shī
 灭度: miè dù
 灭掉: miè diào
@@ -58525,6 +58842,7 @@
 滑板车: huá bǎn chē
 滑梯: huá tī
 滑水: huá shuǐ
+滑水道: huá shuǐ dào
 滑沙: huá shā
 滑溜: huá liū
 滑溜: huá liu
@@ -58678,6 +58996,7 @@
 滚筒刷: gǔn tǒng shuā
 滚落: gǔn luò
 滚蛋: gǔn dàn
+滚轮: gǔn lún
 滚边: gǔn biān
 滚开: gǔn kāi
 满不在乎: mǎn bù zài hu
@@ -58844,6 +59163,7 @@
 漆黑一团: qī hēi yī tuán
 溇水: lóu shuǐ
 漏勺: lòu sháo
+漏嘴: lòu zuǐ
 漏壶: lòu hú
 漏失: lòu shī
 漏掉: lòu diào
@@ -58886,6 +59206,7 @@
 演示: yǎn shì
 演示文稿: yǎn shì wén gǎo
 演算: yǎn suàn
+演算法: yǎn suàn fǎ
 演练: yǎn liàn
 演绎: yǎn yì
 演绎法: yǎn yì fǎ
@@ -58904,6 +59225,7 @@
 漕运: cáo yùn
 沤凼: òu dàng
 沤肥: òu féi
+漠䳭: mò jí
 漠不关心: mò bù guān xīn
 漠北: mò běi
 漠南: mò nán
@@ -58912,7 +59234,6 @@
 漠然: mò rán
 漠然置之: mò rán zhì zhī
 漠视: mò shì
-漠鵖: mò bī
 汉中: hàn zhōng
 汉中地区: hàn zhōng dì qū
 汉中市: hàn zhōng shì
@@ -58942,8 +59263,8 @@
 汉字字体: hàn zì zì tǐ
 汉字查字法: hàn zì chá zì fǎ
 汉学: hàn xué
-汉学系: hàn xué xì
 汉学家: hàn xué jiā
+汉学系: hàn xué xì
 汉宣帝: hàn xuān dì
 汉密尔顿: hàn mì ěr dùn
 汉尼拔: hàn ní bá
@@ -59190,6 +59511,7 @@
 潢川: huáng chuān
 潢川县: huáng chuān xiàn
 润唇膏: rùn chún gāo
+润学: rùn xué
 润州: rùn zhōu
 润州区: rùn zhōu qū
 润格: rùn gé
@@ -59242,8 +59564,8 @@
 潮汐能: cháo xī néng
 潮汐电站: cháo xī diàn zhàn
 潮汕: cháo shàn
+潮汕话: cháo shàn huà
 潮汛: cháo xùn
-潮洲: cháo zhōu
 潮流: cháo liú
 潮涌: cháo yǒng
 潮湿: cháo shī
@@ -59406,7 +59728,6 @@
 激浊扬清: jī zhuó yáng qīng
 激烈: jī liè
 激发: jī fā
-激发注射: jī fā zhù shè
 激荡: jī dàng
 激素: jī sù
 激荡: jī dàng
@@ -59627,6 +59948,7 @@
 泸西县: lú xī xiàn
 瀛洲: yíng zhōu
 瀛台: yíng tái
+沥干: lì gān
 沥水架: lì shuǐ jià
 沥陈鄙见: lì chén bǐ jiàn
 沥青: lì qīng
@@ -59780,6 +60102,7 @@
 火焰喷射器: huǒ yàn pēn shè qì
 火焰山: huǒ yàn shān
 火热: huǒ rè
+火燎: huǒ liáo
 火烧: huǒ shāo
 火烧火燎: huǒ shāo huǒ liáo
 火烧眉毛: huǒ shāo méi mao
@@ -59806,6 +60129,7 @@
 火箭推进榴弹: huǒ jiàn tuī jìn liú dàn
 火箭炮: huǒ jiàn pào
 火箭筒: huǒ jiàn tǒng
+火箭军: huǒ jiàn jūn
 火红: huǒ hóng
 火绒草: huǒ róng cǎo
 火线: huǒ xiàn
@@ -59858,7 +60182,6 @@
 灰喉鸦雀: huī hóu yā què
 灰喜鹊: huī xǐ què
 灰土: huī tǔ
-灰土: huī tǔ
 灰尘: huī chén
 灰奇鹛: huī qí méi
 灰姑娘: huī gū niang
@@ -59877,9 +60200,9 @@
 灰斑鸻: huī bān héng
 灰斑鹟: huī bān wēng
 灰暗: huī àn
+灰林䳭: huī lín jí
 灰林鸮: huī lín xiāo
 灰林鸽: huī lín gē
-灰林鵖: huī lín bī
 灰柳莺: huī liǔ yīng
 灰椋鸟: huī liáng niǎo
 灰树鹊: huī shù què
@@ -60037,6 +60360,7 @@
 炫目: xuàn mù
 炫耀: xuàn yào
 炫酷: xuàn kù
+炭墼: tàn jī
 炭焙: tàn bèi
 炭疽: tàn jū
 炭疽杆菌: tàn jū gǎn jūn
@@ -60049,6 +60373,7 @@
 炮友: pào yǒu
 炮塔: pào tǎ
 炮弹: pào dàn
+炮战: pào zhàn
 炮击: pào jī
 炮火: pào huǒ
 炮灰: pào huī
@@ -60097,6 +60422,7 @@
 为上: wéi shàng
 为主: wéi zhǔ
 为了: wèi le
+为五斗米折腰: wèi wǔ dǒu mǐ zhé yāo
 为人: wéi rén
 为人: wèi rén
 为人师表: wéi rén shī biǎo
@@ -60302,10 +60628,12 @@
 烘干机: hōng gān jī
 烘动: hōng dòng
 烘手器: hōng shǒu qì
+烘手机: hōng shǒu jī
 烘托: hōng tuō
 烘染: hōng rǎn
 烘烤: hōng kǎo
 烘焙: hōng bèi
+烘焙师: hōng bèi shī
 烘焙店: hōng bèi diàn
 烘焙鸡: hōng bèi jī
 烘炉: hōng lú
@@ -60442,6 +60770,7 @@
 无冬无夏: wú dōng wú xià
 无出其右: wú chū qí yòu
 无利: wú lì
+无利不起早: wú lì bù qǐ zǎo
 无力: wú lì
 无力感: wú lì gǎn
 无功不受禄: wú gōng bù shòu lù
@@ -60979,6 +61308,7 @@
 煤灰: méi huī
 煤炭: méi tàn
 煤焦油: méi jiāo yóu
+煤炉: méi lú
 煤球: méi qiú
 煤田: méi tián
 煤矸石: méi gān shí
@@ -61230,6 +61560,7 @@
 热呼呼: rè hū hū
 热土: rè tǔ
 热容: rè róng
+热射病: rè shè bìng
 热对流: rè duì liú
 热导: rè dǎo
 热导率: rè dǎo lǜ
@@ -61340,6 +61671,7 @@
 炽烈: chì liè
 炽热: chì rè
 炽热火山云: chì rè huǒ shān yún
+炽盛: chì shèng
 燃放: rán fàng
 燃放鞭炮: rán fàng biān pào
 燃料: rán liào
@@ -61374,10 +61706,12 @@
 灯塔: dēng tǎ
 灯塔市: dēng tǎ shì
 灯塔水母: dēng tǎ shuǐ mǔ
+灯带: dēng dài
 灯心: dēng xīn
 灯心草: dēng xīn cǎo
 灯会: dēng huì
 灯柱: dēng zhù
+灯条: dēng tiáo
 灯泡: dēng pào
 灯火: dēng huǒ
 灯火通明: dēng huǒ tōng míng
@@ -62518,6 +62852,7 @@
 狠心: hěn xīn
 狠毒: hěn dú
 狠狠: hěn hěn
+狠绝: hěn jué
 狡兔三窟: jiǎo tù sān kū
 狡兔死走狗烹: jiǎo tù sǐ zǒu gǒu pēng
 狡滑: jiǎo huá
@@ -62753,6 +63088,7 @@
 独吞: dú tūn
 独唱: dú chàng
 独在异乡为异客: dú zài yì xiāng wéi yì kè
+独大: dú dà
 独夫: dú fū
 独夫民贼: dú fū mín zéi
 独奏: dú zòu
@@ -62967,7 +63303,6 @@
 率真: shuài zhēn
 率领: shuài lǐng
 玉井: yù jǐng
-玉井乡: yù jǐng xiāng
 玉人: yù rén
 玉人吹箫: yù rén chuī xiāo
 玉佩: yù pèi
@@ -63024,6 +63359,7 @@
 玉竹: yù zhú
 玉篇: yù piān
 玉米: yù mǐ
+玉米棒: yù mǐ bàng
 玉米淀粉: yù mǐ diàn fěn
 玉米片: yù mǐ piàn
 玉米笋: yù mǐ sǔn
@@ -63158,6 +63494,7 @@
 王顾左右而言他: wáng gù zuǒ yòu ér yán tā
 玎玲: dīng líng
 玓𬍛: dì lì
+玩不起: wán bu qǐ
 玩世不恭: wán shì bù gōng
 玩人丧德: wán rén sàng dé
 玩伴: wán bàn
@@ -63491,7 +63828,6 @@
 球体: qiú tǐ
 琅威理: láng wēi lǐ
 琅嬛: láng huán
-琅玡区: láng yá qū
 理中客: lǐ zhōng kè
 理事: lǐ shì
 理事会: lǐ shì huì
@@ -63718,9 +64054,9 @@
 玛丽: mǎ lì
 玛丽亚: mǎ lì yà
 玛丽娅: mǎ lì yà
-琅玡: láng yá
+琅琊: láng yá
 琅琊区: láng yá qū
-琅玡山: láng yá shān
+琅琊山: láng yá shān
 瑰伟: guī wěi
 瑰奇: guī qí
 瑰宝: guī bǎo
@@ -63898,6 +64234,7 @@
 瓦工: wǎ gōng
 瓦德瑟: wǎ dé sè
 瓦德西: wǎ dé xī
+瓦房: wǎ fáng
 瓦房店: wǎ fáng diàn
 瓦房店市: wǎ fáng diàn shì
 瓦斯: wǎ sī
@@ -63920,6 +64257,7 @@
 瓦良格人: wǎ liáng gé rén
 瓦莱塔: wǎ lái tǎ
 瓦萨比: wǎ sà bǐ
+瓦蓝: wǎ lán
 瓦西里: wǎ xī lǐ
 瓦西里耶维奇: wǎ xī lǐ yē wéi qí
 瓦解: wǎ jiě
@@ -64481,6 +64819,7 @@
 甬江: yǒng jiāng
 甬路: yǒng lù
 甬道: yǒng dào
+甭管: béng guǎn
 田七: tián qī
 田中: tián zhōng
 田中角荣: tián zhōng jiǎo róng
@@ -64667,6 +65006,7 @@
 男儿: nán ér
 男儿有泪不轻弹: nán ér yǒu lèi bù qīng tán
 男友: nán yǒu
+男友力: nán yǒu lì
 男同: nán tóng
 男同胞: nán tóng bāo
 男单: nán dān
@@ -64754,6 +65094,7 @@
 界首市: jiè shǒu shì
 畏友: wèi yǒu
 畏忌: wèi jì
+畏怯: wèi qiè
 畏惧: wèi jù
 畏畏缩缩: wèi wèi suō suō
 畏缩: wèi suō
@@ -64863,7 +65204,7 @@
 毕尼奥夫带: bì ní ào fū dài
 毕恭毕敬: bì gōng bì jìng
 毕摩: bì mó
-毕升: bì shēng
+毕昇: bì shēng
 毕业: bì yè
 毕业典礼: bì yè diǎn lǐ
 毕业生: bì yè shēng
@@ -65057,6 +65398,7 @@
 异乡: yì xiāng
 异乡人: yì xiāng rén
 异面直线: yì miàn zhí xiàn
+异响: yì xiǎng
 异频雷达收发机: yì pín léi dá shōu fā jī
 异食癖: yì shí pǐ
 异香: yì xiāng
@@ -65119,6 +65461,7 @@
 当掉: dàng diào
 当政: dāng zhèng
 当政者: dāng zhèng zhě
+当断不断: dāng duàn bù duàn
 当断则断: dāng duàn zé duàn
 当断即断: dāng duàn jí duàn
 当日: dāng rì
@@ -65310,6 +65653,7 @@
 疾首: jí shǒu
 疾驰: jí chí
 疾驰而过: jí chí ér guò
+疾驶: jí shǐ
 痂皮: jiā pí
 病人: bìng rén
 病休: bìng xiū
@@ -65495,6 +65839,7 @@
 疯瘫: fēng tān
 疯癫: fēng diān
 疯话: fēng huà
+疯魔: fēng mó
 瘐毙: yǔ bì
 瘐死: yǔ sǐ
 瘙痒: sào yǎng
@@ -65671,6 +66016,7 @@
 发出指示: fā chū zhǐ shì
 发刊: fā kān
 发刊词: fā kān cí
+发力: fā lì
 发动: fā dòng
 发动力: fā dòng lì
 发动机: fā dòng jī
@@ -65681,7 +66027,6 @@
 发问: fā wèn
 发喉急: fā hóu jí
 发丧: fā sāng
-发嘎嘎声: fā gā gā shēng
 发嘘声: fā xū shēng
 发回: fā huí
 发报: fā bào
@@ -65926,7 +66271,7 @@
 白喉毒素: bái hóu dú sù
 白喉犀鸟: bái hóu xī niǎo
 白喉短翅鸫: bái hóu duǎn chì dōng
-白喉石鵖: bái hóu shí bī
+白喉石䳭: bái hóu shí jí
 白喉矶鸫: bái hóu jī dōng
 白喉红尾鸲: bái hóu hóng wěi qú
 白喉红臀鹎: bái hóu hóng tún bēi
@@ -65989,7 +66334,7 @@
 白斑翅拟蜡嘴雀: bái bān chì nǐ là zuǐ què
 白斑翅雪雀: bái bān chì xuě què
 白斑军舰鸟: bái bān jūn jiàn niǎo
-白斑黑石鵖: bái bān hēi shí bī
+白斑黑石䳭: bái bān hēi shí jí
 白斩鸡: bái zhǎn jī
 白旄黄钺: bái máo huáng yuè
 白族: bái zú
@@ -66035,6 +66380,7 @@
 白河镇: bái hé zhèn
 白洋淀: bái yáng diàn
 白洞: bái dòng
+白活: bái huó
 白海: bái hǎi
 白净: bái jìng
 白汤: bái tāng
@@ -66093,7 +66439,7 @@
 白眼狼: bái yǎn láng
 白眼珠: bái yǎn zhū
 白眼珠儿: bái yǎn zhū er
-白眼鵟鹰: bái yǎn kuáng yīng
+白眼𫛭鹰: bái yǎn kuáng yīng
 白矮星: bái ǎi xīng
 白石砬子: bái shí lá zi
 白砂糖: bái shā táng
@@ -66253,10 +66599,10 @@
 白霜: bái shuāng
 白露: bái lù
 白面书生: bái miàn shū shēng
+白顶䳭: bái dǐng jí
 白顶溪鸲: bái dǐng xī qú
 白顶玄鸥: bái dǐng xuán ōu
 白顶鹀: bái dǐng wú
-白顶鵖: bái dǐng bī
 白项凤鹛: bái xiàng fèng méi
 白领: bái lǐng
 白领八哥: bái lǐng bā gē
@@ -66289,6 +66635,7 @@
 白额雁: bái é yàn
 白额鹱: bái é hù
 白饭: bái fàn
+白饶: bái ráo
 白首齐眉: bái shǒu qí méi
 白香词谱: bái xiāng cí pǔ
 白马寺: bái mǎ sì
@@ -66527,8 +66874,8 @@
 皇堡: huáng bǎo
 皇天不负苦心人: huáng tiān bù fù kǔ xīn rén
 皇天后土: huáng tiān hòu tǔ
-皇太子: huáng tài zǐ
 皇太后: huáng tài hòu
+皇太子: huáng tài zǐ
 皇太极: huáng tài jí
 皇太极清太宗: huáng tài jí qīng tài zōng
 皇姑: huáng gū
@@ -66609,6 +66956,7 @@
 皮外伤: pí wài shāng
 皮夹: pí jiā
 皮子: pí zi
+皮实: pí shi
 皮尺: pí chǐ
 皮层: pí céng
 皮层下失语症: pí céng xià shī yǔ zhèng
@@ -66777,6 +67125,7 @@
 盛誉: shèng yù
 盛赞: shèng zàn
 盛开: shèng kāi
+盛饭: chéng fàn
 盛馔: shèng zhuàn
 盗伐: dào fá
 盗刷: dào shuā
@@ -67017,6 +67366,7 @@
 目挑心招: mù tiǎo xīn zhāo
 目击: mù jī
 目击者: mù jī zhě
+目数: mù shù
 目标: mù biāo
 目标匹配作业: mù biāo pǐ pèi zuò yè
 目标地址: mù biāo dì zhǐ
@@ -67332,6 +67682,7 @@
 相距: xiāng jù
 相较: xiāng jiào
 相辅相成: xiāng fǔ xiāng chéng
+相轻: xiāng qīng
 相迎: xiāng yíng
 相近: xiāng jìn
 相通: xiāng tōng
@@ -67822,6 +68173,7 @@
 睡回笼觉: shuì huí lóng jiào
 睡梦中: shuì mèng zhōng
 睡姿: shuì zī
+睡得着: shuì de zháo
 睡意: shuì yì
 睡懒觉: shuì lǎn jiào
 睡房: shuì fáng
@@ -67893,6 +68245,7 @@
 瞄准具: miáo zhǔn jù
 瞅睬: chǒu cǎi
 瞅见: chǒu jiàn
+眯眼: mī yǎn
 瞈蒙: wěng méng
 瞋目: chēn mù
 瞌睡: kē shuì
@@ -67965,6 +68318,7 @@
 了解: liǎo jiě
 瞰望: kàn wàng
 瞰临: kàn lín
+瞳人: tóng rén
 瞳仁: tóng rén
 瞳孔: tóng kǒng
 瞳眸: tóng móu
@@ -68133,6 +68487,7 @@
 短袜: duǎn wà
 短见: duǎn jiàn
 短视: duǎn shì
+短视近利: duǎn shì jìn lì
 短讯: duǎn xùn
 短训班: duǎn xùn bān
 短语: duǎn yǔ
@@ -68223,6 +68578,7 @@
 石墨: shí mò
 石墨气冷堆: shí mò qì lěng duī
 石墨烯: shí mò xī
+石墨碳: shí mò tàn
 石女: shí nǚ
 石子儿: shí zǐ er
 石家庄: shí jiā zhuāng
@@ -68429,6 +68785,7 @@
 研修员: yán xiū yuán
 研判: yán pàn
 研定: yán dìng
+研所: yán suǒ
 研拟: yán nǐ
 研析: yán xī
 研求: yán qiú
@@ -68460,6 +68817,7 @@
 研讨: yán tǎo
 研讨会: yán tǎo huì
 研读: yán dú
+砘子: dùn zi
 砝码: fǎ mǎ
 砢碜: kē chen
 砣子: tuó zi
@@ -68495,6 +68853,7 @@
 破土: pò tǔ
 破土典礼: pò tǔ diǎn lǐ
 破壁: pò bì
+破壁机: pò bì jī
 破坏: pò huài
 破坏性: pò huài xìng
 破坏活动: pò huài huó dòng
@@ -68563,6 +68922,7 @@
 破门而入: pò mén ér rù
 破开: pò kāi
 破关: pò guān
+破防: pò fáng
 破除: pò chú
 破除迷信: pò chú mí xìn
 破鞋: pò xié
@@ -68582,6 +68942,7 @@
 砸烂: zá làn
 砸破: zá pò
 砸碎: zá suì
+砸醒: zá xǐng
 砸钱: zá qián
 砸锅: zá guō
 砸锅卖铁: zá guō mài tiě
@@ -68844,6 +69205,7 @@
 碳水化合物: tàn shuǐ huà hé wù
 碳减排: tàn jiǎn pái
 碳粉: tàn fěn
+碳纤维: tàn xiān wéi
 碳足印: tàn zú yìn
 碳酰氯: tàn xiān lǜ
 碳酸: tàn suān
@@ -68936,7 +69298,7 @@
 磁轨炮: cí guǐ pào
 磁通量: cí tōng liàng
 磁通门: cí tōng mén
-磁重聯: cí chóng lián
+磁重联: cí chóng lián
 磁钉: cí dīng
 磁链: cí liàn
 磁铁: cí tiě
@@ -68964,6 +69326,7 @@
 磕磕: kē kē
 磕磕巴巴: kē kē bā bā
 磕磕绊绊: kē ke bàn bàn
+磕糖: kē táng
 磕膝盖: kē xī gài
 磕头: kē tóu
 磕头如捣蒜: kè tóu rú dǎo suàn
@@ -69134,6 +69497,7 @@
 社交媒体: shè jiāo méi tǐ
 社交恐惧症: shè jiāo kǒng jù zhèng
 社交才能: shè jiāo cái néng
+社交牛逼症: shè jiāo niú bī zhèng
 社交网站: shè jiāo wǎng zhàn
 社交舞: shè jiāo wǔ
 社交语言: shè jiāo yǔ yán
@@ -69145,6 +69509,7 @@
 社学: shè xué
 社工: shè gōng
 社工人: shè gōng rén
+社恐: shè kǒng
 社戏: shè xì
 社教: shè jiào
 社旗: shè qí
@@ -69942,6 +70307,7 @@
 科企: kē qǐ
 科佩尔: kē pèi ěr
 科伦坡: kē lún pō
+科仪: kē yí
 科克: kē kè
 科利奥兰纳斯: kē lì ào lán nà sī
 科卿: kē qīng
@@ -70077,6 +70443,7 @@
 租地: zū dì
 租地人投标票权: zū dì rén tóu biāo piào quán
 租子: zū zi
+租客: zū kè
 租户: zū hù
 租房: zū fáng
 租用: zū yòng
@@ -70248,7 +70615,6 @@
 程度: chéng dù
 程式: chéng shì
 程式码: chéng shì mǎ
-程式管理员: chéng shì guǎn lǐ yuán
 程式语言: chéng shì yǔ yán
 程控: chéng kòng
 程控交换机: chéng kòng jiāo huàn jī
@@ -70503,8 +70869,8 @@
 颖悟: yǐng wù
 颖果: yǐng guǒ
 颖异: yǐng yì
+穗䳭: suì jí
 穗饰: suì shì
-穗鵖: suì bī
 秽水: huì shuǐ
 秽语: huì yǔ
 稳中求进: wěn zhōng qiú jìn
@@ -70530,6 +70896,7 @@
 稳态理论: wěn tài lǐ lùn
 稳扎稳打: wěn zhā wěn dǎ
 稳拿: wěn ná
+稳控: wěn kòng
 稳操胜券: wěn cāo shèng quàn
 稳操胜算: wěn cāo shèng suàn
 稳步: wěn bù
@@ -70712,7 +71079,7 @@
 空集: kōng jí
 空难: kōng nàn
 空头: kōng tóu
-空头市场: kōng tóu shì cháng
+空头市场: kōng tóu shì chǎng
 空额: kòng é
 空余: kòng yú
 穿一条裤子: chuān yī tiáo kù zi
@@ -70973,6 +71340,7 @@
 立约: lì yuē
 立绒: lì róng
 立卧撑跳: lì wò chēng tiào
+立蛋: lì dàn
 立言: lì yán
 立论: lì lùn
 立足: lì zú
@@ -71042,6 +71410,8 @@
 章贡: zhāng gòng
 章贡区: zhāng gòng qū
 章鱼: zhāng yú
+章鱼小丸子: zhāng yú xiǎo wán zi
+章鱼烧: zhāng yú shāo
 竣工: jùn gōng
 童乩: tóng jī
 童便: tóng biàn
@@ -71229,6 +71599,7 @@
 笊篱: zhào li
 笑不可仰: xiào bù kě yǎng
 笑不可抑: xiào bù kě yì
+笑剧: xiào jù
 笑口弥勒: xiào kǒu mí lè
 笑吟吟: xiào yín yín
 笑哈哈: xiào hā hā
@@ -71637,6 +72008,7 @@
 管弦乐团: guǎn xián yuè tuán
 管弦乐队: guǎn xián yuè duì
 管待: guǎn dài
+管得着: guǎn de zháo
 管情: guǎn qíng
 管手管脚: guǎn shǒu guǎn jiǎo
 管扳手: guǎn bān shǒu
@@ -71676,6 +72048,8 @@
 管闲事: guǎn xián shì
 管风琴: guǎn fēng qín
 管龠: guǎn yuè
+箢箕: yuān jī
+箢篼: yuān dōu
 箭杆: jiàn gǎn
 箭步: jiàn bù
 箭毒木: jiàn dú mù
@@ -72008,6 +72382,7 @@
 米浆: mǐ jiāng
 米尔斯: mǐ ěr sī
 米尔顿: mǐ ěr dùn
+米白色: mǐ bái sè
 米突: mǐ tū
 米粉: mǐ fěn
 米粉肉: mǐ fěn ròu
@@ -72031,6 +72406,7 @@
 米开朗基罗: mǐ kāi lǎng jī luó
 米开兰基罗: mǐ kāi lán jī luó
 米饭: mǐ fàn
+米高: mǐ gāo
 米高扬: mǐ gāo yáng
 米高梅: mǐ gāo méi
 米麴菌: mǐ qū jūn
@@ -72039,6 +72415,7 @@
 籼稻: xiān dào
 籼米: xiān mǐ
 籽实: zǐ shí
+粉䎃: fěn rǎn
 粉刷: fěn shuā
 粉刺: fěn cì
 粉圆: fěn yuán
@@ -72092,6 +72469,7 @@
 粗估: cū gū
 粗俗: cū sú
 粗分: cū fēn
+粗剪: cū jiǎn
 粗劣: cū liè
 粗劣作品: cū liè zuò pǐn
 粗厉: cū lì
@@ -72340,6 +72718,7 @@
 糖浆: táng jiāng
 糖瓜: táng guā
 糖皮质激素: táng pí zhì jī sù
+糖稀: táng xī
 糖粉: táng fěn
 糖精: táng jīng
 糖脂: táng zhī
@@ -72370,9 +72749,11 @@
 糜费: mí fèi
 粪便: fèn biàn
 粪凼: fèn dàng
+粪化石: fèn huà shí
 粪土: fèn tǔ
 粪坑: fèn kēng
 粪尿: fèn niào
+粪石: fèn shí
 粪耙: fèn pá
 粪肥: fèn féi
 粪草: fèn cǎo
@@ -72644,6 +73025,7 @@
 红河县: hóng hé xiàn
 红油: hóng yóu
 红海: hóng hǎi
+红海: hóng hǎi
 红润: hóng rùn
 红潮: hóng cháo
 红灌木茶: hóng guàn mù chá
@@ -72730,6 +73112,7 @@
 红色: hóng sè
 红色娘子军: hóng sè niáng zi jūn
 红色旅游: hóng sè lǚ yóu
+红色炸弹: hóng sè zhà dàn
 红色高棉: hóng sè gāo mián
 红艳艳: hóng yàn yàn
 红花: hóng huā
@@ -72925,6 +73308,7 @@
 纯属: chún shǔ
 纯度: chún dù
 纯情: chún qíng
+纯爱: chún ài
 纯文字: chún wén zì
 纯文字页: chún wén zì yè
 纯文本: chún wén běn
@@ -72952,6 +73336,7 @@
 纯色噪鹛: chún sè zào méi
 纯色岩燕: chún sè yán yàn
 纯蓝仙鹟: chún lán xiān wēng
+纯血统: chún xuè tǒng
 纯褐鹱: chún hè hù
 纯金: chún jīn
 纯音: chún yīn
@@ -73022,6 +73407,7 @@
 级数: jí shù
 级联: jí lián
 级距: jí jù
+级长: jí zhǎng
 纷乱: fēn luàn
 纷呈: fēn chéng
 纷披: fēn pī
@@ -73199,6 +73585,7 @@
 紫颊直嘴太阳鸟: zǐ jiá zhí zuǐ tài yáng niǎo
 扎实: zhá shi
 扎寨: zhā zhài
+扎染: zā rǎn
 扎欧扎翁: zā ōu zā wēng
 扎营: zhā yíng
 扎线带: zā xiàn dài
@@ -73265,6 +73652,7 @@
 细粒: xì lì
 细纹噪鹛: xì wén zào méi
 细纹苇莺: xì wén wěi yīng
+细细: xì xì
 细细品味: xì xì pǐn wèi
 细细地流: xì xì de liú
 细线: xì xiàn
@@ -73389,6 +73777,7 @@
 组织胺: zǔ zhī àn
 组胺: zǔ àn
 组装: zǔ zhuāng
+组装厂: zǔ zhuāng chǎng
 组词: zǔ cí
 组距: zǔ jù
 组长: zǔ zhǎng
@@ -73435,7 +73824,6 @@
 结怨: jié yuàn
 结恭: jié gōng
 结成: jié chéng
-结扎: jié zā
 结拜: jié bài
 结晶: jié jīng
 结晶学: jié jīng xué
@@ -73466,6 +73854,7 @@
 结壳: jié ké
 结清: jié qīng
 结球甘蓝: jié qiú gān lán
+结界: jié jiè
 结疤: jié bā
 结痂: jié jiā
 结盟: jié méng
@@ -73476,6 +73865,7 @@
 结算方式: jié suàn fāng shì
 结节: jié jié
 结纳: jié nà
+结扎: jié zā
 结结巴巴: jiē jiē bā ba
 结网: jié wǎng
 结缔组织: jié dì zǔ zhī
@@ -73578,6 +73968,7 @@
 绝配: jué pèi
 绝门儿: jué mén er
 绝非: jué fēi
+绝顶: jué dǐng
 绝顶聪明: jué dǐng cōng ming
 绝食: jué shí
 绝食抗议: jué shí kàng yì
@@ -73709,6 +74100,7 @@
 丝氨酸: sī ān suān
 丝状: sī zhuàng
 丝状物: sī zhuàng wù
+丝状病毒: sī zhuàng bìng dú
 丝瓜: sī guā
 丝盘虫: sī pán chóng
 丝竹: sī zhú
@@ -74081,6 +74473,7 @@
 网址: wǎng zhǐ
 网孔: wǎng kǒng
 网室: wǎng shì
+网布: wǎng bù
 网师园: wǎng shī yuán
 网店: wǎng diàn
 网恋: wǎng liàn
@@ -74103,6 +74496,7 @@
 网球赛: wǎng qiú sài
 网瘾: wǎng yǐn
 网盘: wǎng pán
+网目: wǎng mù
 网眼: wǎng yǎn
 网禁: wǎng jìn
 网站: wǎng zhàn
@@ -74251,6 +74645,7 @@
 绵阳市: mián yáng shì
 绲边: gǔn biān
 紧俏: jǐn qiào
+紧咬不放: jǐn yǎo bù fàng
 紧密: jǐn mì
 紧密相联: jǐn mì xiāng lián
 紧密织物: jǐn mì zhī wù
@@ -74481,6 +74876,7 @@
 练达: liàn dá
 致密: zhì mì
 萦绕: yíng rào
+萦回: yíng huí
 缙云: jìn yún
 缙云县: jìn yún xiàn
 缢死: yì sǐ
@@ -74834,6 +75230,7 @@
 绘制: huì zhì
 系上: jì shang
 系囚: xì qiú
+系放: xì fàng
 系泊: jì bó
 茧子: jiǎn zi
 缳首: huán shǒu
@@ -75091,6 +75488,7 @@
 罚钱: fá qián
 罚锾: fá huán
 署名: shǔ míng
+署方: shǔ fāng
 骂不绝口: mà bù jué kǒu
 骂人: mà rén
 骂到臭头: mà dào chòu tóu
@@ -75119,7 +75517,7 @@
 罗伯斯庇尔: luó bó sī bì ěr
 罗伯特: luó bó tè
 罗伯茨: luó bó cí
-罗伯逊: luō bó xùn
+罗伯逊: luó bó xùn
 罗保铭: luó bǎo míng
 罗伦斯: luó lún sī
 罗杰: luó jié
@@ -75146,7 +75544,7 @@
 罗塞塔石碑: luó sāi tǎ shí bēi
 罗夫诺: luō fū nuò
 罗姆人: luó mǔ rén
-罗姆酒: luō mǔ jiǔ
+罗姆酒: luó mǔ jiǔ
 罗姗: luó shān
 罗威纳犬: luó wēi nà quǎn
 罗安达: luó ān dá
@@ -75577,6 +75975,7 @@
 群众外包: qún zhòng wài bāo
 群众大会: qún zhòng dà huì
 群众性: qún zhòng xìng
+群众演员: qún zhòng yǎn yuán
 群众组织: qún zhòng zǔ zhī
 群众路线: qún zhòng lù xiàn
 群组: qún zǔ
@@ -75608,7 +76007,7 @@
 羧甲司坦: suō jiǎ sī tǎn
 羧酸: suō suān
 羡慕: xiàn mù
-羨慕嫉妒恨: xiàn mù jí dù hèn
+羡慕嫉妒恨: xiàn mù jí dù hèn
 义不容辞: yì bù róng cí
 义之所在: yì zhī suǒ zài
 义交: yì jiāo
@@ -75819,6 +76218,7 @@
 翻拍: fān pāi
 翻拣: fān jiǎn
 翻搅: fān jiǎo
+翻斗卡车: fān dǒu kǎ chē
 翻新: fān xīn
 翻本: fān běn
 翻案: fān àn
@@ -76228,6 +76628,7 @@
 耍贫嘴: shuǎ pín zuǐ
 耍赖: shuǎ lài
 耍钱: shuǎ qián
+耍闹: shuǎ nào
 耐久: nài jiǔ
 耐人寻味: nài rén xún wèi
 耐克: nài kè
@@ -76290,6 +76691,7 @@
 耗能: hào néng
 耗费: hào fèi
 耗资: hào zī
+耗电: hào diàn
 耙地: bà dì
 耙子: pá zi
 耙耳朵: pā ěr duo
@@ -76319,7 +76721,8 @@
 耳掴子: ěr guāi zi
 耳旁风: ěr páng fēng
 耳朵: ěr duo
-耳朵软: ěr duō ruǎn
+耳朵眼儿: ěr duo yǎn er
+耳朵软: ěr duo ruǎn
 耳根: ěr gēn
 耳根子: ěr gēn zi
 耳根子软: ěr gēn zi ruǎn
@@ -76356,6 +76759,7 @@
 耳郭: ěr guō
 耳钉: ěr dīng
 耳针: ěr zhēn
+耳饰: ěr shì
 耳发: ěr fa
 耳鬓厮磨: ěr bìn sī mó
 耳鸣: ěr míng
@@ -76400,6 +76804,7 @@
 耽忧: dān yōu
 耽搁: dān ge
 耽溺: dān nì
+耽美: dān měi
 耽误: dān wu
 耿介: gěng jiè
 耿直: gěng zhí
@@ -76600,6 +77005,7 @@
 聚四氟乙烯: jù sì fú yǐ xī
 聚在一起: jù zài yī qǐ
 聚宝盆: jù bǎo pén
+聚少离多: jù shǎo lí duō
 聚居: jù jū
 聚居地: jù jū dì
 聚拢: jù lǒng
@@ -76972,7 +77378,6 @@
 肃敬: sù jìng
 肃杀: sù shā
 肃清: sù qīng
-肃清反革命分子: sù qīng fǎn gé mìng fèn zǐ
 肃然: sù rán
 肃然起敬: sù rán qǐ jìng
 肃穆: sù mù
@@ -77325,11 +77730,12 @@
 背城借一: bèi chéng jiè yī
 背夹电池: bèi jiā diàn chí
 背字: bèi zì
+背对: bèi duì
 背对背: bèi duì bèi
 背山: bèi shān
 背山临水: bèi shān lín shuǐ
 背带: bēi dài
-背带裤: bèi dài kù
+背带裤: bēi dài kù
 背影: bèi yǐng
 背影儿: bèi yǐng er
 背影杀手: bèi yǐng shā shǒu
@@ -77347,13 +77753,14 @@
 背杀: bèi shā
 背气: bèi qì
 背水一战: bèi shuǐ yī zhàn
-背着抱着一般重: bēi zhe bào zhe yī bān zhòng
+背称: bèi chēng
 背篓: bēi lǒu
 背约: bèi yuē
 背脊: bèi jǐ
 背着: bēi zhe
 背着: bèi zhe
 背着手: bèi zhe shǒu
+背着抱着一般重: bēi zhe bào zhe yī bān zhòng
 背诵: bèi sòng
 背谬: bèi miù
 背负: bēi fù
@@ -77433,6 +77840,7 @@
 胡图族: hú tú zú
 胡涂: hú tu
 胡涂虫: hú tu chóng
+胡塞尔: hú sài ěr
 胡天: hú tiān
 胡天胡帝: hú tiān hú dì
 胡夫: hú fū
@@ -77526,8 +77934,10 @@
 胳肢: gé zhi
 胳肢窝: gā zhi wō
 胳膊: gē bo
+胳膊拧不过大腿: gē bo nǐng bu guò dà tuǐ
 胳膊肘: gē bo zhǒu
 胳膊肘子: gē bo zhǒu zi
+胳膊肘往外拐: gē bo zhǒu wǎng wài guǎi
 胳膊肘朝外拐: gē bo zhǒu cháo wài guǎi
 胳臂: gē bei
 胳臂箍儿: gē bei gū er
@@ -77694,6 +78104,7 @@
 脱俗: tuō sú
 脱光: tuō guāng
 脱出: tuō chū
+脱力: tuō lì
 脱北者: tuō běi zhě
 脱卸: tuō xiè
 脱去: tuō qù
@@ -77912,6 +78323,7 @@
 脑液: nǎo yè
 脑沟: nǎo gōu
 脑溢血: nǎo yì xuè
+脑满肠肥: nǎo mǎn cháng féi
 脑涨: nǎo zhàng
 脑浆: nǎo jiāng
 脑炎: nǎo yán
@@ -77972,6 +78384,7 @@
 腰板: yāo bǎn
 腰果: yāo guǒ
 腰果鸡丁: yāo guǒ jī dīng
+腰杆: yāo gǎn
 腰杆子: yāo gǎn zi
 腰椎: yāo zhuī
 腰椎间盘: yāo zhuī jiān pán
@@ -78043,6 +78456,7 @@
 脚踩两只船: jiǎo cǎi liǎng zhī chuán
 脚蹬: jiǎo dēng
 脚蹼: jiǎo pǔ
+脚轮: jiǎo lún
 脚违例: jiǎo wéi lì
 脚钱: jiǎo qián
 脚镣: jiǎo liào
@@ -78180,6 +78594,7 @@
 胶接: jiāo jiē
 胶木: jiāo mù
 胶束: jiāo shù
+胶棒: jiāo bàng
 胶氨芹: jiāo ān qín
 胶水: jiāo shuǐ
 胶泥: jiāo ní
@@ -78235,6 +78650,7 @@
 胆红素: dǎn hóng sù
 胆结石: dǎn jié shí
 胆绿素: dǎn lǜ sù
+胆肥: dǎn féi
 胆色素: dǎn sè sù
 胆识: dǎn shí
 胆道: dǎn dào
@@ -78279,6 +78695,7 @@
 臆羚: yì líng
 臆见: yì jiàn
 臆造: yì zào
+脸上贴金: liǎn shàng tiē jīn
 脸厚: liǎn hòu
 脸型: liǎn xíng
 脸基尼: liǎn jī ní
@@ -78571,6 +78988,7 @@
 自动柜员机: zì dòng guì yuán jī
 自动步道: zì dòng bù dào
 自动自发: zì dòng zì fā
+自动装箱: zì dòng zhuāng xiāng
 自动车: zì dòng chē
 自动铅笔: zì dòng qiān bǐ
 自动离合: zì dòng lí hé
@@ -78583,6 +79001,7 @@
 自反: zì fǎn
 自取: zì qǔ
 自取其咎: zì qǔ qí jiù
+自取其辱: zì qǔ qí rǔ
 自取灭亡: zì qǔ miè wáng
 自古: zì gǔ
 自古以来: zì gǔ yǐ lái
@@ -78853,6 +79272,7 @@
 自视清高: zì shì qīng gāo
 自视甚高: zì shì shèn gāo
 自觉: zì jué
+自言: zì yán
 自言自语: zì yán zì yǔ
 自讨没趣: zì tǎo méi qù
 自讨苦吃: zì tǎo kǔ chī
@@ -78901,6 +79321,7 @@
 自食苦果: zì shí kǔ guǒ
 自养: zì yǎng
 自养生物: zì yǎng shēng wù
+自馁: zì něi
 自首: zì shǒu
 自驾汽车出租: zì jià qì chē chū zū
 自驾租赁: zì jià zū lìn
@@ -79009,7 +79430,6 @@
 台北县: tái běi xiàn
 台南市: tái nán shì
 台南府: tái nán fǔ
-台南县: tái nán xiàn
 台地: tái dì
 台基: tái jī
 台大: tái dà
@@ -79646,6 +80066,7 @@
 色荒: sè huāng
 色诱: sè yòu
 色调: sè diào
+色轮: sè lún
 色迷: sè mí
 色迷迷: sè mí mí
 色达: sè dá
@@ -80224,6 +80645,7 @@
 苯丙酮尿症: běn bǐng tóng niào zhèng
 苯并噻吩: běn bìng sāi fēn
 苯乙烯: běn yǐ xī
+苯二氮䓬: běn èr dàn zhuó
 苯基: běn jī
 苯氧基: běn yǎng jī
 苯环: běn huán
@@ -80236,6 +80658,7 @@
 苯那辛: běn nà xīn
 苯酚: běn fēn
 苯酮尿症: běn tóng niào zhèng
+英中: yīng zhōng
 英仙座: yīng xiān zuò
 英仙臂: yīng xiān bì
 英代尔: yīng dài ěr
@@ -80393,6 +80816,7 @@
 茉莉菊酯: mò lì jú zhǐ
 茌平: chí píng
 茌平县: chí píng xiàn
+茓子: xué zi
 茜紫: qiàn zǐ
 茜草: qiàn cǎo
 茨城: cí chéng
@@ -80552,6 +80976,7 @@
 草绿篱莺: cǎo lǜ lí yīng
 草编: cǎo biān
 草耙: cǎo pá
+草台班子: cǎo tái bān zi
 草船借箭: cǎo chuán jiè jiàn
 草芥人命: cǎo jiè rén mìng
 草草: cǎo cǎo
@@ -80704,7 +81129,7 @@
 莒南县: jǔ nán xiàn
 莒国: jǔ guó
 莒县: jǔ xiàn
-茎干: jīng gān
+茎干: jīng gàn
 莘庄镇: xīn zhuāng zhèn
 莘县: shēn xiàn
 莘莘: shēn shēn
@@ -80743,6 +81168,7 @@
 莫大: mò dà
 莫奈: mò nài
 莫如: mò rú
+莫属: mò shǔ
 莫扎特: mò zhā tè
 莫扎里拉: mò zā lǐ lā
 莫拉莱斯: mò lā lái sī
@@ -80817,7 +81243,6 @@
 菏兰: hé lán
 菖蒲: chāng pú
 菘蓝: sōng lán
-菜系: cài xì
 菜刀: cài dāo
 菜包子: cài bāo zi
 菜单: cài dān
@@ -80842,6 +81267,7 @@
 菜畦: cài qí
 菜篮子: cài lán zi
 菜籽: cài zǐ
+菜系: cài xì
 菜脯: cài pú
 菜色: cài sè
 菜花: cài huā
@@ -80911,6 +81337,7 @@
 华府: huá fǔ
 华彩: huá cǎi
 华拳: huá quán
+华教: huá jiào
 华文: huá wén
 华族: huá zú
 华东: huá dōng
@@ -80977,7 +81404,7 @@
 菱形: líng xíng
 菱形六面体: líng xíng liù miàn tǐ
 菱花镜: líng huā jìng
-菱角: líng jiǎo
+菱角: líng jiao
 菱镁矿: líng měi kuàng
 菱镜: líng jìng
 菱铁矿: líng tiě kuàng
@@ -81058,6 +81485,7 @@
 莱齐耶三世: lái qí yē sān shì
 萋萋: qī qī
 萌动: méng dòng
+萌新: méng xīn
 萌渚岭: méng zhǔ lǐng
 萌生: méng shēng
 萌发: méng fā
@@ -81146,6 +81574,7 @@
 万年历: wàn nián lì
 万年县: wàn nián xiàn
 万年青: wàn nián qīng
+万幸: wàn xìng
 万念俱灰: wàn niàn jù huī
 万恶: wàn è
 万恶之源: wàn è zhī yuán
@@ -81174,6 +81603,7 @@
 万源市: wàn yuán shì
 万无一失: wàn wú yī shī
 万物: wàn wù
+万用字元: wàn yòng zì yuán
 万用表: wàn yòng biǎo
 万盛: wàn shèng
 万盛区: wàn shèng qū
@@ -81253,6 +81683,7 @@
 落入: luò rù
 落入法网: luò rù fǎ wǎng
 落单: luò dān
+落土: luò tǔ
 落地: luò dì
 落地灯: luò dì dēng
 落地生根: luò dì shēng gēn
@@ -81379,6 +81810,7 @@
 著作: zhù zuò
 著作权: zhù zuò quán
 着力: zhuó lì
+着劲: zhuó jìn
 着劲儿: zhuó jìn er
 著名: zhù míng
 着呢: zhe ne
@@ -81579,7 +82011,8 @@
 蒙茸: méng róng
 蒙蒙: méng méng
 蒙蔽: méng bì
-蒙药: mēng yào
+蒙药: méng yào
+蒙药: měng yào
 蒙茏: méng lóng
 蒙覆: méng fù
 蒙阴: méng yīn
@@ -81659,8 +82092,6 @@
 苍南: cāng nán
 苍南县: cāng nán xiàn
 苍天: cāng tiān
-苍山: cāng shān
-苍山县: cāng shān xiàn
 苍惶: cāng huáng
 苍松翠柏: cāng sōng cuì bǎi
 苍梧: cāng wú
@@ -81982,6 +82413,7 @@
 薄面: bó miàn
 薄饼: báo bǐng
 薄养厚葬: bó yǎng hòu zàng
+薅羊毛: hāo yáng máo
 荟萃: huì cuì
 蓟城: jì chéng
 蓟县: jì xiàn
@@ -82159,6 +82591,7 @@
 蓝枕花蜜鸟: lán zhěn huā mì niǎo
 蓝歌鸲: lán gē qú
 蓝毗尼: lán pí ní
+蓝海: lán hǎi
 蓝牙: lán yá
 蓝田: lán tián
 蓝田种玉: lán tián zhòng yù
@@ -82280,6 +82713,7 @@
 艺坛: yì tán
 艺多不压身: yì duō bù yā shēn
 艺妓: yì jì
+艺廊: yì láng
 艺校: yì xiào
 艺能界: yì néng jiè
 艺术: yì shù
@@ -82558,7 +82992,9 @@
 兰开夏郡: lán kāi xià jùn
 兰开斯特: lán kāi sī tè
 兰闺: lán guī
+兰陵: lán líng
 兰陵笑笑生: lán líng xiào xiào shēng
+兰陵县: lán líng xiàn
 兰麝: lán shè
 蘸火: zhàn huǒ
 蘸破: zhàn pò
@@ -82798,6 +83234,7 @@
 亏负: kuī fù
 虰蛵: dīng xíng
 虱目鱼: shī mù yú
+虸蚄: zǐ fāng
 虹口区: hóng kǒu qū
 虹吸: hóng xī
 虹吸管: hóng xī guǎn
@@ -82985,6 +83422,7 @@
 蜑民: dàn mín
 蜒蚰: yán yóu
 蜘蛛: zhī zhū
+蜘蛛人: zhī zhū rén
 蜘蛛人: zhī zhū rén
 蜘蛛侠: zhī zhū xiá
 蜘蛛星云: zhī zhū xīng yún
@@ -83260,6 +83698,7 @@
 蚁丘: yǐ qiū
 蚁族: yǐ zú
 蚁酸: yǐ suān
+蚁醛: yǐ quán
 蚁斗蜗争: yǐ dòu wō zhēng
 蚁䴕: yǐ liè
 蟾宫折桂: chán gōng zhé guì
@@ -83668,6 +84107,7 @@
 衍射格子: yǎn shè gé zi
 衍射角: yǎn shè jiǎo
 衍生: yǎn shēng
+衍生剧: yǎn shēng jù
 衍生工具: yǎn shēng gōng jù
 衍生物: yǎn shēng wù
 衍生产品: yǎn shēng chǎn pǐn
@@ -83785,6 +84225,7 @@
 冲程: chōng chéng
 冲突: chōng tū
 冲进: chōng jìn
+冲量: chōng liàng
 冲锋: chōng fēng
 冲锋枪: chōng fēng qiāng
 冲锋陷阵: chōng fēng xiàn zhèn
@@ -84045,7 +84486,7 @@
 被选举权: bèi xuǎn jǔ quán
 被除数: bèi chú shù
 被面: bèi miàn
-袴子: kù zi
+裤子: kù zi
 袷袄: jiá ǎo
 袼褙: gē bèi
 裁并: cái bìng
@@ -84069,7 +84510,8 @@
 裁答: cái dá
 裁纸机: cái zhǐ jī
 裁缝: cái féng
-裁缝师: cái fèng shī
+裁缝: cái feng
+裁缝师: cái féng shī
 裁缝店: cái féng diàn
 裁处: cái chǔ
 裁制: cái zhì
@@ -84224,6 +84666,7 @@
 装束: zhuāng shù
 装模作样: zhuāng mó zuò yàng
 装机: zhuāng jī
+装死: zhuāng sǐ
 装洋蒜: zhuāng yáng suàn
 装满: zhuāng mǎn
 装潢: zhuāng huáng
@@ -84355,6 +84798,7 @@
 褂子: guà zi
 复共轭: fù gòng è
 复利: fù lì
+复刻: fù kè
 复印: fù yìn
 复印件: fù yìn jiàn
 复印机: fù yìn jī
@@ -84689,7 +85133,6 @@
 西海: xī hǎi
 西凉: xī liáng
 西港: xī gǎng
-西港乡: xī gǎng xiāng
 西湖: xī hú
 西湖区: xī hú qū
 西湖乡: xī hú xiāng
@@ -84910,7 +85353,7 @@
 见怪: jiàn guài
 见怪不怪: jiàn guài bù guài
 见爱: jiàn ài
-见招拆招: jiān zhāo chāi zhāo
+见招拆招: jiàn zhāo chāi zhāo
 见效: jiàn xiào
 见教: jiàn jiào
 见方: jiàn fāng
@@ -85253,6 +85696,7 @@
 觜宿: zī xiù
 觜蠵: zī xī
 觜觽: zī xī
+解㑊: xiè yì
 解乏: jiě fá
 解像力: jiě xiàng lì
 解像度: jiě xiàng dù
@@ -85324,6 +85768,7 @@
 解甲: jiě jiǎ
 解甲归田: jiě jiǎ guī tián
 解疑: jiě yí
+解疑释惑: jiě yí shì huò
 解痉剂: xiè jìng jì
 解痛: jiě tòng
 解百纳: jiě bǎi nà
@@ -85369,6 +85814,7 @@
 觥筹交错: gōng chóu jiāo cuò
 觱栗: bì lì
 觱篥: bì lì
+觳觫: hú sù
 触动: chù dòng
 触及: chù jí
 触地得分: chù dì dé fēn
@@ -85655,6 +86101,7 @@
 记忆犹新: jì yì yóu xīn
 记忆电路: jì yì diàn lù
 记忆体: jì yì tǐ
+记挂: jì guà
 记叙: jì xù
 记叙文: jì xù wén
 记法: jì fǎ
@@ -85678,6 +86125,7 @@
 记录员: jì lù yuán
 记录器: jì lù qì
 记录片: jì lù piàn
+记错: jì cuò
 讹人: é rén
 讹传: é chuán
 讹字: é zì
@@ -85734,7 +86182,6 @@
 设计: shè jì
 设计师: shè jì shī
 设计程序: shè jì chéng xù
-设计程式: shè jì chéng shì
 设计者: shè jì zhě
 设计规范: shè jì guī fàn
 设身处地: shè shēn chǔ dì
@@ -86151,6 +86598,7 @@
 认知: rèn zhī
 认知失调: rèn zhī shī tiáo
 认知心理学: rèn zhī xīn lǐ xué
+认知战: rèn zhī zhàn
 认知神经心理学: rèn zhī shén jīng xīn lǐ xué
 认缴资本: rèn jiǎo zī běn
 认罪: rèn zuì
@@ -86294,6 +86742,7 @@
 诚然: chéng rán
 诚笃: chéng dǔ
 诚聘: chéng pìn
+诚邀: chéng yāo
 诫命: jiè mìng
 诬告: wū gào
 诬害: wū hài
@@ -86537,6 +86986,7 @@
 调变: tiáo biàn
 调资: tiáo zī
 调赴: diào fù
+调车场: diào chē chǎng
 调转: diào zhuǎn
 调速: tiáo sù
 调遣: diào qiǎn
@@ -86654,6 +87104,7 @@
 论点: lùn diǎn
 谀辞: yú cí
 谍报: dié bào
+谍战: dié zhàn
 喧呼: xuān hū
 谥号: shì hào
 谛听: dì tīng
@@ -86669,6 +87120,7 @@
 谐波: xié bō
 谐称: xié chēng
 谐美: xié měi
+谐声: xié shēng
 谐谈: xié tán
 谐谑: xié xuè
 谐趣: xié qù
@@ -86681,6 +87133,8 @@
 谏诤: jiàn zhèng
 谕旨: yù zhǐ
 谕示: yù shì
+谘商: zī shāng
+咨客: zī kè
 谘询: zī xún
 谘询员: zī xún yuán
 讳名: huì míng
@@ -87177,6 +87631,7 @@
 变动: biàn dòng
 变化: biàn huà
 变化多端: biàn huà duō duān
+变化无常: biàn huà wú cháng
 变化莫测: biàn huà mò cè
 变化音: biàn huà yīn
 变卦: biàn guà
@@ -87254,6 +87709,7 @@
 变质: biàn zhì
 变质作用: biàn zhì zuò yòng
 变质岩: biàn zhì yán
+变身: biàn shēn
 变软: biàn ruǎn
 变通: biàn tōng
 变速: biàn sù
@@ -87351,6 +87807,7 @@
 豆腐渣工程: dòu fu zhā gōng chéng
 豆腐皮: dòu fu pí
 豆腐脑: dòu fu nǎo
+豆腐花: dòu fu huā
 豆花: dòu huā
 豆芽: dòu yá
 豆芽菜: dòu yá cài
@@ -87367,6 +87824,7 @@
 豆角: dòu jiǎo
 豆角儿: dòu jiǎo er
 豆豆帽: dòu dòu mào
+豆豆鞋: dòu dòu xié
 豆豉: dòu chǐ
 豆豉酱: dòu chǐ jiàng
 豆雁: dòu yàn
@@ -87393,6 +87851,7 @@
 竖立: shù lì
 竖笛: shù dí
 竖笔: shù bǐ
+竖蛋: shù dàn
 竖起: shù qǐ
 竖起大拇指: shù qǐ dà mu zhǐ
 竖起耳朵: shù qǐ ěr duo
@@ -87659,6 +88118,7 @@
 贞节牌坊: zhēn jié pái fāng
 贞丰: zhēn fēng
 贞丰县: zhēn fēng xiàn
+负一层: fù yī céng
 负值: fù zhí
 负债: fù zhài
 负债累累: fù zhài lěi lěi
@@ -87683,6 +88143,7 @@
 负气: fù qì
 负片: fù piàn
 负疚: fù jiù
+负相关: fù xiāng guān
 负累: fù lěi
 负累: fù lèi
 负翁: fù wēng
@@ -88105,6 +88566,7 @@
 贴旦: tiē dàn
 贴水: tiē shuǐ
 贴片式: tiē piàn shì
+贴牌: tiē pái
 贴现: tiē xiàn
 贴现率: tiē xiàn lǜ
 贴生: tiē shēng
@@ -88397,6 +88859,7 @@
 卖苦力: mài kǔ lì
 卖萌: mài méng
 卖身: mài shēn
+卖钱: mài qián
 卖关子: mài guān zi
 卖关节: mài guān jié
 卖面子: mài miàn zi
@@ -88411,9 +88874,11 @@
 贱卖: jiàn mài
 贱骨头: jiàn gǔ tou
 赋予: fù yǔ
+赋值: fù zhí
 赋形剂: fù xíng jì
 赋格曲: fù gé qǔ
 赋税: fù shuì
+赋能: fù néng
 赋与: fù yǔ
 赋诗: fù shī
 赋闲: fù xián
@@ -88743,6 +89208,7 @@
 赫福特郡: hè fú tè jùn
 赫章: hè zhāng
 赫章县: hè zhāng xiàn
+赫罗图: hè luó tú
 赫耳墨斯: hè ěr mò sī
 赫胥黎: hè xū lí
 赫芬顿邮报: hè fēn dùn yóu bào
@@ -88763,6 +89229,8 @@
 走你: zǒu nǐ
 走来回: zǒu lái huí
 走俏: zǒu qiào
+走偏: zǒu piān
+走偏锋: zǒu piān fēng
 走光: zǒu guāng
 走入: zǒu rù
 走内线: zǒu nèi xiàn
@@ -88908,6 +89376,7 @@
 起居: qǐ jū
 起居作息: qǐ jū zuò xī
 起居室: qǐ jū shì
+起居间: qǐ jū jiān
 起床: qǐ chuáng
 起床气: qǐ chuáng qì
 起床号: qǐ chuáng háo
@@ -88932,6 +89401,7 @@
 起用: qǐ yòng
 起皮: qǐ pí
 起皱纹: qǐ zhòu wén
+起眼: qǐ yǎn
 起码: qǐ mǎ
 起磁: qǐ cí
 起程: qǐ chéng
@@ -88958,6 +89428,7 @@
 起讲: qǐ jiǎng
 起跑: qǐ pǎo
 起跑线: qǐ pǎo xiàn
+起跳: qǐ tiào
 起身: qǐ shēn
 起迄: qǐ qì
 起造员: qǐ zào yuán
@@ -89033,6 +89504,7 @@
 超模: chāo mó
 超泛神论: chāo fàn shén lùn
 超渡: chāo dù
+超然: chāo rán
 超然世事: chāo rán shì shì
 超物理: chāo wù lǐ
 超现实主义: chāo xiàn shí zhǔ yì
@@ -89226,6 +89698,7 @@
 趋之若鹜: qū zhī ruò wù
 趋冷: qū lěng
 趋冷气候: qū lěng qì hòu
+趋利避害: qū lì bì hài
 趋力: qū lì
 趋势: qū shì
 趋化作用: qū huà zuò yòng
@@ -89363,6 +89836,7 @@
 跑腿子: pǎo tuǐ zi
 跑调: pǎo diào
 跑警报: pǎo jǐng bào
+跑赢: pǎo yíng
 跑走: pǎo zǒu
 跑跑颠颠: pǎo pǎo diān diān
 跑路: pǎo lù
@@ -89439,6 +89913,7 @@
 跨步: kuà bù
 跨洲: kuà zhōu
 跨海大桥: kuà hǎi dà qiáo
+跨省: kuà shěng
 跨灶: kuà zào
 跨线桥: kuà xiàn qiáo
 跨语言: kuà yǔ yán
@@ -89475,6 +89950,7 @@
 路口: lù kǒu
 路向: lù xiàng
 路基: lù jī
+路堤: lù dī
 路堑: lù qiàn
 路子: lù zi
 路径: lù jìng
@@ -89506,6 +89982,7 @@
 路况: lù kuàng
 路演: lù yǎn
 路灯: lù dēng
+路牌: lù pái
 路环: lù huán
 路由: lù yóu
 路由协定: lù yóu xié dìng
@@ -89583,6 +90060,7 @@
 跳频: tiào pín
 跳马: tiào mǎ
 跳高: tiào gāo
+踅子: xué zi
 踅摸: xué mo
 踉跄: liàng qiàng
 踉蹡: liàng qiàng
@@ -89625,6 +90103,7 @@
 踢皮球: tī pí qiú
 踢脚板: tī jiǎo bǎn
 踢脚线: tī jiǎo xiàn
+踢腿: tī tuǐ
 踢踏舞: tī tà wǔ
 踢蹋舞: tī tà wǔ
 踢马刺: tī mǎ cì
@@ -89692,10 +90171,12 @@
 蹬鼻子上脸: dēng bí zi shàng liǎn
 蹭吃: cèng chī
 蹭吃蹭喝: cèng chī cèng hē
+蹭热度: cèng rè dù
 蹭网: cèng wǎng
 蹭课: cèng kè
 蹭蹬: cèng dèng
 蹭车: cèng chē
+蹭饭: cèng fàn
 蹲下: dūn xià
 蹲伏: dūn fú
 蹲便器: dūn biàn qì
@@ -89804,6 +90285,7 @@
 身态: shēn tài
 身怀六甲: shēn huái liù jiǎ
 身手: shēn shǒu
+身手敏捷: shēn shǒu mǐn jié
 身才: shēn cái
 身披羽毛: shēn pī yǔ máo
 身故: shēn gù
@@ -89929,6 +90411,7 @@
 车行通道: chē xíng tōng dào
 车行道: chē xíng dào
 车裂: chē liè
+车贷: chē dài
 车费: chē fèi
 车贴: chē tiē
 车身: chē shēn
@@ -89952,6 +90435,7 @@
 车队: chē duì
 车震: chē zhèn
 车顶: chē dǐng
+车顶架: chē dǐng jià
 车头灯: chē tóu dēng
 车头相: chē tóu xiàng
 车马: chē mǎ
@@ -90031,6 +90515,7 @@
 军嫂: jūn sǎo
 军官: jūn guān
 军师: jūn shī
+军心: jūn xīn
 军情: jūn qíng
 军情五处: jūn qíng wǔ chù
 军情六处: jūn qíng liù chù
@@ -90100,6 +90585,7 @@
 软化: ruǎn huà
 软口盖: ruǎn kǒu gài
 软呢: ruǎn ní
+软和: ruǎn huo
 软坐: ruǎn zuò
 软实力: ruǎn shí lì
 软尺: ruǎn chǐ
@@ -90397,7 +90883,6 @@
 轮箍: lún gū
 轮缘: lún yuán
 轮胎: lún tāi
-轮脚: lún jiǎo
 轮船: lún chuán
 轮训: lún xùn
 轮询: lún xún
@@ -90426,6 +90911,7 @@
 输墨装置: shū mò zhuāng zhì
 输家: shū jiā
 输尿管: shū niào guǎn
+输得起: shū de qǐ
 输掉: shū diào
 输水管: shū shuǐ guǎn
 输沙量: shū shā liàng
@@ -90727,6 +91213,7 @@
 辣椒仔: là jiāo zǎi
 辣椒酱: là jiāo jiàng
 辣汁: là zhī
+辣眼睛: là yǎn jing
 辣胡椒: là hú jiāo
 辣豆酱: là dòu jiàng
 辣酱油: là jiàng yóu
@@ -90820,6 +91307,7 @@
 辰砂: chén shā
 辰龙: chén lóng
 辱骂: rǔ mà
+辱华: rǔ huá
 农事: nóng shì
 农事活动: nóng shì huó dòng
 农人: nóng rén
@@ -90987,6 +91475,7 @@
 近照: jìn zhào
 近现代史: jìn xiàn dài shǐ
 近畿地方: jìn jī dì fāng
+近端: jìn duān
 近端胞浆: jìn duān bāo jiāng
 近义词: jìn yì cí
 近臣: jìn chén
@@ -91017,6 +91506,7 @@
 返校: fǎn xiào
 返港: fǎn gǎng
 返潮: fǎn cháo
+返现: fǎn xiàn
 返璞归真: fǎn pú guī zhēn
 返祖现象: fǎn zǔ xiàn xiàng
 返程: fǎn chéng
@@ -91155,6 +91645,7 @@
 追剿: zhuī jiǎo
 追剧: zhuī jù
 追加: zhuī jiā
+追加剂: zhuī jiā jì
 追问: zhuī wèn
 追回: zhuī huí
 追奔逐北: zhuī bēn zhú běi
@@ -91181,6 +91672,7 @@
 追授: zhuī shòu
 追击: zhuī jī
 追叙: zhuī xù
+追新: zhuī xīn
 追星: zhuī xīng
 追星族: zhuī xīng zú
 追本溯源: zhuī běn sù yuán
@@ -91248,6 +91740,7 @@
 退却: tuì què
 退回: tuì huí
 退场: tuì chǎng
+退婚: tuì hūn
 退学: tuì xué
 退守: tuì shǒu
 退居二线: tuì jū èr xiàn
@@ -91363,6 +91856,7 @@
 逃逸: táo yì
 逃逸速度: táo yì sù dù
 逃遁: táo dùn
+逃过一劫: táo guò yī jié
 逃避: táo bì
 逃避责任: táo bì zé rèn
 逃离: táo lí
@@ -91426,6 +91920,7 @@
 透射: tòu shè
 透平: tòu píng
 透平机: tòu píng jī
+透底: tòu dǐ
 透彻: tòu chè
 透抽: tòu chōu
 透支: tòu zhī
@@ -91536,7 +92031,6 @@
 这样: zhè yàng
 这样一来: zhè yàng yī lái
 这样子: zhè yàng zi
-这次危机: zhè cì wēi jī
 这种: zhè zhǒng
 这般: zhè bān
 这里: zhè lǐ
@@ -91756,6 +92250,7 @@
 速手排: sù shǒu pái
 速效: sù xiào
 速效性毒剂: sù xiào xìng dú jì
+速效救心丸: sù xiào jiù xīn wán
 速决: sù jué
 速溶: sù róng
 速溶咖啡: sù róng kā fēi
@@ -92151,6 +92646,7 @@
 遇到: yù dào
 遇刺: yù cì
 遇害: yù hài
+遇强则强: yù qiáng zé qiáng
 遇溺: yù nì
 遇火: yù huǒ
 遇袭: yù xí
@@ -92264,7 +92760,6 @@
 运算式: yùn suàn shì
 运算数: yùn suàn shù
 运算方法: yùn suàn fāng fǎ
-运算法则: yùn suàn fǎ zé
 运算环境: yùn suàn huán jìng
 运筹: yùn chóu
 运筹学: yùn chóu xué
@@ -92317,6 +92812,7 @@
 过来人: guò lái rén
 过冬: guò dōng
 过分: guò fèn
+过刊: guò kān
 过剩: guò shèng
 过劳: guò láo
 过劳死: guò láo sǐ
@@ -92631,6 +93127,7 @@
 违犯: wéi fàn
 违碍: wéi ài
 违禁: wéi jìn
+违禁品: wéi jìn pǐn
 违禁药品: wéi jìn yào pǐn
 违章: wéi zhāng
 违章者: wéi zhāng zhě
@@ -92648,6 +93145,7 @@
 遥控: yáo kòng
 遥控器: yáo kòng qì
 遥控操作: yáo kòng cāo zuò
+遥控车: yáo kòng chē
 遥望: yáo wàng
 遥测: yáo cè
 遥观: yáo guān
@@ -92731,6 +93229,7 @@
 远程登录: yuǎn chéng dēng lù
 远程监控: yuǎn chéng jiān kòng
 远端: yuǎn duān
+远端工作: yuǎn duān gōng zuò
 远端胞浆: yuǎn duān bāo jiāng
 远端转移: yuǎn duān zhuǎn yí
 远缘: yuǎn yuán
@@ -92899,6 +93398,7 @@
 选区: xuǎn qū
 选取: xuǎn qǔ
 选召: xuǎn zhào
+选品: xuǎn pǐn
 选单: xuǎn dān
 选址: xuǎn zhǐ
 选士: xuǎn shì
@@ -93392,7 +93892,6 @@
 邮报: yóu bào
 邮寄: yóu jì
 邮局: yóu jú
-邮局编码: yóu jú biān mǎ
 邮展: yóu zhǎn
 邮差: yóu chāi
 邮市: yóu shì
@@ -93950,6 +94449,7 @@
 醛固酮: quán gù tóng
 醛基: quán jī
 醛糖: quán táng
+醛类: quán lèi
 丑事: chǒu shì
 丑人多作怪: chǒu rén duō zuò guài
 丑八怪: chǒu bā guài
@@ -95049,12 +95549,17 @@
 铜管: tóng guǎn
 铜管乐器: tóng guǎn yuè qì
 铜丝: tóng sī
+铜绿: tóng lǜ
+铜绿层: tóng lǜ céng
 铜翅水雉: tóng chì shuǐ zhì
+铜臭味: tóng xiù wèi
 铜蓝鹟: tóng lán wēng
 铜铃: tóng líng
 铜锤: tóng chuí
 铜锤花脸: tóng chuí huā liǎn
 铜钱: tóng qián
+铜锈: tóng xiù
+铜锈层: tóng xiù céng
 铜锣: tóng luó
 铜锣: tóng luó
 铜锣湾: tóng luó wān
@@ -95722,6 +96227,8 @@
 铁丝网: tiě sī wǎng
 铁罐: tiě guàn
 铁腕: tiě wàn
+铁菱: tiě líng
+铁菱角: tiě líng jiǎo
 铁蛋: tiě dàn
 铁蛋子: tiě dàn zi
 铁血宰相: tiě xuè zǎi xiàng
@@ -96084,6 +96591,7 @@
 长距离比赛: cháng jù lí bǐ sài
 长跪: cháng guì
 长辈: zhǎng bèi
+长辈图: zhǎng bèi tú
 长辔远驭: cháng pèi yuǎn yù
 长途: cháng tú
 长途汽车: cháng tú qì chē
@@ -96443,7 +96951,6 @@
 开旷: kāi kuàng
 开曼群岛: kāi màn qún dǎo
 开会: kāi huì
-开会祈祷: kāi huì qí dǎo
 开服: kāi fú
 开朗: kāi lǎng
 开本: kāi běn
@@ -96681,6 +97188,7 @@
 间谍罪: jiàn dié zuì
 间谍软件: jiàn dié ruǎn jiàn
 间质: jiān zhì
+间距: jiān jù
 间隔: jiàn gé
 间隔摄影: jiàn gé shè yǐng
 间隔号: jiàn gé hào
@@ -96833,6 +97341,7 @@
 关切: guān qiè
 关卡: guān qiǎ
 关口: guān kǒu
+关严: guān yán
 关城: guān chéng
 关塔纳摩: guān tǎ nà mó
 关塔那摩: guān tǎ nà mó
@@ -96850,7 +97359,6 @@
 关岭县: guān lǐng xiàn
 关店歇业: guān diàn xiē yè
 关庙: guān miào
-关庙乡: guān miào xiāng
 关厂: guān chǎng
 关征: guān zhēng
 关心: guān xīn
@@ -96860,6 +97368,7 @@
 关押: guān yā
 关掉: guān diào
 关文: guān wén
+关断: guān duàn
 关于: guān yú
 关东: guān dōng
 关东地震: guān dōng dì zhèn
@@ -97206,7 +97715,6 @@
 阿拉: ā lā
 阿拉: ā lā
 阿拉丁: ā lā dīng
-阿拉干山脉: ā lā gān shān mài
 阿拉伯: ā lā bó
 阿拉伯人: ā lā bó rén
 阿拉伯共同市场: ā lā bó gòng tóng shì chǎng
@@ -97229,6 +97737,7 @@
 阿拉塔斯: ā lā tǎ sī
 阿拉巴马: ā lā bā mǎ
 阿拉巴马州: ā lā bā mǎ zhōu
+阿拉干山脉: ā lā gān shān mài
 阿拉弗拉海: ā lā fú lā hǎi
 阿拉摩: ā lā mó
 阿拉斯: ā lā sī
@@ -97293,7 +97802,7 @@
 阿沙力: ā shā lì
 阿法尔: ā fǎ ěr
 阿法尔沙漠: ā fǎ ěr shā mò
-阿法罗密欧: ā fǎ luō mì ōu
+阿法罗密欧: ā fǎ luó mì ōu
 阿波罗: ā bō luó
 阿波罗计划: ā bō luó jì huà
 阿洛菲: ā luò fēi
@@ -97392,11 +97901,11 @@
 阿芝特克人: ā zhī tè kè rén
 阿芝特克语: ā zhī tè kè yǔ
 阿茨海默症: ā cí hǎi mò zhèng
-阿茲海默症: ā zī hǎi mò zhèng
+阿兹海默症: ā zī hǎi mò zhèng
 阿兹特克: ā zī tè kè
 阿莎力: ā shā lì
 阿莫西林: ā mò xī lín
-阿华田: ā huà tián
+阿华田: ā huá tián
 阿莱奇冰川: ā lái qí bīng chuān
 阿莱曼: ā lái màn
 阿蒙: ā méng
@@ -97648,6 +98157,7 @@
 除祟: chú suì
 除罪: chú zuì
 除罪化: chú zuì huà
+除臭: chú chòu
 除臭剂: chú chòu jì
 除旧布新: chú jiù bù xīn
 除旧更新: chú jiù gēng xīn
@@ -97983,6 +98493,7 @@
 阳盛: yáng shèng
 阳台: yáng tái
 阳萎: yáng wěi
+阳虚: yáng xū
 阳西: yáng xī
 阳西县: yáng xī xiàn
 阳谋: yáng móu
@@ -98051,6 +98562,7 @@
 隋末: suí mò
 隋炀帝: suí yáng dì
 阶乘: jiē chéng
+阶位: jiē wèi
 阶地: jiē dì
 阶层: jiē céng
 阶梯: jiē tī
@@ -98095,6 +98607,7 @@
 隔离霜: gé lí shuāng
 隔靴搔痒: gé xuē sāo yǎng
 隔音: gé yīn
+隔音符号: gé yīn fú hào
 陨命: yǔn mìng
 陨坑: yǔn kēng
 陨星: yǔn xīng
@@ -98267,7 +98780,7 @@
 隐色: yǐn sè
 隐花植物: yǐn huā zhí wù
 隐蔽: yǐn bì
-隐蔽强迫下载: yǐn bì qiǎng pò xià zài
+隐蔽强迫下载: yǐn bì qiǎng pò xià zǎi
 隐藏: yǐn cáng
 隐藏处: yǐn cáng chù
 隐血: yǐn xuè
@@ -98703,6 +99216,7 @@
 双流县: shuāng liú xiàn
 双清: shuāng qīng
 双清区: shuāng qīng qū
+双减: shuāng jiǎn
 双湖: shuāng hú
 双湖特别区: shuāng hú tè bié qū
 双溪: shuāng xī
@@ -98847,7 +99361,7 @@
 杂牌儿: zá pái er
 杂物: zá wù
 杂环: zá huán
-杂碎: zá suì
+杂碎: zá sui
 杂税: zá shuì
 杂种: zá zhǒng
 杂糅: zá róu
@@ -99017,7 +99531,7 @@
 难以撼动: nán yǐ hàn dòng
 难以理解: nán yǐ lǐ jiě
 难以置信: nán yǐ zhì xìn
-难以自已: nán yǐ zī yǐ
+难以自已: nán yǐ zì yǐ
 难伺候: nán cì hou
 难住: nán zhù
 难保: nán bǎo
@@ -99142,6 +99656,7 @@
 雪崩: xuě bēng
 雪岳山: xuě yuè shān
 雪耻: xuě chǐ
+雪景: xuě jǐng
 雪暴: xuě bào
 雪松: xuě sōng
 雪板: xuě bǎn
@@ -99158,6 +99673,7 @@
 雪碧: xuě bì
 雪种: xuě zhǒng
 雪糕: xuě gāo
+雪糕筒: xuě gāo tǒng
 雪纺: xuě fǎng
 雪线: xuě xiàn
 雪耳: xuě ěr
@@ -99276,6 +99792,7 @@
 零基础: líng jī chǔ
 零容忍: líng róng rěn
 零工: líng gōng
+零工经济: líng gōng jīng jì
 零度: líng dù
 零废弃: líng fèi qì
 零打碎敲: líng dǎ suì qiāo
@@ -99431,6 +99948,7 @@
 电压表: diàn yā biǎo
 电压计: diàn yā jì
 电子: diàn zǐ
+电子人: diàn zǐ rén
 电子伏: diàn zǐ fú
 电子伏特: diàn zǐ fú tè
 电子信箱: diàn zǐ xìn xiāng
@@ -99464,6 +99982,7 @@
 电子网络: diàn zǐ wǎng luò
 电子舞曲: diàn zǐ wǔ qǔ
 电子计算机: diàn zǐ jì suàn jī
+电子词典: diàn zǐ cí diǎn
 电子警察: diàn zǐ jǐng chá
 电子货币: diàn zǐ huò bì
 电子游戏: diàn zǐ yóu xì
@@ -99506,6 +100025,7 @@
 电杆: diàn gān
 电杆: diàn gǎn
 电梯: diàn tī
+电梯井: diàn tī jǐng
 电棒: diàn bàng
 电椅: diàn yǐ
 电极: diàn jí
@@ -99608,6 +100128,7 @@
 电视节目: diàn shì jié mù
 电视台: diàn shì tái
 电解: diàn jiě
+电解液: diàn jiě yè
 电解质: diàn jiě zhì
 电讯: diàn xùn
 电访: diàn fǎng
@@ -99662,6 +100183,7 @@
 电饭煲: diàn fàn bāo
 电饭锅: diàn fàn guō
 电驿: diàn yì
+电驴子: diàn lǘ zi
 电鳗: diàn mán
 需求: xū qiú
 需求层次理论: xū qiú céng cì lǐ lùn
@@ -100113,7 +100635,6 @@
 青云直上: qīng yún zhí shàng
 青云谱: qīng yún pǔ
 青云谱区: qīng yún pǔ qū
-青霉素: qīng méi sù
 青靛: qīng diàn
 青面獠牙: qīng miàn liáo yá
 青头潜鸭: qīng tóu qián yā
@@ -100173,6 +100694,7 @@
 静坐抗议: jìng zuò kàng yì
 静坐抗议示威: jìng zuò kàng yì shì wēi
 静坐罢工: jìng zuò bà gōng
+静好: jìng hǎo
 静安区: jìng ān qū
 静寂: jìng jì
 静宁: jìng níng
@@ -100216,8 +100738,8 @@
 非凡: fēi fán
 非分: fēi fèn
 非分之念: fēi fèn zhī niàn
-非利士: fēi lì shì
-非利士族: fēi lì shì zú
+非利士人: fēi lì shì rén
+非利士地: fēi lì shì dì
 非动物性: fēi dòng wù xìng
 非动物性名词: fēi dòng wù xìng míng cí
 非同凡响: fēi tóng fán xiǎng
@@ -100228,6 +100750,7 @@
 非吸烟: fēi xī yān
 非命: fēi mìng
 非国大: fēi guó dà
+非国家行为体: fēi guó jiā xíng wéi tǐ
 非均质: fēi jūn zhì
 非婚生: fēi hūn shēng
 非婚生子女: fēi hūn shēng zǐ nǚ
@@ -100308,6 +100831,7 @@
 非羁押性: fēi jī yā xìng
 非自然: fēi zì rán
 非致命: fēi zhì mìng
+非处: fēi chǔ
 非处方药: fēi chǔ fāng yào
 非裔: fēi yì
 非要: fēi yào
@@ -100406,6 +100930,7 @@
 面目全非: miàn mù quán fēi
 面目可憎: miàn mù kě zēng
 面相: miàn xiàng
+面称: miàn chēng
 面积: miàn jī
 面簿: miàn bù
 面红耳赤: miàn hóng ěr chì
@@ -100597,7 +101122,7 @@
 韩文字母: hán wén zì mǔ
 韩方: hán fāng
 韩日: hán rì
-韩升洙: hán shēng zhū
+韩昇洙: hán shēng zhū
 韩服: hán fú
 韩朝: hán cháo
 韩棒子: hán bàng zi
@@ -100714,6 +101239,7 @@
 响彻: xiǎng chè
 响应: xiǎng yìng
 响应时间: xiǎng yìng shí jiān
+响应号召: xiǎng yìng hào zhào
 响板: xiǎng bǎn
 响水: xiǎng shuǐ
 响水县: xiǎng shuǐ xiàn
@@ -100759,7 +101285,6 @@
 顶挡: dǐng dǎng
 顶替: dǐng tì
 顶板: dǐng bǎn
-顶架: dǐng jià
 顶格: dǐng gé
 顶杆: dǐng gǎn
 顶梁柱: dǐng liáng zhù
@@ -100834,6 +101359,7 @@
 顺山倒: shùn shān dǎo
 顺差: shùn chā
 顺带: shùn dài
+顺带一提: shùn dài yī tí
 顺平: shùn píng
 顺平县: shùn píng xiàn
 顺序: shùn xù
@@ -100874,6 +101400,7 @@
 顺治: shùn zhì
 顺治帝: shùn zhì dì
 顺溜: shùn liu
+顺滑: shùn huá
 顺潮: shùn cháo
 顺理成章: shùn lǐ chéng zhāng
 顺产: shùn chǎn
@@ -101036,6 +101563,7 @@
 领子: lǐng zi
 领导: lǐng dǎo
 领导人: lǐng dǎo rén
+领导力: lǐng dǎo lì
 领导小组: lǐng dǎo xiǎo zǔ
 领导层: lǐng dǎo céng
 领导权: lǐng dǎo quán
@@ -101443,6 +101971,7 @@
 显得: xiǎn de
 显微: xiǎn wēi
 显微学: xiǎn wēi xué
+显微解剖学: xiǎn wēi jiě pōu xué
 显微镜: xiǎn wēi jìng
 显微镜座: xiǎn wēi jìng zuò
 显微镜载片: xiǎn wēi jìng zài piàn
@@ -101651,6 +102180,7 @@
 风驰电掣: fēng chí diàn chè
 风骚: fēng sāo
 风骨: fēng gǔ
+风魔: fēng mó
 飐飐: zhǎn zhǎn
 飒然: sà rán
 飒爽: sà shuǎng
@@ -101785,6 +102315,7 @@
 飞马: fēi mǎ
 飞马座: fēi mǎ zuò
 飞驰: fēi chí
+飞腾: fēi téng
 飞鱼: fēi yú
 飞鱼: fēi yú
 飞鱼座: fēi yú zuò
@@ -101873,6 +102404,8 @@
 饥肠辘辘: jī cháng lù lù
 饥饿: jī è
 饫甘餍肥: yù gān yàn féi
+饭勺: fàn sháo
+饭匙: fàn chí
 饭圈: fàn quān
 饭堂: fàn táng
 饭局: fàn jú
@@ -101893,6 +102426,7 @@
 饭团: fàn tuán
 饭庄: fàn zhuāng
 饭菜: fàn cài
+饭量: fàn liàng
 饭类: fàn lèi
 饭食: fàn shí
 饭馆: fàn guǎn
@@ -102104,6 +102638,7 @@
 余热: yú rè
 余烬: yú jìn
 余甘子: yú gān zǐ
+余生: yú shēng
 余留: yú liú
 余留事务: yú liú shì wù
 余留无符号数: yú liú wú fú hào shù
@@ -102142,10 +102677,12 @@
 糊口: hú kǒu
 饧面: xíng miàn
 喂哺: wèi bǔ
+喂奶: wèi nǎi
 喂料: wèi liào
 喂母乳: wèi mǔ rǔ
 喂食: wèi shí
 喂养: wèi yǎng
+馉饳: gǔ duò
 馏分: liú fèn
 馊主意: sōu zhǔ yi
 馊臭: sōu chòu
@@ -102271,6 +102808,7 @@
 首领: shǒu lǐng
 首饰: shǒu shì
 首鼠两端: shǒu shǔ liǎng duān
+馘首: guó shǒu
 香干: xiāng gān
 香几: xiāng jī
 香包: xiāng bāo
@@ -102541,6 +103079,7 @@
 马拉威: mǎ lā wēi
 马拉松: mǎ lā sōng
 马拉松赛: mǎ lā sōng sài
+马拉盏: mǎ lā zhǎn
 马拉糕: mǎ lā gāo
 马拉维: mǎ lā wéi
 马拉开波: mǎ lā kāi bō
@@ -102612,6 +103151,7 @@
 马约卡: mǎ yāo kǎ
 马约特: mǎ yuē tè
 马纳马: mǎ nà mǎ
+马扎: mǎ zhá
 马累: mǎ lèi
 马绍尔群岛: mǎ shào ěr qún dǎo
 马经: mǎ jīng
@@ -102743,6 +103283,7 @@
 驮马: tuó mǎ
 驰名: chí míng
 驰援: chí yuán
+驰誉: chí yù
 驰道: chí dào
 驰骋: chí chěng
 驰骛: chí wù
@@ -102800,10 +103341,13 @@
 驻马店地区: zhù mǎ diàn dì qū
 驻马店市: zhù mǎ diàn shì
 驻点: zhù diǎn
+驽钝: nú dùn
+驽马: nú mǎ
 驽马恋栈: nú mǎ liàn zhàn
 驽马恋栈豆: nú mǎ liàn zhàn dòu
 驹子: jū zi
 驾乘: jià chéng
+驾培: jià péi
 驾崩: jià bēng
 驾帆船: jià fān chuán
 驾御: jià yù
@@ -102820,6 +103364,7 @@
 驾驶人: jià shǐ rén
 驾驶员: jià shǐ yuán
 驾驶执照: jià shǐ zhí zhào
+驾驶室: jià shǐ shì
 驾驶席: jià shǐ xí
 驾驶舱: jià shǐ cāng
 驾驶证: jià shǐ zhèng
@@ -102831,10 +103376,13 @@
 驸马: fù mǎ
 驶入: shǐ rù
 驶出: shǐ chū
+驶向: shǐ xiàng
 驶往: shǐ wǎng
 驶流: shǐ liú
 驶离: shǐ lí
 驼子: tuó zi
+驼峰: tuó fēng
+驼峰命名法: tuó fēng mìng míng fǎ
 驼背: tuó bèi
 驼背鲸: tuó bèi jīng
 驼色: tuó sè
@@ -102885,6 +103433,7 @@
 骑驴觅驴: qí lǘ mì lǘ
 骑鹤: qí hè
 骑鹤上扬州: qí hè shàng yáng zhōu
+骑鹤化: qí hè huà
 骐麟: qí lín
 骛远: wù yuǎn
 骗人: piàn rén
@@ -103070,6 +103619,7 @@
 惊醒: jīng xǐng
 惊错: jīng cuò
 惊险: jīng xiǎn
+惊险片: jīng xiǎn piàn
 惊雷: jīng léi
 惊颤: jīng chàn
 惊风: jīng fēng
@@ -103134,6 +103684,8 @@
 骨瘦如柴: gǔ shòu rú chái
 骨瘦如豺: gǔ shòu rú chái
 骨盆: gǔ pén
+骨盆底: gǔ pén dǐ
+骨盘: gǔ pán
 骨碌: gū lu
 骨碌碌: gū lù lù
 骨科: gǔ kē
@@ -103149,6 +103701,7 @@
 骨胶原: gǔ jiāo yuán
 骨董: gǔ dǒng
 骨血: gǔ xuè
+骨裂: gǔ liè
 骨质疏松: gǔ zhì shū sōng
 骨质疏松症: gǔ zhì shū sōng zhèng
 骨都都: gǔ dōu dōu
@@ -103176,6 +103729,7 @@
 骰钟: tóu zhōng
 骶骨: dǐ gǔ
 骷髅: kū lóu
+骷髅头: kū lóu tóu
 骸骨: hái gǔ
 骺软骨板: hóu ruǎn gǔ bǎn
 髂窝: qià wō
@@ -103322,11 +103876,13 @@
 高低杠: gāo dī gàng
 高低潮: gāo dī cháo
 高保真: gāo bǎo zhēn
+高个子: gāo gè zi
 高傲: gāo ào
 高僧: gāo sēng
 高价: gāo jià
 高八度: gāo bā dù
 高冷: gāo lěng
+高出: gāo chū
 高分: gāo fēn
 高分低能: gāo fēn dī néng
 高分子: gāo fēn zǐ
@@ -103436,6 +103992,7 @@
 高性能: gāo xìng néng
 高慢: gāo màn
 高手: gāo shǒu
+高手如云: gāo shǒu rú yún
 高才: gāo cái
 高才生: gāo cái shēng
 高技术: gāo jì shù
@@ -104154,6 +104711,7 @@
 鲯鳅: qí qiū
 鲭鱼: qīng yú
 鲞鱼: xiǎng yú
+鲷鱼烧: diāo yú shāo
 鲱鱼: fēi yú
 鲲鹏: kūn péng
 鲲鹏展翅: kūn péng zhǎn chì
@@ -104334,6 +104892,7 @@
 凤头䴙䴘: fèng tóu pì tī
 凤头鹦鹉: fèng tóu yīng wǔ
 凤头麦鸡: fèng tóu mài jī
+凤体: fèng tǐ
 鸣不平: míng bù píng
 鸣冤叫屈: míng yuān jiào qū
 鸣叫: míng jiào
@@ -104429,6 +104988,7 @@
 鹄候: hú hòu
 鹄的: gǔ dì
 鹌鹑: ān chún
+鹌鹑馉饳儿: ān chún gǔ duò er
 鹏抟: péng tuán
 鹏程万里: péng chéng wàn lǐ
 鹏飞: péng fēi
@@ -104613,7 +105173,7 @@
 盐都: yán dū
 盐都区: yán dū qū
 盐酸: yán suān
-盐酸克仑特罗: yán suān kè lún tè luō
+盐酸克仑特罗: yán suān kè lún tè luó
 盐酸盐: yán suān yán
 盐卤: yán lǔ
 盐碱: yán jiǎn
@@ -105202,6 +105762,7 @@
 黏着力: nián zhuó lì
 黏着性: nián zhuó xìng
 黏着语: nián zhuó yǔ
+黏虫: nián chóng
 黏贴: nián tiē
 黏附: nián fù
 黏附力: nián fù lì
@@ -105239,7 +105800,7 @@
 黑喉歌鸲: hēi hóu gē qú
 黑喉毛角燕: hēi hóu máo jiǎo yàn
 黑喉潜鸟: hēi hóu qián niǎo
-黑喉石鵖: hēi hóu shí bī
+黑喉石䳭: hēi hóu shí jí
 黑喉红尾鸲: hēi hóu hóng wěi qú
 黑喉红臀鹎: hēi hóu hóng tún bēi
 黑喉缝叶莺: hēi hóu féng yè yīng
@@ -105309,7 +105870,7 @@
 黑水县: hēi shuǐ xiàn
 黑水鸡: hēi shuǐ jī
 黑汗王朝: hēi hán wáng cháo
-黑沉沉: hēi chēn chēn
+黑沉沉: hēi chén chén
 黑河: hēi hé
 黑河地区: hēi hé dì qū
 黑河市: hēi hé shì
@@ -105337,7 +105898,7 @@
 黑白不分: hēi bái bù fēn
 黑白分明: hēi bái fēn míng
 黑白切: hēi bái qiē
-黑白林鵖: hēi bái lín bī
+黑白林䳭: hēi bái lín jí
 黑白无常: hēi bái wú cháng
 黑白电视: hēi bái diàn shì
 黑百灵: hēi bǎi líng
@@ -105579,6 +106140,7 @@
 点胸鸦雀: diǎn xiōng yā què
 点脉: diǎn mài
 点菜: diǎn cài
+点着: diǎn zháo
 点号: diǎn hào
 点补: diǎn bǔ
 点见: diǎn jiàn
@@ -105776,6 +106338,7 @@
 鼻烟壶: bí yān hú
 鼻烟盒: bí yān hé
 鼻牛儿: bí niú er
+鼻环: bí huán
 鼻甲骨: bí jiǎ gǔ
 鼻疽: bí jū
 鼻病毒: bí bìng dú
@@ -105786,6 +106349,7 @@
 鼻翼: bí yì
 鼻腔: bí qiāng
 鼻酸: bí suān
+鼻钉: bí dīng
 鼻针疗法: bí zhēn liáo fǎ
 鼻青眼肿: bí qīng yǎn zhǒng
 鼻青脸肿: bí qīng liǎn zhǒng
@@ -105805,6 +106369,7 @@
 齐全: qí quán
 齐刷刷: qí shuā shuā
 齐名: qí míng
+齐唱: qí chàng
 齐国: qí guó
 齐大非偶: qí dà fēi ǒu
 齐大非耦: qí dà fēi ǒu
@@ -105940,7 +106505,6 @@
 龙岩地区: lóng yán dì qū
 龙岩市: lóng yán shì
 龙崎: lóng qí
-龙崎乡: lóng qí xiāng
 龙岗: lóng gǎng
 龙岗区: lóng gǎng qū
 龙嵩: lóng sōng
@@ -106037,6 +106601,7 @@
 龙头: lóng tóu
 龙头企业: lóng tóu qǐ yè
 龙头老大: lóng tóu lǎo dà
+龙头股: lóng tóu gǔ
 龙头蛇尾: lóng tóu shé wěi
 龙头铡: lóng tóu zhá
 龙飞: lóng fēi
@@ -106048,6 +106613,7 @@
 龙腾虎跃: lóng téng hǔ yuè
 龙骨: lóng gǔ
 龙骨车: lóng gǔ chē
+龙体: lóng tǐ
 龙须糖: lóng xū táng
 龙须菜: lóng xū cài
 龙凤: lóng fèng
