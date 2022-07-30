@@ -30544,7 +30544,7 @@
 甘露: gān lù
 甚且: shèn qiě
 甚为: shèn wéi
-甚么: shèn me
+甚么: shén me
 甚于: shén yú
 甚嚣尘上: shèn xiāo chén shàng
 甚或: shèn huò
@@ -30552,6 +30552,7 @@
 甚而至于: shèn ér zhì yú
 甚至: shèn zhì
 甚至于: shèn zhì yú
+甚麼: shén me
 甜味儿: tián wèi er
 甜椒: tián jiāo
 甜言媚语: tián yán mèi yǔ
