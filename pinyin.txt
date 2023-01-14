@@ -5234,7 +5234,7 @@
 便嬖: pián bì
 便安: biàn ān
 便官: biàn guān
-便宜: pián yí
+便宜: pián yi
 便宜从事: biàn yí cóng shì
 便宜施行: biàn yí shī xíng
 便宜行事: biàn yí xíng shì
@@ -32126,7 +32126,7 @@
 知一万毕: zhī yī wàn bì
 知之为知之: zhī zhī wéi zhī zhī
 知书达礼: zhī shū dá lǐ
-知了: zhī liao
+知了: zhī liǎo
 知事: zhī shì
 知交: zhī jiāo
 知人: zhī rén
