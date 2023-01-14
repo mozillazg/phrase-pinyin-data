@@ -45,8 +45,8 @@ if __name__ == '__main__':
         r'(?P<zht>\w+)\s+(?P<zhs>\w+)\s+\[(?P<py>.+?)\]')
     LETTER_DIGIT_RE = re.compile(r'[a-zA-Z0-9]')
     cnt = 0
-    with codecs.open(os.path.join(ROOT, 'cc_cedict.txt'), 'w', 'utf-8-sig') as fpw:
-        with codecs.open(os.path.join(ROOT, 'cedict_ts.u8'), 'r', 'utf-8-sig') as fpr:
+    with codecs.open(os.path.join(ROOT, 'cc_cedict.txt'), 'w', 'utf-8') as fpw:
+        with codecs.open(os.path.join(ROOT, 'cedict_ts.u8'), 'r', 'utf') as fpr:
             for line in fpr:
                 line_stripped = line.strip()
                 if not line or line_stripped[0] == '#' or line_stripped[0] == '%':
