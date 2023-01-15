@@ -8,8 +8,8 @@ help:
 
 .PHONY: merge
 merge:
-	python merge.py pinyin.txt overwrite.txt > new.txt && mv new.txt pinyin.txt
-	python merge.py zdic_cibs.txt zdic_cybs.txt cc_cedict.txt di.txt pinyin.txt overwrite.txt > new.txt && mv new.txt large_pinyin.txt
+	python tools/merge.py pinyin.txt overwrite.txt > new.txt && mv new.txt pinyin.txt
+	python tools/merge.py zdic_cibs.txt zdic_cybs.txt cc_cedict.txt di.txt pinyin.txt overwrite.txt > new.txt && mv new.txt large_pinyin.txt
 
 .PHONY: er
 er:
