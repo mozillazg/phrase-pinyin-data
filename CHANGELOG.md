@@ -1,5 +1,11 @@
 # ChangeLog
 
+## [0.14.0] (2023-01-15)
+
+* 新增一些词语的拼音。详见 [#35]
+* 纠正 `便宜` 和 `知了` 的拼音，删除一个无效数据。修复 [#41] [#42] [#43]
+
+
 ## [0.13.0] (2022-07-30)
 
 * 生成最新版 cc\_cedict.txt
@@ -225,6 +231,9 @@
 [#15]: https://github.com/mozillazg/phrase-pinyin-data/pull/15
 [#16]: https://github.com/mozillazg/phrase-pinyin-data/pull/16
 [#26]: https://github.com/mozillazg/phrase-pinyin-data/issues/26
+[#41]: https://github.com/mozillazg/phrase-pinyin-data/issues/41
+[#42]: https://github.com/mozillazg/phrase-pinyin-data/issues/42
+[#43]: https://github.com/mozillazg/phrase-pinyin-data/issues/43
 [#35]: https://github.com/mozillazg/phrase-pinyin-data/pull/35
 [af5d783]: https://github.com/mozillazg/phrase-pinyin-data/commit/af5d7831b0e84e4a5306e304b3b2da3268e35f17
 [3b62ed3]: https://github.com/mozillazg/phrase-pinyin-data/commit/3b62ed303f129868c7ccee4f2d5e44dcea7d30d4
@@ -240,3 +249,4 @@
 [0.11.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.10.5...v0.11.0
 [0.12.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.11.0...v0.12.0
 [0.13.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.12.0...v0.13.0
+[0.14.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.13.0...v0.14.0
