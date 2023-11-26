@@ -19001,7 +19001,7 @@
 忌惮: jì dàn
 忌食: jì shí
 忍俊不住: rěn jùn bù zhù
-忍俊不禁: rěn jùn bù jìn
+忍俊不禁: rěn jùn bù jīn
 忍无可忍: rěn wú kě rěn
 忍辱: rěn rǔ
 忍辱负重: rěn rǔ fù zhòng
@@ -42835,7 +42835,7 @@
 重珪叠组: chóng guī dié zǔ
 重珪迭组: chóng guī dié zǔ
 重理旧业: chóng lǐ jiù yè
-重生: zhòng shēng
+重生: chóng shēng
 重生父母: chóng shēng fù mǔ
 重生爷娘: chóng shēng yé niáng
 重申: chóng shēn
