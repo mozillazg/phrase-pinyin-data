@@ -7463,14 +7463,14 @@
 分外妖娆: fèn wài yāo ráo
 分头: fēn tóu
 分娩: fēn miǎn
-分子: fèn zǐ
-分子力: fèn zǐ lì
-分子式: fèn zǐ shì
-分子物理学: fèn zǐ wù lǐ xué
-分子生物学: fèn zǐ shēng wù xué
-分子筛: fèn zǐ shāi
-分子运动论: fèn zǐ yùn dòng lùn
-分子量: fèn zǐ liàng
+分子: fēn zǐ
+分子力: fēn zǐ lì
+分子式: fēn zǐ shì
+分子物理学: fēn zǐ wù lǐ xué
+分子生物学: fēn zǐ shēng wù xué
+分子筛: fēn zǐ shāi
+分子运动论: fēn zǐ yùn dòng lùn
+分子量: fēn zǐ liàng
 分守要津: fēn shǒu yào jīn
 分宜: fēn yí
 分宵达曙: fēn xiāo dá shǔ
@@ -46208,8 +46208,8 @@
 高八度: gāo bā dù
 高兴: gāo xìng
 高冠博带: gāo guān bó dài
-高分子: gāo fèn zǐ
-高分子化合物: gāo fèn zǐ huà hé wù
+高分子: gāo fēn zǐ
+高分子化合物: gāo fēn zǐ huà hé wù
 高压: gāo yā
 高压电: gāo yā diàn
 高压线: gāo yā xiàn
