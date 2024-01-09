@@ -510,7 +510,7 @@
 处长地: chù zhǎng de
 纯粹地: chún cuì de
 迟迟地: chí chí de
-重重地: chóng chóng de
+重重地: zhòng zhòng de
 粗糙地: cū cāo de
 痴痴地: chī chī de
 吃吃地: chī chī de
@@ -983,7 +983,6 @@
 远远地: yuǎn yuǎn de
 真实地: zhēn shí de
 忠实地: zhōng shí de
-重重地: chóng chóng de
 自立地: zì lì de
 更远地: gèng yuǎn de
 密封地: mì fēng de
@@ -5798,7 +5797,7 @@
 淡淡地回答: dàn dàn de huí dá
 顺利地通过: shùn lì de tōng guò
 更快地找到: gèng kuài de zhǎo dào
-重重地摔在: chóng chóng de shuāi zài
+重重地摔在: zhòng zhòng de shuāi zài
 缓缓地摇头: huǎn huǎn de yáo tóu
 更好地兼容: gèng hǎo de jiān róng
 尽可能地多: jìn kě néng de duō
@@ -5934,10 +5933,10 @@
 已经深深地: yǐ jīng shēn shēn de
 应该好好地: yīng gāi hǎo hǎo de
 只能默默地: zhǐ néng mò mò de
-重重地打在: chóng chóng de dǎ zài
+重重地打在: zhòng zhòng de dǎ zài
 真诚地希望: zhēn chéng de xī wàng
 准确地找出: zhǔn què de zhǎo chū
-重重地落下: chóng chóng de là xià
+重重地落下: zhòng zhòng de là xià
 暂时地失去: zàn shí de shī qù
 准确地打在: zhǔn què de dǎ zài
 正在疯狂地: zhèng zài fēng kuáng de
