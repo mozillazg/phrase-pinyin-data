@@ -83,11 +83,12 @@
 称手: chèn shǒu
 大城: dà chéng
 大城市: dà chéng shì
-分子: fēn zǐ
+分子: fèn zǐ
 分子力: fēn zǐ lì
 分子式: fēn zǐ shì
 分子物理学: fēn zǐ wù lǐ xué
 分子生物学: fēn zǐ shēng wù xué
+分子生物學: fēn zǐ shēng wù xué
 分子筛: fēn zǐ shāi
 分子运动论: fēn zǐ yùn dòng lùn
 分子量: fēn zǐ liàng
@@ -96,3 +97,14 @@
 高分子功能材料: gāo fēn zǐ gōng néng cái liào
 高分子化合物: gāo fēn zǐ huà hé wù
 高分子化工: gāo fēn zǐ huà gōng
+公分子: gōng fēn zǐ
+克分子: kè fēn zǐ
+分子晶体: fēn zǐ jīng tǐ
+分子晶體: fēn zǐ jīng tǐ
+分子结构: fēn zǐ jié gòu
+分子結構: fēn zǐ jié gòu
+超分子: chāo fēn zǐ
+一分子甲烷: yī fēn zǐ jiǎ wán
+极性分子: jí xìng fēn zǐ
+極性分子: jí xìng fēn zǐ
+分子和分母: fēn zǐ hé fēn mǔ

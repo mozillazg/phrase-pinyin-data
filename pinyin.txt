@@ -72,6 +72,7 @@
 一分一毫: yī fēn yī háo
 一分为二: yī fēn wéi èr
 一分子: yī fèn zi
+一分子甲烷: yī fēn zǐ jiǎ wán
 一分钟: yì fēn zhōng
 一切: yī qiè
 一切万物: yī qiē wàn wù
@@ -6031,7 +6032,7 @@
 克丁克卯: kè dīng kè mǎo
 克什米尔: kè shí mǐ ěr
 克传弓冶: kè chuán gōng yě
-克分子: kè fèn zǐ
+克分子: kè fēn zǐ
 克尽厥职: kè jìn jué zhí
 克尽职守: kè jìn zhí shǒu
 克己慎行: kè jǐ shèn xíng
@@ -6226,6 +6227,7 @@
 公共积累: gōng gòng jī lěi
 公共课: gōng gòng kè
 公分: gōng fēn
+公分子: gōng fēn zǐ
 公切线: gōng qiē xiàn
 公务员: gōng wù yuán
 公助: gōng zhù
@@ -7463,14 +7465,21 @@
 分外妖娆: fèn wài yāo ráo
 分头: fēn tóu
 分娩: fēn miǎn
-分子: fēn zǐ
+分子: fèn zǐ
 分子力: fēn zǐ lì
+分子和分母: fēn zǐ hé fēn mǔ
 分子式: fēn zǐ shì
+分子晶体: fēn zǐ jīng tǐ
+分子晶體: fēn zǐ jīng tǐ
 分子物理学: fēn zǐ wù lǐ xué
 分子生物学: fēn zǐ shēng wù xué
+分子生物學: fēn zǐ shēng wù xué
 分子筛: fēn zǐ shāi
+分子結構: fēn zǐ jié gòu
+分子结构: fēn zǐ jié gòu
 分子运动论: fēn zǐ yùn dòng lùn
 分子量: fēn zǐ liàng
+分子钟: fēn zǐ zhōng
 分守要津: fēn shǒu yào jīn
 分宜: fēn yí
 分宵达曙: fēn xiāo dá shǔ
@@ -25431,6 +25440,7 @@
 极左: jí zuǒ
 极度: jí dù
 极往知来: jí wǎng zhī lái
+极性分子: jí xìng fēn zǐ
 极恶: jí è
 极恶不赦: jí è bù shè
 极恶穷凶: jí è qióng xiōng
@@ -26155,6 +26165,7 @@
 楞头磕脑: léng tóu kē nǎo
 楞眉横眼: lèng méi héng yǎn
 楦头: xuàn tóu
+極性分子: jí xìng fēn zǐ
 楷书: kǎi shū
 楷体: kǎi tǐ
 楷模: kǎi mó
@@ -40361,6 +40372,7 @@
 超假: chāo jiǎ
 超凡人圣: chāo fán rén shèng
 超凡脱俗: chāo fán tuō sú
+超分子: chāo fēn zǐ
 超员: chāo yuán
 超导体: chāo dǎo tǐ
 超市: chāo shì
@@ -46209,7 +46221,9 @@
 高兴: gāo xìng
 高冠博带: gāo guān bó dài
 高分子: gāo fēn zǐ
+高分子功能材料: gāo fēn zǐ gōng néng cái liào
 高分子化合物: gāo fēn zǐ huà hé wù
+高分子化工: gāo fēn zǐ huà gōng
 高压: gāo yā
 高压电: gāo yā diàn
 高压线: gāo yā xiàn
