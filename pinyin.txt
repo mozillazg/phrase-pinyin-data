@@ -3137,7 +3137,7 @@
 九品中正: jiǔ pǐn zhōng zhèng
 九回肠: jiǔ huí cháng
 九垓八埏: jiǔ gāi bā yán
-九大行星: jiǔ dà háng xīng
+九大行星: jiǔ dà xíng xīng
 九天九地: jiǔ tiān jiǔ dì
 九天仙女: jiǔ tiān xiān nǚ
 九头鸟: jiǔ tóu niǎo
@@ -6179,6 +6179,7 @@
 八卦教: bā guà jiào
 八大山人: bā dà shān rén
 八大胡同: bā dà hú tòng
+八大行星: bā dà xíng xīng
 八字打开: bā zì dǎ kāi
 八字没一撇: bā zì méi yī piě
 八字没见一撇: bā zì méi jiàn yī piě
@@ -14130,7 +14131,7 @@
 大藏经: dà zàng jīng
 大虫: dà chóng
 大行大市: dà háng dà shì
-大行星: dà háng xīng
+大行星: dà xíng xīng
 大街: dà jiē
 大街小巷: dà jiē xiǎo xiàng
 大衣: dà yī
@@ -21749,6 +21750,7 @@
 换脑筋: huàn nǎo jīn
 换药: huàn yào
 换血: huàn xuè
+换行: huàn háng
 换衣服: huàn yī fú
 换货: huàn huò
 换购: huàn gòu
