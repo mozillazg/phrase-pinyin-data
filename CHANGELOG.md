@@ -1,5 +1,10 @@
 # ChangeLog
 
+## [0.17.0] (2024-03-09)
+
+* 纠正 `漢藏`, `援藏`, `大行星`, `换行` 以及一些包含 `分子` 的词语的拼音。
+
+
 ## [0.16.0] (2023-12-11)
 
 * 纠正 `大城市`, `重生`, `乐理`, `不禁` 的拼音。
@@ -262,3 +267,4 @@
 [0.14.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.13.0...v0.14.0
 [0.15.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.14.0...v0.15.0
 [0.16.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.15.0...v0.16.0
+[0.17.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.16.0...v0.17.0
