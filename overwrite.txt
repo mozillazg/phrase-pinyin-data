@@ -112,3 +112,5 @@
 九大行星: jiǔ dà xíng xīng
 八大行星: bā dà xíng xīng
 换行: huàn háng
+漢藏: hàn zàng
+援藏: yuán zàng
