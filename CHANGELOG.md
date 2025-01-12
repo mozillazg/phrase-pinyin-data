@@ -1,5 +1,11 @@
 # ChangeLog
 
+
+## [0.18.0] (2025-01-12)
+
+* 纠正 `乐亭`, `啜泣` 的拼音。
+
+
 ## [0.17.0] (2024-03-09)
 
 * 纠正 `重重地`, `漢藏`, `援藏`, `大行星`, `换行` 以及一些包含 `分子` 的词语的拼音。
@@ -268,3 +274,4 @@
 [0.15.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.14.0...v0.15.0
 [0.16.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.15.0...v0.16.0
 [0.17.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.16.0...v0.17.0
+[0.18.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.17.0...v0.18.0
