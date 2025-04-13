@@ -3158,7 +3158,16 @@
 九蒸三熯: jiǔ zhēng sān hàn
 九行八业: jiǔ háng bā yè
 九转功成: jiǔ zhuàn gōng chéng
-九重: jiǔ zhòng
+九重: jiǔ chóng
+九重关: jiǔ chóng guān
+九重城: jiǔ chóng chéng
+九重墙: jiǔ chóng qiáng
+九重天: jiǔ chóng tiān
+九重宫: jiǔ chóng gōng
+九重泉: jiǔ chóng quán
+九重锁: jiǔ chóng suǒ
+九重闺: jiǔ chóng guī
+九重阁: jiǔ chóng gé
 九重霄: jiǔ chóng xiāo
 九间大殿: jiǔ jiān dà diàn
 九间朝殿: jiǔ jiān cháo diàn
