@@ -25779,7 +25779,7 @@
 标点符号: biāo diǎn fú hào
 标的: biāo dì
 标称: biāo chēng
-标识: biāo zhì
+标识: biāo shí
 标语: biāo yǔ
 标量: biāo liàng
 标题音乐: biāo tí yīn yuè
@@ -31549,6 +31549,7 @@
 目无尊长: mù wú zūn zhǎng
 目无法纪: mù wú fǎ jì
 目无王法: mù wú wáng fǎ
+目标: mù biāo
 目的: mù dì
 目的地: mù dì dì
 目的性: mù dì xìng
