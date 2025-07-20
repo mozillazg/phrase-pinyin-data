@@ -1,6 +1,13 @@
 # ChangeLog
 
 
+## [0.19.0] (2025-07-20)
+
+* 纠正 `九重`, `放大率`, `标识` 的拼音。
+* 删除 `行行` 拼音数据, 增加 `行长` 的拼音数据。
+* 基于 [#53] 的数据纠正几百个读音。感谢 [@KamioRinn] 提供相关数据。
+
+
 ## [0.18.0] (2025-01-12)
 
 * 纠正 `乐亭`, `啜泣` 的拼音。
@@ -255,6 +262,7 @@
 [#41]: https://github.com/mozillazg/phrase-pinyin-data/issues/41
 [#42]: https://github.com/mozillazg/phrase-pinyin-data/issues/42
 [#43]: https://github.com/mozillazg/phrase-pinyin-data/issues/43
+[#53]: https://github.com/mozillazg/phrase-pinyin-data/issues/53
 [#35]: https://github.com/mozillazg/phrase-pinyin-data/pull/35
 [af5d783]: https://github.com/mozillazg/phrase-pinyin-data/commit/af5d7831b0e84e4a5306e304b3b2da3268e35f17
 [3b62ed3]: https://github.com/mozillazg/phrase-pinyin-data/commit/3b62ed303f129868c7ccee4f2d5e44dcea7d30d4
@@ -266,6 +274,8 @@
 [330b348]: https://github.com/mozillazg/phrase-pinyin-data/commit/330b3481ba350de07b580991a5a8b7a83aaefde9
 [ee1ded4]: https://github.com/mozillazg/phrase-pinyin-data/commit/ee1ded4938624ac4ce3dc7991ab370e09dbd745c
 [@hanabi1224]: https://github.com/hanabi1224
+[@KamioRinn]: https://github.com/KamioRinn
+
 [0.10.5]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.10.4...v0.10.5
 [0.11.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.10.5...v0.11.0
 [0.12.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.11.0...v0.12.0
@@ -275,3 +285,4 @@
 [0.16.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.15.0...v0.16.0
 [0.17.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.16.0...v0.17.0
 [0.18.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.17.0...v0.18.0
+[0.19.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.18.0...v0.19.0
