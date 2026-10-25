@@ -121,6 +121,46 @@
 目标: mù biāo
 银行: yín háng
 行长: háng zhǎng
+乡长: xiāng zhǎng
+闪长岩: shǎn cháng yán
+# 地质学术语中的“长”读 cháng
+辉长岩: huī cháng yán
+正长岩: zhèng cháng yán
+斜长岩: xié cháng yán
+二长岩: èr cháng yán
+苏长岩: sū cháng yán
+橄长岩: gǎn cháng yán
+闪长玢岩: shǎn cháng bīn yán
+辉长玢岩: huī cháng bīn yán
+斜长斑岩: xié cháng bān yán
+正长斑岩: zhèng cháng bān yán
+二长花岗岩: èr cháng huā gǎng yán
+钾长花岗岩: jiǎ cháng huā gǎng yán
+碱长花岗岩: jiǎn cháng huā gǎng yán
+斜长角闪岩: xié cháng jiǎo shǎn yán
+二长闪长岩: èr cháng shǎn cháng yán
+辉长闪长岩: huī cháng shǎn cháng yán
+石英二长岩: shí yīng èr cháng yán
+长英岩: cháng yīng yán
+# 音译词中的“佛”读 fó
+哈佛: hā fó
+哈佛大学: hā fó dà xué
+佛徒: fó tú
+佛得角: fó dé jiǎo
+佛罗里达: fó luó lǐ dá
+佛罗里达州: fó luó lǐ dá zhōu
+佛蒙特: fó méng tè
+佛蒙特州: fó méng tè zhōu
+佛兰德: fó lán dé
+佛兰德斯: fó lán dé sī
+佛朗哥: fó lǎng gē
+# 药物音译名中的“的”读 dì（-stigmine）
+新斯的明: xīn sī dì míng
+溴新斯的明: xiù xīn sī dì míng
+甲硫酸新斯的明: jiǎ liú suān xīn sī dì míng
+吡啶斯的明: bǐ dìng sī dì míng
+溴吡斯的明: xiù bǐ sī dì míng
+利斯的明: lì sī dì míng
 
 
 一分子: yī fèn zǐ

@@ -3202,7 +3202,7 @@
 乡曲: xiāng qū
 乡约: xiāng yuē
 乡规民约: xiāng guī mín yuē
-乡长: xiāng cháng
+乡长: xiāng zhǎng
 乡间: xiāng jiān
 书不尽意: shū bù jìn yì
 书不尽言: shū bù jìn yán
@@ -3393,6 +3393,9 @@
 二重性: èr chóng xìng
 二重根: èr chóng gēn
 二锅头: èr guō tóu
+二长岩: èr cháng yán
+二长花岗岩: èr cháng huā gǎng yán
+二长闪长岩: èr cháng shǎn cháng yán
 二面角: èr miàn jiǎo
 二龙戏珠: èr lóng xì zhū
 于今为烈: yú jīn wéi liè
@@ -4988,6 +4991,8 @@
 佛像: fó xiàng
 佛光: fó guāng
 佛光寺: fó guāng sì
+佛兰德: fó lán dé
+佛兰德斯: fó lán dé sī
 佛典: fó diǎn
 佛口蛇心: fó kǒu shé xīn
 佛号: fó hào
@@ -5001,7 +5006,8 @@
 佛寺: fó sì
 佛山: fó shān
 佛山市: fó shān shì
-佛徒: fú tú
+佛徒: fó tú
+佛得角: fó dé jiǎo
 佛心蛇口: fó xīn shé kǒu
 佛性: fó xìng
 佛性禅心: fó xìng chán xīn
@@ -5009,6 +5015,7 @@
 佛手柑: fó shǒu gān
 佛教: fó jiào
 佛教徒: fó jiào tú
+佛朗哥: fó lǎng gē
 佛殿: fó diàn
 佛法: fó fǎ
 佛爷: fó yé
@@ -5021,6 +5028,10 @@
 佛系: fó xì
 佛经: fó jīng
 佛罗伦萨: fó luó lún sà
+佛罗里达: fó luó lǐ dá
+佛罗里达州: fó luó lǐ dá zhōu
+佛蒙特: fó méng tè
+佛蒙特州: fó méng tè zhōu
 佛门: fó mén
 佛门弟子: fó mén dì zǐ
 佛陀: fó tuó
@@ -7952,6 +7963,7 @@
 利尿: lì niào
 利得: lì de
 利息率: lì xī lǜ
+利斯的明: lì sī dì míng
 利欲熏心: lì yù xūn xīn
 利灾乐祸: lì zāi lè huò
 利爪: lì zhuǎ
@@ -11363,6 +11375,7 @@
 吠非其主: fèi fēi qí zhǔ
 吡咯: bǐ gē
 吡啶: bǐ dìng
+吡啶斯的明: bǐ dìng sī dì míng
 否决: fǒu jué
 否决权: fǒu jué quán
 否则: fǒu zé
@@ -11858,6 +11871,8 @@
 哇啦: wā lā
 哇塞: wā sāi
 哈什蚂: hà shí mǎ
+哈佛: hā fó
+哈佛大学: hā fó dà xué
 哈哈: hā hā
 哈哈镜: hā hā jìng
 哈喇: hā lǎ
@@ -23155,6 +23170,9 @@
 斜拉桥: xié lā qiáo
 斜行横阵: xié xíng héng zhèn
 斜街: xié jiē
+斜长岩: xié cháng yán
+斜长斑岩: xié cháng bān yán
+斜长角闪岩: xié cháng jiǎo shǎn yán
 斜风细雨: xié fēng xì yǔ
 斠若画一: jiào ruò huà yī
 斡旋: wò xuán
@@ -23232,6 +23250,7 @@
 新教: xīn jiào
 新文化: xīn wén huà
 新文化运动: xīn wén huà yùn dòng
+新斯的明: xīn sī dì míng
 新正: xīn zhēng
 新生力量: xīn shēng lì liàng
 新疆: xīn jiāng
@@ -26405,6 +26424,7 @@
 橄榄石: gǎn lǎn shí
 橄榄绿: gǎn lǎn lǜ
 橄榄色: gǎn lǎn sè
+橄长岩: gǎn cháng yán
 橘化为枳: jú huà wéi zhǐ
 橘子: jú zi
 橘子汁: jú zi zhī
@@ -26694,6 +26714,8 @@
 正轨: zhèng guǐ
 正途: zhèng tú
 正道: zhèng dào
+正长岩: zhèng cháng yán
+正长斑岩: zhèng cháng bān yán
 正门: zhèng mén
 正阳: zhèng yáng
 正面: zhèng miàn
@@ -28867,6 +28889,8 @@
 溯水行舟: sù shuǐ xíng zhōu
 溯流追源: sù liú zhuī yuán
 溯端竟委: sù duān jìng wěi
+溴吡斯的明: xiù bǐ sī dì míng
+溴新斯的明: xiù xīn sī dì míng
 溵溜: yīn liū
 溶化: róng huà
 溶合: róng hé
@@ -30716,6 +30740,7 @@
 由近及远: yóu jìn jí yuǎn
 甲冠天下: jiǎ guàn tiān xià
 甲壳: jiǎ qiào
+甲硫酸新斯的明: jiǎ liú suān xīn sī dì míng
 甲骨: jiǎ gǔ
 甲骨文: jiǎ gǔ wén
 申令: shēn lìng
@@ -32419,6 +32444,7 @@
 石臼: shí jiù
 石舫: shí fǎng
 石英: shí yīng
+石英二长岩: shí yīng èr cháng yán
 石英玻璃: shí yīng bō lí
 石英表: shí yīng biǎo
 石英钟: shí yīng zhōng
@@ -32647,6 +32673,7 @@
 碰钉子: pèng dīng zi
 碱地: jiǎn dì
 碱金属: jiǎn jīn shǔ
+碱长花岗岩: jiǎn cháng huā gǎng yán
 碱面儿: jiǎn miàn er
 碳化物: tàn huà wù
 碳化硅: tàn huà guī
@@ -36717,6 +36744,7 @@
 苏绣: sū xiù
 苏维埃: sū wéi āi
 苏醒: sū xǐng
+苏长岩: sū cháng yán
 苔藓: tái xiǎn
 苕帚: tiáo zhǒu
 苗头: miáo tou
@@ -41174,6 +41202,9 @@
 辈数: bèi shù
 辈数儿: bèi shù ér
 辉石: huī shí
+辉长岩: huī cháng yán
+辉长玢岩: huī cháng bīn yán
+辉长闪长岩: huī cháng shǎn cháng yán
 辊轴: gǔn zhóu
 辍毫栖牍: chuò háo qī dú
 辎重: zī zhòng
@@ -43282,6 +43313,7 @@
 钻营: zuān yíng
 钻谋: zuān móu
 钻隙逾墙: zuān xì yú qiáng
+钾长花岗岩: jiǎ cháng huā gǎng yán
 钿合金钗: diàn hé jīn chāi
 铁中铮铮: tiě zhōng zhēng zhēng
 铁了心: tiě le xīn
@@ -43756,6 +43788,7 @@
 长舌: cháng shé
 长舌之妇: cháng shé zhī fù
 长舌妇: cháng shé fù
+长英岩: cháng yīng yán
 长虑却顾: cháng lǜ què gù
 长虑后顾: cháng lǜ hòu gù
 长虑顾后: cháng lǜ gù hòu
@@ -43855,6 +43888,8 @@
 闪烁其词: shǎn shuò qí cí
 闪烁其辞: shǎn shuò qí cí
 闪过: shǎn guò
+闪长岩: shǎn cháng yán
+闪长玢岩: shǎn cháng bīn yán
 闭会: bì huì
 闭关却扫: bì guān què sǎo
 闭卷: bì juàn

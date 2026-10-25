@@ -17999,7 +17999,7 @@
 乡野: xiāng yě
 乡镇: xiāng zhèn
 乡镇企业: xiāng zhèn qǐ yè
-乡长: xiāng cháng
+乡长: xiāng zhǎng
 乡関: xiāng wān
 乡问: xiāng wèn
 乡闱: xiāng wéi
@@ -20116,6 +20116,9 @@
 二钺: èr yuè
 二铢钱: èr zhū qián
 二锅头: èr guō tóu
+二长岩: èr cháng yán
+二长花岗岩: èr cháng huā gǎng yán
+二长闪长岩: èr cháng shǎn cháng yán
 二门: èr mén
 二门上门神: èr mén shàng mén shén
 二门不迈: èr mén bù mài
@@ -31557,6 +31560,7 @@
 佛光寺: fó guāng sì
 佛光袴: fó guāng kù
 佛兰德: fó lán dé
+佛兰德斯: fó lán dé sī
 佛兰德斯美术: fó lán dé sī měi shù
 佛兰芒语: fó lán máng yǔ
 佛兰西: fó lán xī
@@ -31619,7 +31623,7 @@
 佛影: fó yǐng
 佛影蔬: fó yǐng shū
 佛律: fó lǜ
-佛徒: fú tú
+佛徒: fó tú
 佛得角: fó dé jiǎo
 佛心: fó xīn
 佛心天子: fó xīn tiān zǐ
@@ -31697,7 +31701,7 @@
 佛罗伦萨: fó luó lún sà
 佛罗伦萨大教堂: fó luó lún sà dà jiào táng
 佛罗安国: fó luó ān guó
-佛罗里达: fú luó lǐ dá
+佛罗里达: fó luó lǐ dá
 佛罗里达半岛: fó luó lǐ dá bàn dǎo
 佛罗里达州: fó luó lǐ dá zhōu
 佛老: fó lǎo
@@ -55328,6 +55332,7 @@
 利手: lì shǒu
 利捷: lì jié
 利改税: lì gǎi shuì
+利斯的明: lì sī dì míng
 利施: lì shī
 利时: lì shí
 利时及物: lì shí jí wù
@@ -77227,6 +77232,7 @@
 吡唎: bǐ lī
 吡唑: bǐ zuò
 吡啶: bǐ dìng
+吡啶斯的明: bǐ dìng sī dì míng
 吡喃: bǐ nán
 吡嗪: bǐ qín
 吡噉: bǐ dàn
@@ -173826,7 +173832,10 @@
 斜边: xié biān
 斜迳: xié jìng
 斜钩: xié gōu
+斜长岩: xié cháng yán
+斜长斑岩: xié cháng bān yán
 斜长石: xié cháng shí
+斜长角闪岩: xié cháng jiǎo shǎn yán
 斜门: xié mén
 斜阳: xié yáng
 斜雁: xié yàn
@@ -174936,6 +174945,7 @@
 新文字: xīn wén zì
 新文学: xīn wén xué
 新文艺: xīn wén yì
+新斯的明: xīn sī dì míng
 新斯科舍: xīn sī kē shè
 新新: xīn xīn
 新新人类: xīn xīn rén lèi
@@ -202753,6 +202763,7 @@
 橄榄石: gǎn lǎn shí
 橄榄绿: gǎn lǎn lǜ
 橄榄色: gǎn lǎn sè
+橄长岩: gǎn cháng yán
 橐中装: tuó zhōng zhuāng
 橐囊: tuó náng
 橐橐: tuó tuó
@@ -204644,6 +204655,8 @@
 正错误地: zhèng cuò wù de
 正镶白旗: zhèng xiāng bái qí
 正长: zhèng cháng
+正长岩: zhèng cháng yán
+正长斑岩: zhèng cháng bān yán
 正长石: zhèng cháng shí
 正门: zhèng mén
 正闰: zhèng rùn
@@ -225416,6 +225429,8 @@
 溴化氰: xiù huà qíng
 溴化钾: xiù huà jiǎ
 溴单质: xiù dān zhì
+溴吡斯的明: xiù bǐ sī dì míng
+溴新斯的明: xiù xīn sī dì míng
 溵溜: yīn liū
 溶体: róng tǐ
 溶剂: róng jì
@@ -245899,6 +245914,7 @@
 甲矟: jiǎ shuò
 甲硝唑: jiǎ xiāo zuò
 甲硫氨酸: jiǎ liú ān suān
+甲硫酸新斯的明: jiǎ liú suān xīn sī dì míng
 甲磺磷定: jiǎ huáng lín dìng
 甲科: jiǎ kē
 甲第: jiǎ dì
@@ -260632,6 +260648,7 @@
 石苑: shí yuàn
 石苔: shí tái
 石英: shí yīng
+石英二长岩: shí yīng èr cháng yán
 石英卤素灯: shí yīng lǔ sù dēng
 石英玻璃: shí yīng bō lí
 石英脉: shí yīng mài
@@ -262905,6 +262922,7 @@
 碱蓬: jiǎn péng
 碱试法: jiǎn shì fǎ
 碱金属: jiǎn jīn shǔ
+碱长花岗岩: jiǎn cháng huā gǎng yán
 碱面儿: jiǎn miàn er
 碳中和: tàn zhōng hé
 碳减排: tàn jiǎn pái
@@ -302731,6 +302749,7 @@
 苏金达: sū jīn dá
 苏钟: sū zhōng
 苏铁: sū tiě
+苏长岩: sū cháng yán
 苏门: sū mén
 苏门六君子: sū mén liù jūn zǐ
 苏门啸: sū mén xiào
@@ -345550,6 +345569,8 @@
 辉辉: huī huī
 辉鑴: huī xī
 辉长岩: huī cháng yán
+辉长玢岩: huī cháng bīn yán
+辉长闪长岩: huī cháng shǎn cháng yán
 辉音: huī yīn
 辉风: huī fēng
 辊子: gǔn zǐ
@@ -368411,6 +368432,7 @@
 钼钢: mù gāng
 钾盐: jiǎ yán
 钾肥: jiǎ féi
+钾长花岗岩: jiǎ cháng huā gǎng yán
 钿函: diàn hán
 钿匣: diàn xiá
 钿合: diàn hé
@@ -372603,6 +372625,7 @@
 长艾: cháng ài
 长苏: cháng sū
 长苞: cháng bāo
+长英岩: cháng yīng yán
 长草区: cháng cǎo qū
 长荣: cháng róng
 长荣海运: cháng róng hǎi yùn
@@ -373418,6 +373441,8 @@
 闪避: shǎn bì
 闪铄: shǎn shuò
 闪错: shǎn cuò
+闪长岩: shǎn cháng yán
+闪长玢岩: shǎn cháng bīn yán
 闪闪: shǎn shǎn
 闪闪藏藏: shǎn shǎn cáng cáng
 闪霍霍: shǎn huò huò
