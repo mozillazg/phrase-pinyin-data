@@ -7963,6 +7963,7 @@
 利尿: lì niào
 利得: lì de
 利息率: lì xī lǜ
+利斯的明: lì sī dì míng
 利欲熏心: lì yù xūn xīn
 利灾乐祸: lì zāi lè huò
 利爪: lì zhuǎ
@@ -11374,6 +11375,7 @@
 吠非其主: fèi fēi qí zhǔ
 吡咯: bǐ gē
 吡啶: bǐ dìng
+吡啶斯的明: bǐ dìng sī dì míng
 否决: fǒu jué
 否决权: fǒu jué quán
 否则: fǒu zé
@@ -23248,6 +23250,7 @@
 新教: xīn jiào
 新文化: xīn wén huà
 新文化运动: xīn wén huà yùn dòng
+新斯的明: xīn sī dì míng
 新正: xīn zhēng
 新生力量: xīn shēng lì liàng
 新疆: xīn jiāng
@@ -28885,6 +28888,8 @@
 溯水行舟: sù shuǐ xíng zhōu
 溯流追源: sù liú zhuī yuán
 溯端竟委: sù duān jìng wěi
+溴吡斯的明: xiù bǐ sī dì míng
+溴新斯的明: xiù xīn sī dì míng
 溵溜: yīn liū
 溶化: róng huà
 溶合: róng hé
@@ -30734,6 +30739,7 @@
 由近及远: yóu jìn jí yuǎn
 甲冠天下: jiǎ guàn tiān xià
 甲壳: jiǎ qiào
+甲硫酸新斯的明: jiǎ liú suān xīn sī dì míng
 甲骨: jiǎ gǔ
 甲骨文: jiǎ gǔ wén
 申令: shēn lìng

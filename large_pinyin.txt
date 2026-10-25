@@ -55332,6 +55332,7 @@
 利手: lì shǒu
 利捷: lì jié
 利改税: lì gǎi shuì
+利斯的明: lì sī dì míng
 利施: lì shī
 利时: lì shí
 利时及物: lì shí jí wù
@@ -77231,6 +77232,7 @@
 吡唎: bǐ lī
 吡唑: bǐ zuò
 吡啶: bǐ dìng
+吡啶斯的明: bǐ dìng sī dì míng
 吡喃: bǐ nán
 吡嗪: bǐ qín
 吡噉: bǐ dàn
@@ -174943,6 +174945,7 @@
 新文字: xīn wén zì
 新文学: xīn wén xué
 新文艺: xīn wén yì
+新斯的明: xīn sī dì míng
 新斯科舍: xīn sī kē shè
 新新: xīn xīn
 新新人类: xīn xīn rén lèi
@@ -225425,6 +225428,8 @@
 溴化氰: xiù huà qíng
 溴化钾: xiù huà jiǎ
 溴单质: xiù dān zhì
+溴吡斯的明: xiù bǐ sī dì míng
+溴新斯的明: xiù xīn sī dì míng
 溵溜: yīn liū
 溶体: róng tǐ
 溶剂: róng jì
@@ -245908,6 +245913,7 @@
 甲矟: jiǎ shuò
 甲硝唑: jiǎ xiāo zuò
 甲硫氨酸: jiǎ liú ān suān
+甲硫酸新斯的明: jiǎ liú suān xīn sī dì míng
 甲磺磷定: jiǎ huáng lín dìng
 甲科: jiǎ kē
 甲第: jiǎ dì

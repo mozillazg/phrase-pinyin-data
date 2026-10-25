@@ -154,6 +154,13 @@
 佛兰德: fó lán dé
 佛兰德斯: fó lán dé sī
 佛朗哥: fó lǎng gē
+# 药物音译名中的“的”读 dì（-stigmine）
+新斯的明: xīn sī dì míng
+溴新斯的明: xiù xīn sī dì míng
+甲硫酸新斯的明: jiǎ liú suān xīn sī dì míng
+吡啶斯的明: bǐ dìng sī dì míng
+溴吡斯的明: xiù bǐ sī dì míng
+利斯的明: lì sī dì míng
 
 
 一分子: yī fèn zǐ
