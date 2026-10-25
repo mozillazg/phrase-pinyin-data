@@ -31560,6 +31560,7 @@
 佛光寺: fó guāng sì
 佛光袴: fó guāng kù
 佛兰德: fó lán dé
+佛兰德斯: fó lán dé sī
 佛兰德斯美术: fó lán dé sī měi shù
 佛兰芒语: fó lán máng yǔ
 佛兰西: fó lán xī
@@ -31622,7 +31623,7 @@
 佛影: fó yǐng
 佛影蔬: fó yǐng shū
 佛律: fó lǜ
-佛徒: fú tú
+佛徒: fó tú
 佛得角: fó dé jiǎo
 佛心: fó xīn
 佛心天子: fó xīn tiān zǐ
@@ -31700,7 +31701,7 @@
 佛罗伦萨: fó luó lún sà
 佛罗伦萨大教堂: fó luó lún sà dà jiào táng
 佛罗安国: fó luó ān guó
-佛罗里达: fú luó lǐ dá
+佛罗里达: fó luó lǐ dá
 佛罗里达半岛: fó luó lǐ dá bàn dǎo
 佛罗里达州: fó luó lǐ dá zhōu
 佛老: fó lǎo

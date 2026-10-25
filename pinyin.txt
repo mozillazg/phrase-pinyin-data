@@ -4991,6 +4991,8 @@
 佛像: fó xiàng
 佛光: fó guāng
 佛光寺: fó guāng sì
+佛兰德: fó lán dé
+佛兰德斯: fó lán dé sī
 佛典: fó diǎn
 佛口蛇心: fó kǒu shé xīn
 佛号: fó hào
@@ -5004,7 +5006,8 @@
 佛寺: fó sì
 佛山: fó shān
 佛山市: fó shān shì
-佛徒: fú tú
+佛徒: fó tú
+佛得角: fó dé jiǎo
 佛心蛇口: fó xīn shé kǒu
 佛性: fó xìng
 佛性禅心: fó xìng chán xīn
@@ -5012,6 +5015,7 @@
 佛手柑: fó shǒu gān
 佛教: fó jiào
 佛教徒: fó jiào tú
+佛朗哥: fó lǎng gē
 佛殿: fó diàn
 佛法: fó fǎ
 佛爷: fó yé
@@ -5024,6 +5028,10 @@
 佛系: fó xì
 佛经: fó jīng
 佛罗伦萨: fó luó lún sà
+佛罗里达: fó luó lǐ dá
+佛罗里达州: fó luó lǐ dá zhōu
+佛蒙特: fó méng tè
+佛蒙特州: fó méng tè zhōu
 佛门: fó mén
 佛门弟子: fó mén dì zǐ
 佛陀: fó tuó
@@ -11861,6 +11869,8 @@
 哇啦: wā lā
 哇塞: wā sāi
 哈什蚂: hà shí mǎ
+哈佛: hā fó
+哈佛大学: hā fó dà xué
 哈哈: hā hā
 哈哈镜: hā hā jìng
 哈喇: hā lǎ

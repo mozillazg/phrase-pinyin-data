@@ -142,6 +142,18 @@
 辉长闪长岩: huī cháng shǎn cháng yán
 石英二长岩: shí yīng èr cháng yán
 长英岩: cháng yīng yán
+# 音译词中的“佛”读 fó
+哈佛: hā fó
+哈佛大学: hā fó dà xué
+佛徒: fó tú
+佛得角: fó dé jiǎo
+佛罗里达: fó luó lǐ dá
+佛罗里达州: fó luó lǐ dá zhōu
+佛蒙特: fó méng tè
+佛蒙特州: fó méng tè zhōu
+佛兰德: fó lán dé
+佛兰德斯: fó lán dé sī
+佛朗哥: fó lǎng gē
 
 
 一分子: yī fèn zǐ
