@@ -123,6 +123,25 @@
 行长: háng zhǎng
 乡长: xiāng zhǎng
 闪长岩: shǎn cháng yán
+# 地质学术语中的“长”读 cháng
+辉长岩: huī cháng yán
+正长岩: zhèng cháng yán
+斜长岩: xié cháng yán
+二长岩: èr cháng yán
+苏长岩: sū cháng yán
+橄长岩: gǎn cháng yán
+闪长玢岩: shǎn cháng bīn yán
+辉长玢岩: huī cháng bīn yán
+斜长斑岩: xié cháng bān yán
+正长斑岩: zhèng cháng bān yán
+二长花岗岩: èr cháng huā gǎng yán
+钾长花岗岩: jiǎ cháng huā gǎng yán
+碱长花岗岩: jiǎn cháng huā gǎng yán
+斜长角闪岩: xié cháng jiǎo shǎn yán
+二长闪长岩: èr cháng shǎn cháng yán
+辉长闪长岩: huī cháng shǎn cháng yán
+石英二长岩: shí yīng èr cháng yán
+长英岩: cháng yīng yán
 
 
 一分子: yī fèn zǐ

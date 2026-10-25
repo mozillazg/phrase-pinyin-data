@@ -3393,6 +3393,9 @@
 二重性: èr chóng xìng
 二重根: èr chóng gēn
 二锅头: èr guō tóu
+二长岩: èr cháng yán
+二长花岗岩: èr cháng huā gǎng yán
+二长闪长岩: èr cháng shǎn cháng yán
 二面角: èr miàn jiǎo
 二龙戏珠: èr lóng xì zhū
 于今为烈: yú jīn wéi liè
@@ -23155,6 +23158,9 @@
 斜拉桥: xié lā qiáo
 斜行横阵: xié xíng héng zhèn
 斜街: xié jiē
+斜长岩: xié cháng yán
+斜长斑岩: xié cháng bān yán
+斜长角闪岩: xié cháng jiǎo shǎn yán
 斜风细雨: xié fēng xì yǔ
 斠若画一: jiào ruò huà yī
 斡旋: wò xuán
@@ -26405,6 +26411,7 @@
 橄榄石: gǎn lǎn shí
 橄榄绿: gǎn lǎn lǜ
 橄榄色: gǎn lǎn sè
+橄长岩: gǎn cháng yán
 橘化为枳: jú huà wéi zhǐ
 橘子: jú zi
 橘子汁: jú zi zhī
@@ -26694,6 +26701,8 @@
 正轨: zhèng guǐ
 正途: zhèng tú
 正道: zhèng dào
+正长岩: zhèng cháng yán
+正长斑岩: zhèng cháng bān yán
 正门: zhèng mén
 正阳: zhèng yáng
 正面: zhèng miàn
@@ -32418,6 +32427,7 @@
 石臼: shí jiù
 石舫: shí fǎng
 石英: shí yīng
+石英二长岩: shí yīng èr cháng yán
 石英玻璃: shí yīng bō lí
 石英表: shí yīng biǎo
 石英钟: shí yīng zhōng
@@ -32646,6 +32656,7 @@
 碰钉子: pèng dīng zi
 碱地: jiǎn dì
 碱金属: jiǎn jīn shǔ
+碱长花岗岩: jiǎn cháng huā gǎng yán
 碱面儿: jiǎn miàn er
 碳化物: tàn huà wù
 碳化硅: tàn huà guī
@@ -36716,6 +36727,7 @@
 苏绣: sū xiù
 苏维埃: sū wéi āi
 苏醒: sū xǐng
+苏长岩: sū cháng yán
 苔藓: tái xiǎn
 苕帚: tiáo zhǒu
 苗头: miáo tou
@@ -41173,6 +41185,9 @@
 辈数: bèi shù
 辈数儿: bèi shù ér
 辉石: huī shí
+辉长岩: huī cháng yán
+辉长玢岩: huī cháng bīn yán
+辉长闪长岩: huī cháng shǎn cháng yán
 辊轴: gǔn zhóu
 辍毫栖牍: chuò háo qī dú
 辎重: zī zhòng
@@ -43281,6 +43296,7 @@
 钻营: zuān yíng
 钻谋: zuān móu
 钻隙逾墙: zuān xì yú qiáng
+钾长花岗岩: jiǎ cháng huā gǎng yán
 钿合金钗: diàn hé jīn chāi
 铁中铮铮: tiě zhōng zhēng zhēng
 铁了心: tiě le xīn
@@ -43755,6 +43771,7 @@
 长舌: cháng shé
 长舌之妇: cháng shé zhī fù
 长舌妇: cháng shé fù
+长英岩: cháng yīng yán
 长虑却顾: cháng lǜ què gù
 长虑后顾: cháng lǜ hòu gù
 长虑顾后: cháng lǜ gù hòu
@@ -43855,6 +43872,7 @@
 闪烁其辞: shǎn shuò qí cí
 闪过: shǎn guò
 闪长岩: shǎn cháng yán
+闪长玢岩: shǎn cháng bīn yán
 闭会: bì huì
 闭关却扫: bì guān què sǎo
 闭卷: bì juàn

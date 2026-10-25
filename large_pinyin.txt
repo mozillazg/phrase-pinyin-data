@@ -20116,6 +20116,9 @@
 二钺: èr yuè
 二铢钱: èr zhū qián
 二锅头: èr guō tóu
+二长岩: èr cháng yán
+二长花岗岩: èr cháng huā gǎng yán
+二长闪长岩: èr cháng shǎn cháng yán
 二门: èr mén
 二门上门神: èr mén shàng mén shén
 二门不迈: èr mén bù mài
@@ -173826,7 +173829,10 @@
 斜边: xié biān
 斜迳: xié jìng
 斜钩: xié gōu
+斜长岩: xié cháng yán
+斜长斑岩: xié cháng bān yán
 斜长石: xié cháng shí
+斜长角闪岩: xié cháng jiǎo shǎn yán
 斜门: xié mén
 斜阳: xié yáng
 斜雁: xié yàn
@@ -202753,6 +202759,7 @@
 橄榄石: gǎn lǎn shí
 橄榄绿: gǎn lǎn lǜ
 橄榄色: gǎn lǎn sè
+橄长岩: gǎn cháng yán
 橐中装: tuó zhōng zhuāng
 橐囊: tuó náng
 橐橐: tuó tuó
@@ -204644,6 +204651,8 @@
 正错误地: zhèng cuò wù de
 正镶白旗: zhèng xiāng bái qí
 正长: zhèng cháng
+正长岩: zhèng cháng yán
+正长斑岩: zhèng cháng bān yán
 正长石: zhèng cháng shí
 正门: zhèng mén
 正闰: zhèng rùn
@@ -260631,6 +260640,7 @@
 石苑: shí yuàn
 石苔: shí tái
 石英: shí yīng
+石英二长岩: shí yīng èr cháng yán
 石英卤素灯: shí yīng lǔ sù dēng
 石英玻璃: shí yīng bō lí
 石英脉: shí yīng mài
@@ -262904,6 +262914,7 @@
 碱蓬: jiǎn péng
 碱试法: jiǎn shì fǎ
 碱金属: jiǎn jīn shǔ
+碱长花岗岩: jiǎn cháng huā gǎng yán
 碱面儿: jiǎn miàn er
 碳中和: tàn zhōng hé
 碳减排: tàn jiǎn pái
@@ -302730,6 +302741,7 @@
 苏金达: sū jīn dá
 苏钟: sū zhōng
 苏铁: sū tiě
+苏长岩: sū cháng yán
 苏门: sū mén
 苏门六君子: sū mén liù jūn zǐ
 苏门啸: sū mén xiào
@@ -345549,6 +345561,8 @@
 辉辉: huī huī
 辉鑴: huī xī
 辉长岩: huī cháng yán
+辉长玢岩: huī cháng bīn yán
+辉长闪长岩: huī cháng shǎn cháng yán
 辉音: huī yīn
 辉风: huī fēng
 辊子: gǔn zǐ
@@ -368410,6 +368424,7 @@
 钼钢: mù gāng
 钾盐: jiǎ yán
 钾肥: jiǎ féi
+钾长花岗岩: jiǎ cháng huā gǎng yán
 钿函: diàn hán
 钿匣: diàn xiá
 钿合: diàn hé
@@ -372602,6 +372617,7 @@
 长艾: cháng ài
 长苏: cháng sū
 长苞: cháng bāo
+长英岩: cháng yīng yán
 长草区: cháng cǎo qū
 长荣: cháng róng
 长荣海运: cháng róng hǎi yùn
@@ -373418,6 +373434,7 @@
 闪铄: shǎn shuò
 闪错: shǎn cuò
 闪长岩: shǎn cháng yán
+闪长玢岩: shǎn cháng bīn yán
 闪闪: shǎn shǎn
 闪闪藏藏: shǎn shǎn cáng cáng
 闪霍霍: shǎn huò huò
