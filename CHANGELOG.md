@@ -1,6 +1,14 @@
 # ChangeLog
 
 
+## [0.20.0] (2026-11-01)
+
+* 新增电子术语 `浮栅` 的拼音。
+* 纠正 `乡长`、地质学术语中的 `长`、音译词中的 `佛` 及药物音译名中的 `的` 等词语的拼音。
+* 修复 `make cedict` 命令并更新 `cc_cedict` 数据。
+* 补充繁体词条 `相機`、`照相機` 等的拼音。
+
+
 ## [0.19.0] (2025-07-20)
 
 * 纠正 `九重`, `放大率`, `标识` 的拼音。
@@ -263,6 +271,10 @@
 [#42]: https://github.com/mozillazg/phrase-pinyin-data/issues/42
 [#43]: https://github.com/mozillazg/phrase-pinyin-data/issues/43
 [#53]: https://github.com/mozillazg/phrase-pinyin-data/issues/53
+[#59]: https://github.com/mozillazg/phrase-pinyin-data/pull/59
+[#60]: https://github.com/mozillazg/phrase-pinyin-data/pull/60
+[#61]: https://github.com/mozillazg/phrase-pinyin-data/pull/61
+[#62]: https://github.com/mozillazg/phrase-pinyin-data/pull/62
 [#35]: https://github.com/mozillazg/phrase-pinyin-data/pull/35
 [af5d783]: https://github.com/mozillazg/phrase-pinyin-data/commit/af5d7831b0e84e4a5306e304b3b2da3268e35f17
 [3b62ed3]: https://github.com/mozillazg/phrase-pinyin-data/commit/3b62ed303f129868c7ccee4f2d5e44dcea7d30d4
@@ -286,3 +298,4 @@
 [0.17.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.16.0...v0.17.0
 [0.18.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.17.0...v0.18.0
 [0.19.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.18.0...v0.19.0
+[0.20.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.19.0...v0.20.0
