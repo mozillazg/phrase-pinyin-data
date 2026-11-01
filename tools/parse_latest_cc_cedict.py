@@ -27,14 +27,15 @@ def tone3_to_tone1(tone3):
     # 儿化
     if tone3 == 'r5':
         return 'er'
+    # 律
+    # 必须在处理轻声之前转换，否则 nu:5 会被转换成 nu:
+    if 'u:' in tone3:
+        tone3 = tone3.replace('u:', 'v')
     # 轻声
     if '5' in tone3:
         new = tone3.replace('5', '')
         if new:
-            return new
-    # 律
-    if 'u:' in tone3:
-        tone3 = tone3.replace('u:', 'v')
+            return new.replace('v', 'ü')
 
     return tone3_2_tone_dict[tone3]
 
