@@ -29591,6 +29591,7 @@
 照猫画虎: zhào māo huà hǔ
 照相: zhào xiàng
 照相机: zhào xiàng jī
+照相機: zhào xiàng jī
 照相版: zhào xiàng bǎn
 照相簿: zhào xiàng bù
 照相纸: zhào xiàng zhǐ
@@ -31797,6 +31798,10 @@
 相机: xiàng jī
 相机而动: xiàng jī ér dòng
 相机行事: xiàng jī xíng shì
+相機: xiàng jī
+相機而動: xiàng jī ér dòng
+相機而行: xiàng jī ér xíng
+相機行事: xiàng jī xíng shì
 相比: xiāng bǐ
 相沿: xiāng yán
 相沿成习: xiāng yán chéng xí
