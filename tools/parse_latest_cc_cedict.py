@@ -3,23 +3,24 @@
 import os
 import re
 import codecs
+from pypinyin.contrib.tone_convert import to_tone3, tone3_to_tone
 from pypinyin.pinyin_dict import pinyin_dict
-from pypinyin.style.tone import ToneConverter
 
 TOOLS_DIR = os.path.dirname(os.path.realpath(__file__))
 ROOT = os.path.dirname(TOOLS_DIR)
 
 
-tone_converter = ToneConverter()
-tone3_2_tone_dict = {}
+tone3_set = set()
+tone3_normal_set = set()
 for k, v in pinyin_dict.items():
     parts = v.split(',')
     for part in parts:
         part = part.strip()
         if part:
-            tone3 = tone_converter.to_tone3(part).strip().lower()
+            tone3 = to_tone3(part).strip().lower()
             if tone3:
-                tone3_2_tone_dict[tone3] = part
+                tone3_set.add(tone3)
+                tone3_normal_set.add(re.sub(r'\d+$', '', tone3))
 
 
 def tone3_to_tone1(tone3):
@@ -34,10 +35,12 @@ def tone3_to_tone1(tone3):
     # 轻声
     if '5' in tone3:
         new = tone3.replace('5', '')
-        if new:
-            return new.replace('v', 'ü')
+        if new in tone3_normal_set:
+            return tone3_to_tone(new)
+    if tone3 in tone3_set:
+        return tone3_to_tone(tone3)
 
-    return tone3_2_tone_dict[tone3]
+    raise KeyError(tone3)
 
 
 if __name__ == '__main__':
