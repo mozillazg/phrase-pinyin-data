@@ -613,6 +613,12 @@
 相扑: xiāng pū
 相术: xiàng shù
 相机行事: xiàng jī xíng shì
+# 繁体词条
+相機: xiàng jī
+相機而動: xiàng jī ér dòng
+相機而行: xiàng jī ér xíng
+相機行事: xiàng jī xíng shì
+照相機: zhào xiàng jī
 看财奴: kān cái nú
 看青: kān qīng
 真相毕露: zhēn xiàng bì lù

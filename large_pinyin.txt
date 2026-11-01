@@ -231726,6 +231726,7 @@
 照相弹: zhào xiàng dàn
 照相排版: zhào xiàng pái bǎn
 照相机: zhào xiàng jī
+照相機: zhào xiàng jī
 照相枪: zhào xiàng qiāng
 照相版: zhào xiàng bǎn
 照相簿: zhào xiàng bù
@@ -256210,6 +256211,10 @@
 相机而动: xiàng jī ér dòng
 相机而行: xiàng jī ér xíng
 相机行事: xiàng jī xíng shì
+相機: xiàng jī
+相機而動: xiàng jī ér dòng
+相機而行: xiàng jī ér xíng
+相機行事: xiàng jī xíng shì
 相杀: xiāng shā
 相杂: xiāng zá
 相权: xiāng quán
