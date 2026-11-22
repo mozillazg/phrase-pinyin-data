@@ -1,4 +1,4 @@
-# version: 0.20.0
+# version: 0.20.1
 # source: https://github.com/mozillazg/phrase-pinyin-data
 㐖毒: xié dú
 㓥房: tāng fáng
