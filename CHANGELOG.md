@@ -1,6 +1,12 @@
 # ChangeLog
 
 
+## [0.20.1] (2026-11-22)
+
+* 更新 `cc_cedict` 数据。
+* 纠正 `打鸡血`、`眼不转睛` 的拼音。
+
+
 ## [0.20.0] (2026-11-01)
 
 * 新增电子术语 `浮栅` 的拼音。
@@ -299,3 +305,4 @@
 [0.18.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.17.0...v0.18.0
 [0.19.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.18.0...v0.19.0
 [0.20.0]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.19.0...v0.20.0
+[0.20.1]: https://github.com/mozillazg/phrase-pinyin-data/compare/v0.20.0...v0.20.1
