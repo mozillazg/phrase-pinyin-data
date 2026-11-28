@@ -18355,6 +18355,7 @@
 弹劾案: tán hé àn
 弹壳: dàn ké
 弹头: dàn tóu
+弹奏: tán zòu
 弹子: dàn zǐ
 弹子房: dàn zǐ fáng
 弹射: tán shè
@@ -18493,6 +18494,7 @@
 强食靡角: qiǎng shí mí jiǎo
 强龙不压地头蛇: qiáng lóng bù yā dì tóu shé
 彀中: gòu zhōng
+彈奏: tán zòu
 归之若水: guī zhī ruò shuǐ
 归功于: guī gōng yú
 归化: guī huà
@@ -35621,6 +35623,7 @@
 联奏: lián zòu
 联展: lián zhǎn
 联席会议: lián xí huì yì
+联弹: lián tán
 联检: lián jiǎn
 联票: lián piào
 联篇累牍: lián piān lěi dú
@@ -35651,6 +35654,7 @@
 聪明反被聪明误: cōng míng fǎn bèi cōng míng wù
 聪明智能: cōng míng zhì néng
 聪明正直: cōng míng zhèng zhí
+聯彈: lián tán
 聱牙诘屈: áo yá jié qū
 聱牙诘曲: áo yá jié qū
 肃毒: sù dú
