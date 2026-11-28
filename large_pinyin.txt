@@ -135825,6 +135825,7 @@
 彀骑: gòu qí
 彄沓: kōu tà
 彄环: kōu huán
+彈奏: tán zòu
 彍弩: kuò nǔ
 彍骑: kuò qí
 归一: guī yī
@@ -293970,6 +293971,7 @@
 联席会议: lián xí huì yì
 联席董事: lián xí dǒng shì
 联延: lián yán
+联弹: lián tán
 联想: lián xiǎng
 联想学习: lián xiǎng xué xí
 联想起: lián xiǎng qǐ
@@ -294277,6 +294279,7 @@
 聪颖: cōng yǐng
 聪黠: cōng xiá
 聬聬: wēng wēng
+聯彈: lián tán
 聱取: áo qǔ
 聱叟: áo sǒu
 聱屈: áo qū
